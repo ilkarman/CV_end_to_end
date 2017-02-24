@@ -1,0 +1,3 @@
+# Used: https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-centos-7
+
+# Notes: sockets did not work

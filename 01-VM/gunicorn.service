@@ -1,0 +1,12 @@
+[Unit]
+Description=gunicorn daemon
+After=network.target
+
+[Service]
+User=iliauk
+Group=nginx
+WorkingDirectory=/home/iliauk/App
+ExecStart=/anaconda/envs/py35/bin/gunicorn --name App --workers 3 --user iliauk --group nginx --log-level debug --error-logfile /home/iliauk/App/logs/error.log --bind 0.0.0.0:5000 model:app
+
+[Install]
+WantedBy=multi-user.target

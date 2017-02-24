@@ -1,0 +1,11221 @@
+benthos
+hücre
+kişi
+hayvan
+bitki
+Gıda
+eser
+atlama
+giriş
+terbiye
+P YAF
+Funambulizm
+Kaya tırmanışı
+temas sporu
+açık hava spor
+Jimnastik
+akrobasi
+Atletizm
+iz
+geniş atlama
+Yüksek atlayış
+kayak yapma
+cross-country kayak
+kayak atlayışı
+su sporu
+yüzme
+yıkanmak
+daldırma
+dalış
+yüzer
+yamaç dalışı
+çevirmek
+aletsiz dalma
+tüplü dalış
+şnorkel
+sörf yapmak
+su kayağı
+kürek çekme
+sculling
+boks
+profesyonel boks
+kavga
+direk
+okçuluk
+kızakla taşıma
+kızakla kayma
+Kızak
+güreş
+Greko-Romen güreş
+profesyonel güreş
+sumo
+paten kaymak
+buz pateni
+artistik patinaj
+paten
+tekerlekli patenle kayma
+kaykay yapmak
+hız Pateni
+yarış
+araba yarışı
+bot yarışı
+hydroplane yarış
+deve yarışı
+tazı yarışı
+at yarışı
+binme
+atlı spor
+midilli-doğa yürüyüşü
+showjumping
+cross-country sürme
+bisiklet sürmek
+bisiklet
+motosiklet
+boğa güreşi
+horoz dövüşü
+av
+Tazı Avı
+köpekle kovalama
+geyik avı
+ıslanma
+Tilki avı
+Balık tutma
+olta ile balık tutma
+fly-fishing
+trol
+döküm
+döküm sinek
+sörf döküm
+gün oyunu
+atletik oyun
+buz Hokeyi
+tetherball
+sutopu
+açık oyun
+golf
+profesyonel golf
+golf yuvarlak
+madalya oyun
+maç oynamak
+minyatür golf
+kroket
+halka atma oyunu
+disk iteleme oyunu
+alan oyunu
+çim Hokeyi
+tırmanmak
+Futbol
+Amerikan futbolu
+profesyonel futbol
+futbol dokunma
+İrlanda hokeyi
+Ragbi
+top oyunu
+beyzbol
+top
+profesyonel beyzbol
+no-hit oyun
+İki vurucu
+Üç-hitter
+Dört hitter
+voleybol
+Stickball
+kriket
+hokey benzeri top oyunu
+polo
+Futbol
+mahkeme oyunu
+hentbol
+Badminton
+kabak
+voleybol
+jai alai
+badminton
+basketbol
+profesyonel basketbol
+netball
+tenis
+profesyonel tenis
+tekler
+tekler
+çiftler
+çiftler
+kraliyet tenis
+pallone
+spor
+judo
+takım sporu
+kamp yapmak
+haşere
+yaratık
+ürpertici-tüyler ürpertici
+dikizci
+çöpçü
+yük hayvanı
+koşum hayvanı
+Evcil Hayvan
+besleyici
+besleyici
+yavru
+baş
+Evcil Hayvan
+deniz hayvanı
+tavuk
+erkek
+yetişkin
+genç
+yetim
+genç memeli
+bebek
+delikanlı
+kurt yavru
+köpek yavrusu
+yavru
+Aslan yavrusu
+ayı yavrusu
+Kaplan yavrusu
+malzeme
+süt kuzusu
+baba
+baraj
+safkan
+etobur
+otobur hayvan
+mikroorganizma
+uçuk
+herpes simpleks 1
+zona
+Herpes varicella zoster
+sitomegalovirüs
+varicella zoster virüsü
+stafilokok
+streptokok
+zooplankton
+endameba
+amip
+siliyat
+Amip
+yosun
+seagrass
+kahverengi algler
+fucus
+yeşil alg
+göl pisliği
+ökaryot
+sporozoon
+Plasmodium
+çoprabalığı
+sazan
+sazan
+kilizbalığı
+çamça
+golyan balığı
+enayi
+Akvaryum balığı
+havuz balığı
+yılan balığı
+killifish
+çizgili killifish
+Rivulus
+swordtail
+lebistes
+topminnow
+Sivrisinek
+platy
+soldierfish
+dülgerbalığı
+cornetfish
+pipefish
+Denizatı
+trumpetfish
+cenin
+blastosist
+gastrula
+yumurta sarısı
+gömlekli
+ascidian
+deniz fışkırtma
+omurgalı
+Amniota
+taşemen
+deniz taşemen
+elasmobranch
+Köpekbalığı
+dev köpekbalığı
+mako
+büyük beyaz köpek balığı
+büyük camgöz
+hemşire köpekbalığı
+kum kaplan
+balina köpekbalığı
+Boğa köpekbalığı
+sandbar köpekbalığı
+siyah uçlu köpek balığı
+whitetip köpekbalığı
+koyu köpekbalığı
+limon köpekbalığı
+mavi köpekbalığı
+Kaplan köpek balığı
+kedibalığı
+smoothhound
+whitetip köpekbalığı
+çekiç balığı
+ShovelHead
+melek köpekbalığı
+ışın
+torpilbalığı
+testere balığı
+vatoz
+kartal ray
+benekli kartal ray
+tropik dev balık
+Atlantik manta
+paten
+kuş
+dickeybird
+yavru kuş
+yavru kuş
+horoz
+dövüş horozu
+tavuk
+göçmen kuş
+karinasız
+carinate
+devekuşu
+cassowary
+koşucu devekuşu
+kivi
+rhea
+rhea
+passerine
+ötücü kuş
+accentor
+çit serçe
+toygar
+tarlakuşu
+sarı kuyruksallayan
+incirkuşu
+çayır incir kuşu
+ispinoz
+ispinoz
+brambling
+saka kuşu
+ketenkuşu
+karabaşlı iskete
+kızıl inek
+kızıl inek
+Yeni Dünya saka kuşu
+çam siskin
+evin ispinoz
+mor ispinoz
+kanarya
+ortak kanarya
+kanarya
+crossbill
+şakrakkuşu
+junco
+Kara Gözlü Junko
+vesper serçe
+beyaz boğazlı serçe
+Beyaz taçlı serçe
+yontma serçe
+alan serçe
+ağaç serçesi
+şarkı serçe
+bataklık serçesi
+kiraz kuşu
+indigo kiraz kuşu
+ortolan
+saz kiraz kuşu
+yellowhammer
+kar ispinozu
+Honeycreeper
+serçe
+İngilizce serçe
+ağaç serçesi
+ispinozgillerden kuş
+akşam kocabaşı
+flurcan
+çam grosbeak
+kardinal
+pyrrhuloxia
+Towhee
+dokumacı
+baya
+Java serçe
+zebra ispinozu
+Honeycreeper
+lyrebird
+scrubbird
+broadbill
+Yeni Dünya flycatcher
+kingbird
+Arkansas kingbird
+doğu kingbird
+gri kingbird
+Pewee
+Batı ahşap Pewee
+phoebe
+vermillion flycatcher
+Kayanın horoz
+Kayanın horoz
+manakin
+Bellbird
+ovenbird
+antbird
+woodhewer
+pide
+scissortail
+Sinekkapangiller
+benekli sinekkapan
+pamukçuk
+ökseardıcı pamukçuk
+öter ardıç kuşu
+ardıçkuşu
+kırmızı kanat
+karatavuk
+kolyeli ardıçkuşu
+narbülbülü
+keşiş pamukçuk
+veery
+ahşap pamukçuk
+bülbül
+pamukçuk bülbül
+bulbul
+Eski Dünya sohbet
+Stonechat
+Whinchat
+kızılkuyruk
+kuyrukkakan kuşu
+Mavikuş
+narbülbülü
+Bluethroat
+çalı bülbülü
+gnatcatcher
+kralcık
+çalıkuşu
+Yakut tepeli çalı kuşu
+Eski Dünya ötleğen
+karabaşlı yalı bülbülü
+daha ötleğen
+küçük akgerdan
+orman Çıvgını
+çilardıcı
+çalıkuşu ötleğen
+terzi kuşu
+geveze
+Orman Ötleğenigiller
+Parula ötleğen
+Wilson'ın ötleğen
+Amerikan redstart
+Cape May ötleğen
+sarı ötleğen
+Siyah yanık
+Audubon bülbülü
+mersin ötleğen
+blackpoll
+Yeni Dünya sohbet
+Sarı-göğüslü sohbet
+ovenbird
+su pamukçuk
+yellowthroat
+ortak yellowthroat
+Amerika Sarıasması
+kuzey oriole
+Baltimore oriole
+Bullock oriole
+orchard oriole
+çayırkuşu
+doğu meadowlark
+batı meadowlark
+bobolink
+Yeni Dünya karatavuk
+grackle
+mor grackle
+paslı karatavuk
+inek kuşu
+kırmızı kanatlı karatavuk
+Sarıasmagiller
+sarıasma
+sığırcık
+sığırcık
+myna
+tepeli myna
+tepe myna
+karga kuş
+karga
+Amerikan karga
+kuzgun
+kale
+küçük karga
+kızılca karga
+alakarga
+mavi alakarga
+Kanada jay
+fındıkkıran
+Clark'ın fındıkkıran
+saksağan
+Avrupa saksağan
+Avustralya saksağan
+butcherbird
+Currawong
+boru karga
+çalıkuşu
+kış çalıkuşu
+evin çalıkuşu
+bataklık çit kuşu
+Uzun gagalı bataklık çit kuşu
+saz çit kuşu
+kaya çit kuşu
+Carolina çalıkuşu
+kaktüs çalıkuşu
+alaycı kuş
+alaycı kuş
+batöz
+kahverengi thrasher
+kaya çit kuşu
+sarmaşık
+kahverengi sarmaşık
+Avrupa sarmaşık
+Avrupa sıvacıkuşu
+kırmızı göğüslü sıvacı kuşu
+Ak göğüslü sıvacı kuşu
+baştankara
+chickadee
+Siyah başlıklı chickadee
+püsküllü titmouse
+Carolina chickadee
+mavi baştankara
+bushtit
+peri bluebird
+yutmak
+kır kırlangıcı
+uçurum kırlangıç
+ağaç yutmak
+beyaz göbekli yutmak
+pencere kırlangıcı
+banka martin
+mor martin
+ahşap kırlangıç
+tanager
+kırmızı tanager
+batı tanager
+yaz tanager
+örümcekkuşu
+butcherbird
+Avrupa shrike
+kuzey shrike
+loggerhead shrike
+çalı shrike
+bowerbird
+saten bowerbird
+su ouzel
+vireo
+kırmızı gözlü vireo
+Mavi kafalı vireo
+waxwing
+sedir waxwing
+Bohemian waxwing
+yırtıcı kuş
+Accipitriformes
+şahin
+atmaca
+atmaca
+Cooper'ın şahin
+paçalı şahin
+Kırmızı omuzlu şahin
+şahin
+bal şahin
+uçurtma
+siyah uçurtma
+kırlangıç ​​kuyruklu çaylak
+Ak kuyruklu çaylak
+yağmacı
+saz delicesi
+Montagu'nun delicesi
+bataklık şahin
+delicesi kartal
+şahin
+peregrine
+akdoğan
+kerkenez
+atmaca
+güvercin şahin
+hobi
+caracara
+carancha
+kartal
+genç kuş
+kartal yavrusu
+vampir kadın
+altın Kartal
+esmer kartal
+kel kartal
+deniz kartal
+Kamchatkan deniz kartal
+ern
+balıkçılık kartal
+balıkkartalı
+akbaba
+kızıl akbaba
+sakallı akbaba
+Mısır akbaba
+Kara akbaba
+sekreter kuşu
+şahin
+Güney Amerika akbabası
+And condor
+Kaliforniya condor
+Kara akbaba
+kral akbaba
+baykuş
+owlet
+küçük baykuş
+orman baykuşu
+Amerika Puhusu
+Büyük gri baykuş
+alaca baykuş
+çizgili baykuş
+cüce baykuş
+cüce baykuş
+cüce baykuş
+benekli baykuş
+Eski Dünya baykuş scops
+şahin baykuş
+Kulaklı Orman Baykuşu
+peçeli baykuş
+amfibi
+urodele
+semender
+Avrupa yangın semenderi
+benekli semender
+semender
+ortak semender
+kırmızı eft
+Taricha granulosa
+semender
+benekli semender
+kaplan semender
+Axolotl
+baş belâsı
+dev semender
+dicamptodon
+Doğu kırmızı sırtlı semender
+koyu semender
+ince semender
+kurbağa
+gerçek kurbağa
+ahşap kurbağa
+leopar kurbağa
+bullfrog
+yeşil kurbağa
+pickerel kurbağa
+çim kurbağa
+havlayan kurbağa
+crapaud
+ağaç kurbağası
+kuyruklu kurbağa
+Kara Kurbağasıgiller
+bufo
+agua
+Avrupa kurbağası
+haçlı karakurbağası
+Amerikan kurbağası
+Avrasya yeşil kurbağa
+Teksas kurbağa
+batı kurbağası
+obstetrik kurbağası
+Yangın karınlı kurbağa
+spadefoot
+ağaç kurbağası
+bahar peeper
+kanyon Treefrog
+koro kurbağa
+Afrika pençeli kurbağası
+sürüngen
+kaplumbağa
+kaplumbağa
+Deniz kaplumbağası
+yeşil kaplumbağa
+Caretta
+ridley
+Atlantik ridley
+Pasifik ridley
+hawksbill kaplumbağa
+leatherback kaplumbağa
+yakalamaya kaplumbağa
+Ortak yakalamaya kaplumbağa
+timsah kapan kaplumbağası
+çamur kaplumbağa
+misk kaplumbağa
+tatlısu kaplumbağası
+baklava terrapin
+Kırmızı-karınlı kaplumbağa
+kaydırıcı
+Cooter
+kutu kaplumbağa
+Batı kutusu kaplumbağa
+boyalı kaplumbağa
+tosbağa
+Avrupa kaplumbağa
+dev kaplumbağa
+gopher kaplumbağa
+çöl kaplumbağası
+yumuşak kabuklu kaplumbağa
+tuatara
+kertenkele
+geko
+bantlı gecko
+ortak iguana
+deniz iguana
+çöl iguana
+chuckwalla
+kulaksız kertenkele
+yakalı kertenkele
+leopar kertenkele
+dikenli kertenkele
+çit kertenkele
+Batı çit kertenkele
+Doğu çit kertenkele
+Yan blotched kertenkele
+ağaç kertenkelesi
+boynuzlu kertenkele
+Teksas boynuzlu kertenkele
+basilikos
+Amerikan bukalemun
+gece kertenkele
+skink
+batı skink
+whiptail
+Agamid
+agama
+Fırfırlı kertenkele
+dağ şeytan
+timsah kertenkele
+blindworm
+bacaksız kertenkele
+Gila canavarı
+boncuklu kertenkele
+kum kertenkelesi
+yeşil kertenkele
+bukalemun
+Afrika bukalemun
+izlemek
+Afrika monitör
+Komodo Ejderhası
+crocodilian sürüngen
+timsah
+Afrika timsah
+Asya timsah
+timsah
+Amerikan timsah
+Çin timsah
+Kayman
+gavial
+stegosaur
+triceratops
+tyrannosaur
+yılan
+colubrid yılan
+gök yılan
+ringneck yılan
+hognose yılan
+yeşil yılan
+pürüzsüz yeşil yılan
+kaba yeşil yılan
+yeşil yılan
+yarışçı
+Siyah yılan
+kamçı yılan
+California whipsnake
+sıçan yılan
+mısır yılan
+siyah sıçan yılan
+parlak yılan
+boğa yılanı
+keseli yılan
+çam yılan
+kral yılan
+ortak kingsnake
+süt yılan
+jartiyer yılan
+ortak jartiyer yılan
+şerit yılan
+su yılanı
+Ortak su yılanı
+su mokasen
+çim yılanı
+viperine çim yılan
+kum yılan
+asma yılan
+gece yılan
+kör yılan
+indigo yılan
+boa yılanı
+boa yılanı
+Boa yılanı
+pembe boa
+anakonda
+piton
+halı yılan
+ağsı piton
+Hint piton
+kaya piton
+elapid
+mercan yılan
+Doğu mercan yılan
+mercan yılan
+zehirli yılan
+kobra
+Hint kobra
+siyah boyunlu kobra
+hamadryad
+Ringhals
+mamba
+siyah mamba
+yeşil mamba
+ölüm engerek
+kaplan yılanı
+Krait
+yabancı şirket müdürü
+deniz yılanı
+engerek
+engerek
+asp
+şişen engerek
+gaboon engerek
+Mısır engereği
+çukur engerek
+zehirli yılan
+su mokasen
+çıngıraklı yılan
+elmassırtlı
+kereste çıngıraklı yılan
+kır çıngıraklı yılan
+çıngıraklı yılan
+Batı elmassırtlı
+kaya rattlesnake
+Mojave çıngıraklı yılan
+benekli çıngıraklı yılan
+Massasauga
+zemin çıngıraklı yılan
+fer-de-lance
+gövde
+trilobit
+eklembacaklılardan
+harvestman
+akrep
+sahte akrep
+kamçı akrep
+örümcek
+orb-dokuma örümcek
+siyah ve altın bahçe örümcek
+ahır örümcek
+bahçe örümcek
+Karadul
+tarantula
+kurt örümcek
+Avrupa kurt örümceği
+kene
+Ixodes dammini
+Koyun-tick
+kene
+akar
+örümcek kenesi
+kırmızı örümcek
+kırkayak
+evin çıyan
+kırkayak
+at nalı yengeci
+yerli tavuğu
+oyun tavuğu
+orman tavuğu
+kırmızı orman tavuğu
+tavuk
+ufak tefek
+civciv
+horoz
+yavru horoz
+tavuk
+damızlık tavuk
+piliç
+Rhode Island kırmızı
+Orpington
+Türkiye
+baba hindi
+basit gözlü türkiye
+keklik
+çalıhorozu
+Avrupa huş tavuğu
+kartavuğu
+kırmızı orman tavuğu
+moorhen
+çalıhorozu
+ladin orman tavuğu
+adaçayı keklik
+çil
+keskin kuyruklu tavuğu
+kır tavuğu
+daha kır tavuk
+az kır tavuk
+Chachalaca
+fırça türkiye
+Sülün
+bayağı sülün
+altın sülün
+bobwhite
+kuzey bobwhite
+tavuskuşu
+tavuskuşu
+tavuskuşu
+mavi tavus
+yeşil tavus
+Bıldırcın
+Kaliforniya bıldırcın
+tragopan
+keklik
+Macar keklik
+kınalı keklik
+beç tavuğu
+beçtavuğu
+Hoatzin
+tinamular
+güvercin
+güvercin
+kaya güvercini
+bant kuyruklu güvercin
+Tahta güvercin
+üveyik
+Streptopelia turtur
+Avustralya turtledove
+kumru
+güvercin
+rulman
+posta güvercini
+bağırtlak
+papağan
+papağan
+anket
+Afrika gri
+Amazon
+Amerika papağanı
+Yeni Zelanda koca papağanı
+kakadu
+kükürt tepeli kakadu
+pembe kakadu
+cockateel
+muhabbetkuşu
+kırmızı papağan
+lorikeet
+gökkuşağı lorikeet
+muhabbetkuşu
+muhabbetkuşu
+halka boyunlu parakeet
+guguk
+Avrupa guguklu
+roadrunner
+coucal
+touraco
+rulman
+Avrupa silindir
+yalıçapkını
+Avrasya yalıçapkını
+kuşaklı yalıçapkını
+ahmak
+arı kuşu
+hornbill
+ibibik
+Euopean ibibik
+Motmot
+hızlı
+Avrupa hızlı
+sinekkuşu
+Arkhilokhos Colubris
+thornbill
+dağkırlangıcı
+frogmouth
+ağaçkakan
+yeşil ağaçkakan
+tüylü ağaçkakan
+titreme
+Sarı milli titreşimsiz
+Kırmızı-milli titreşimsiz
+kızıl başlı ağaçkakan
+sapsucker
+Sarı göbekli sapsucker
+kırmızı göğüslü sapsucker
+dönerboyun kuşu
+kaniş
+puffbird
+jacamar
+tukan
+Toucanet
+trogon
+quetzal
+su kuşu
+su kuşu
+Ördek
+erkek ördek
+vakvak
+ördek yavrusu
+dalgıç ördek
+kurmuştur ördek
+yeşilbaş
+siyah ördek
+çamurcun
+greenwing
+bluewing
+garganey
+yaban ördeği
+Amerikan yaban ördeği
+shoveler
+pintail
+kuşaklı ördek
+suna
+dikkuyruk
+ak yanaklı
+altın Göz
+Barrow goldeneye
+Canvasback
+elmabaş
+kızıl saçlı
+scaup
+daha scaup
+az scaup
+vahşi ördek
+ahşap ördek
+ahşap drake
+Çin ördeği
+muscovy ördek
+deniz ördek
+pufla kuşu
+scoter
+bayağı kara ördek
+eski Kızılderili
+testeregagalı ördek
+testeregagalı ördek
+Amerikan merganser
+tarakdiş
+sütlâbi
+kapüşonlu merganser
+Kaz
+kaz yavrusu
+kaz
+Çin kaz
+yabankazı
+mavi kaz
+kar kaz
+en küçük yabankazı
+Ortak brant kaz
+honker
+ak yanaklı kaz
+coscoroba
+kuğu
+mısır koçanı
+kalem
+kuğu yavrusu
+dilsiz kuğu
+whooper
+küçük kuğu
+ıslık kuğu
+Bewick en kuğu
+trompetçi
+siyah Kuğu
+memeli
+kadın memeliye
+uzun dişli fil
+echidna
+echidna
+ornitorenk
+keseli
+opossum
+ortak opossum
+opossum sıçan
+kanguru
+dev kanguru
+valabi
+kaya wallaby
+pademelon
+ağaç kanguru
+phalanger
+koala
+Vombat
+Tazmanya Canavarı
+keseli karıncayiyen
+plasental
+çiftlik hayvanları
+Boğa
+inek
+buzağı
+buzağı
+bir yıllık
+dolar
+dişi geyik
+köstebek
+kır faresi
+kirpi
+kuştüyü yorgan
+kontur tüy
+encolure
+saç
+scute
+plastron
+Deniz kabuğu
+istiridye kabuğu
+omurgasız
+sünger
+polip
+denizanası
+Portekizli adam-of-savaş
+deniz anemon
+actinia
+deniz kalem
+mercan
+gorgon
+deniz tüy
+deniz yelpaze
+taşlı mercan
+beyin mercan
+staghorn mercan
+mantar mercan
+taraklı türü
+solucan
+ağaç kurdu
+flatworm
+nematod
+halkalı
+solucan
+sülük
+tıbbi sülük
+yumuşakça
+deniz kulağı
+deniz kulağı
+kabuklu bir deniz hayvanı
+dev kabuklu
+salyangoz
+yenilebilir salyangoz
+bahçe salyangozu
+kahverengi salyangoz
+sümüklüböcek
+Nerita
+deniz salyangozu
+deniz minaresi
+ortak limpet
+Deniz salyangozu
+deniz tavşanı
+Hermissenda crassicornis'in
+deniz kabuğu
+para deniz kabuğu
+kaplan deniz kabuğu
+chiton
+çift ​​kabuklu yumuşakça
+atışma
+istiridye
+deniz kabuğu
+soft-shell istiridye
+quahog
+littleneck
+geoduck
+dev deniz tarağı
+kabuk
+yenilebilir kabuk
+istiridye
+inci istiridye
+ark kabuk
+midye
+deniz midye
+yenilebilir midye
+tatlısu midye
+zebra midye
+tarak kabuğu
+odacıklı nautilus
+ahtapot
+kağıt nautilus
+kalamar
+mürekkepbalığı
+kabuklulardan
+ayaklı kabuklu
+brachyuran
+Yengeç
+dungeness yengeç
+kaya yengeç
+mavi yengeç
+kemancı yengeci
+Kral Yengeç
+Avrupa örümcek yengeç
+dev yengeç
+Istakoz
+Amerikan ıstakoz
+Norveç ıstakoz
+langust
+kerevit
+pavurya
+karides
+büyük karides
+Mantis karidesi
+Isopod
+tesbih
+hap böcek
+amphipodu
+su piresi
+yabankazı
+meşe palamudu midye
+yabani kaz
+wading kuş
+leylek
+beyaz leylek
+kara leylek
+adjutant kuş
+marabu
+Openbill
+jabiru
+saddlebill
+polis kuş
+ahşap ibis
+shoebill
+ibis
+ahşap ibis
+mısırturnası
+kaşıkçı balıkçıl
+ortak kaşıkçı
+pembe kaşıkçı
+flamingo
+balıkçıl
+Büyük mavi balıkçıl
+Büyük beyaz balıkçıl
+sorguç
+küçük mavi balıkçıl
+karlı ak balıkçıl
+küçük balıkçıl
+Büyük beyaz balıkçıl
+Amerikan ak balıkçıl
+sığır balıkçılı
+gece balıkçıl
+gece balıkçılı
+sarı taçlı gece balıkçılı
+boatbill
+balabankuşu
+Amerikan balaban
+Avrupa balaban
+en az balaban
+vinç
+boğmaca vinç
+Courlan
+limpkin
+ibikli cariama
+chunga
+demiryolu
+weka
+crake
+benekli crake
+gallinule
+Florida gallinule
+moorhen
+saz horozu
+Avrupa gallinule
+Amerikan gallinule
+notornis
+sutavuğu
+Amerikan tavuğu
+Eski Dünya tavuğu
+toy kuşu
+Büyük toy kuşu
+düğme bıldırcın
+trompetçi
+Seabird
+shorebird
+yağmurkuşu
+boru plover
+killdeer
+kalinis
+altın plover
+kızkuşu
+Turnstone
+bayağı taşçeviren
+siyah Turnstone
+çulluk
+surfbird
+Avrupa çulluk
+benekli düdükçün
+en az çulluk
+Kırmızı-destekli çulluk
+greenshank
+Redshank
+yellowlegs
+daha yellowlegs
+Küçük Sarıbacak
+göğüs çulluk
+düğüm
+çulluk çulluk
+Sanderling
+yayla sandpiper
+platika
+dedikoducu
+Willet
+çulluk
+Amerikan çulluk
+su çulluğu
+bütün su çulluğu
+Wilson'ın su çulluğu
+Büyük su çulluğu
+dowitcher
+leş kargası
+çulluk
+Avrupa çulluk
+godwit
+Hudsoniyen godwit
+cambaz ayaklığı
+siyah boyunlu ayaklık
+uzunbacak
+cambaz ayaklığı
+kılıçgaga
+oystercatcher
+kum kuşu
+kırmızı phalarope
+Büyük Deniz Düdükçünü
+bataklık kırlangıcı
+kocagöz
+Larid
+martı
+kafese koymak
+Siyah-destekli martı
+ringa martı
+gülenmartı
+fildişi martı
+küçük martı
+deniz kırlangıcı
+deniz yutmak
+kevgir
+jaeger
+parazitik jaeger
+yırtıcı martı
+Büyük skua
+bir tür deniz kuşu
+auklet
+razorbill
+küçük deniz kuşu
+bir cins martı
+siyah guillemot
+güvercin guillemot
+Murre
+ortak Murre
+Kalın gagalı Murre
+martı
+Atlantik puffin
+boynuzlu martı
+tepeli puffin
+dalgıçkuşu
+dalgıçkuşu
+Büyük tepeli batağan
+Kırmızı boyunlu dalgıçkuşu
+Siyah boyunlu dalgıçkuşu
+dabchick
+alaca gagalı batağan
+pelikan
+beyaz pelikan
+Eski dünya beyaz pelikan
+firkateyn kuş
+sümsük kuşu
+solan
+meme
+karabatak
+snakebird
+su türkiye
+tropik kuşu
+sphenisciform Seabird
+penguen
+Adelie
+kral penguen
+imparator penguen
+jackass penguen
+kaya hazne
+pelajik kuş
+albatros
+gezginci albatros
+fırtına kuşu
+kutup fırtına kuşu
+yelkovan kuşu
+fırtına kırlangıcı
+Sudaki memeli
+memeli deniz hayvanı
+balina
+balenli balina
+doğru balina
+çatal kuyruklu balina
+Mavi balina
+finback
+az rorqual
+gri balina
+dişli balina
+ispermeçet balinası
+Şişe burunlu balina
+Yunus
+ortak yunus
+şişeburun Yunus
+Atlantik Afalina
+Pasifik Afalina
+domuz balığı
+katil balina
+Pilot balina
+Beyaz Balina
+denizayısı
+dugong
+etobur
+herşeycil
+yüzgeç ayaklı memeli
+fok balığı
+crabeater mühür
+denizaslanıgiller
+kürklü fok balığı
+guadalupe kürk mühür
+kürklü fok balığı
+Alaska kürk mühür
+Deniz aslanı
+Güney Amerika deniz aslanı
+Kaliforniya deniz aslanı
+Avustralya deniz aslanı
+Steller deniz aslanı
+fokgiller
+sığ su foku
+arp mührü
+Deniz fili
+mors
+Atlantik mors
+yerdomuzu
+köpek
+orospu
+köpek
+köpek
+sokak köpeği
+köpeği
+oyuncak köpek
+Chihuahua
+Malta köpek
+Pekinli
+Shih-Tzu
+Blenheim spaniel
+King Charles spaniel
+papillon
+oyuncak terrier
+Av köpeği
+Rodoslu ridgeback
+tazı
+Afgan tazı
+uzun gövdeli ve kısa bacaklı bir av köpeği
+tazı
+tazı
+bluetick
+coonhound
+daksund
+sosis köpek
+foxhound
+Redbone
+kurt köpeği
+borzoi
+İrlanda kurt köpeği
+tazı
+İtaliyan
+tazı
+İbiza tazı
+Norveçli elkhound
+Saluki
+İskoç deerhound
+Weimaraner
+terriyer
+bulteryer cinsi köpek
+Staffordshire bulteriyer
+Amerikan Staffordshire Terrier
+Bedlington terrier
+sınır terrier
+Kerry mavi terrier
+İrlanda terriyeri
+Norfolk terrier
+Norwich terrier
+Yorkshire terrier
+sıçan terrier
+Manchester terrier
+oyuncak Manchester
+tilki teriyeri
+tel saçlı fox terrier
+wirehair
+Lakeland terrier
+Galce terrier
+Sealyham terrier
+terriyer türü
+höyük
+Avustralya terrier
+Dandie Dinmont
+Boston boğa
+schnauzer
+minyatür schnauzer
+dev schnauzer
+standart schnauzer
+İskoç terriyeri
+Tibet terrier
+ipeksi terrier
+Skye terrier
+yumuşak kaplamalı buğday terrier
+West Highland beyaz terrier
+Lhasa
+spor köpek
+av köpeği
+su köpek
+av köpeği
+Düz Tüylü Retriever
+kıvırcık kaplı retriever
+Golden Retriever
+Labrador köpeği
+Chesapeake Körfezi retriever
+işaretçi
+Alman kısa saçlı işaretçisi
+setter
+Vizsla
+İngiliz setter
+İrlanda av köpeği
+Gordon setter
+spanyel
+Brittany spaniel
+Clumber
+spanyel türünden bir av köpeği
+İngilizce springer
+Galce Springer Spaniel
+cocker
+Sussex spaniel
+su spaniel
+İrlandalı su spaniel
+iş köpeği
+bekçi köpeği
+kuvasz
+housedog
+Schipperke
+Çoban köpeği
+Belçikalı çoban köpeği
+Groenendael
+malinois
+Briard
+çoban köpeği
+komondor
+Eski İngiliz çoban köpeği
+Shetland çoban köpeği
+işkoç çoban köpeği
+border collie
+Bouvier des Flandres
+Rottweiler
+Alman Kurdu
+polis köpeği
+pinscher
+doberman
+minyatür pinscher
+Sennenhunde
+Büyükşehir Swiss Mountain köpek
+Bernese dağ köpeği
+Appenzeller
+boksör
+mastı
+bulmastif
+Tibetli mastiff
+yiğit
+Fransız bulldog
+Büyük dane
+Aziz Bernard
+kızak köpeği
+Eskimo köpek
+malamute
+Sibirya kurdu
+Dalmaçyalı
+Affenpinscher
+Basenji
+boksör
+Leonberg
+Newfoundland
+great Pyrenees
+Pomeranya köpeği
+Samoyed
+Pomeranya
+yiyecek
+Keeshond
+grifon
+Welsh corgi cinsi köpek
+Pembroke
+Hırka
+kaniş
+oyuncak kaniş
+minyatür kaniş
+standart kaniş
+kurt
+kereste kurt
+Beyaz kurt
+kırmızı Kurt
+çakal
+çakal
+vahşi köpek
+dingo
+Hintli erkek çamaşırcı
+Afrika av köpeği
+sırtlan
+çizgili sırtlan
+benekli sırtlan
+tilki
+Kızıl tilki
+Kızıl tilki
+kit tilki
+kit tilki
+kutup tilkisi
+gri tilki
+kedi
+kedi
+ev kedisi
+pisi
+avcı kedi
+sokak kedisi
+başıboş
+tom
+tekir
+kedi yavrusu
+tekir
+yaban kedisi
+bağa
+Iran kedisi
+Angora
+Siyam kedisi
+Birman kedisi
+Mısır kedi
+Habeş
+Manks
+yaban kedisi
+kum kedi
+Avrupa yaban kedisi
+puma
+ocelot
+orman kedi
+yabani kedi
+Margay
+Manul
+vaşak
+ortak vaşak
+Kanada vaşağı
+vaşak
+benekli vaşak
+karakulak
+büyük kedi
+leopar
+panter
+kar Leoparı
+jaguar
+aslan
+dişi aslan
+kaplan
+Bengal kaplanı
+dişi kaplan
+liger
+çita
+ayı
+Kahverengi ayı
+Suriye ayı
+bozayı
+Alaska bozayı
+Amerikan siyah ayısı
+Asya siyah ayısı
+kutup ayısı
+tembel ayı
+misk kedisi
+YER KÖPEĞİ
+misk kedisi
+firavun faresi
+meerkat
+ince kuyruklu meerkat
+suricate
+yarasa
+meyve yarasası
+uçan tilki
+kahverengi yarasa
+küçük kahverengi yarasa
+Büyük kahverengi yarasa
+solgun yarasa
+cüce
+vampir yarasa
+yırtıcı hayvan
+Av
+büyük oyun
+dört ayaklı
+hexapod
+böcek
+sosyal böcek
+Yaprak ayırıcı
+tozlaştırıcılar
+akrep sineği
+Collembola
+böcek
+kaplan böceği
+uğur böceği
+iki noktalı böceği
+Hippodamia yakınsaklık
+vedalia
+zemin böceği
+calosoma
+ateş böceği
+uzun boynuzlu böcek
+bıçkıcı
+yaprak böceği
+pire böceği
+Colorado patates böceği
+bokböceği
+bokböceği
+Haziran böceği
+Yeşil Haziran Böceği
+Japon böceği
+gergedan böceği
+mayıs böceği
+chafer gül
+chafer gül
+Geyik böceği
+elaterid böceği
+böceği tıklayın
+buğday biti
+rove böceği
+un böceği
+Asya longhorned böceği
+ortak biti
+iki kanatlı böcek
+uçmak
+karasinek
+kurt sineği
+kurt sineği
+greenbottle
+eti sinek
+atsineği
+arı sinek
+soyguncu sinek
+Meyve sineği
+drosophila
+at kene
+sivrisinek
+wiggler
+sarıhumma sivrisinek
+Asya kaplan sivrisinek
+ortak sivrisinek
+tatarcık
+kurdu
+tipula sineği
+blackfly
+bal arısı
+erkek arı
+Kraliçe arı
+işçi arı
+bal arısı
+Africanized arı
+siyah arı
+marangoz arı
+yabanarısı
+Andrena
+yaprak kesme bee
+mason arı
+yaban arısı
+kağıt eşekarısı
+eşekarısı
+dev eşekarısı
+yabanarısı
+kel yüzlü eşek arısı
+sarı ceket
+mason arısı
+kadife karınca
+sarıca arı
+ağustosböceği katil
+çamur dauber
+tırtır sineği
+karınca
+ordu karınca
+marangoz karınca
+ateş karıncası
+ahşap karınca
+kanlı karınca
+çekirge
+kısa boynuzlu çekirge
+keçiboynuzu
+göçmen çekirge
+katydid
+kum kriket
+kriket
+köstebek kriket
+fazmit
+baston
+hamamböceği
+oryantal hamam böceği
+Amerikan hamamböceği
+Alman hamam böceği
+peygamber devesi
+Peygamber Devesi
+böcek
+hemipterous böcek
+kabak böceği
+Yaprak ayaklı böcek
+tahta kurusu
+gerçek böcek
+dev su hata
+su strider
+tekerlek hata
+whitefly
+unlu biti
+fidanbiti
+yaprak biti
+adelgid
+ağustosböceği
+on yedi yıl keçiboynuzu
+şeytantükürüğü
+çayır tükürük
+yaprak piresi
+mayıs sineği
+stonefly
+doodlebug
+lacewing
+yeşil lacewing
+dobson
+alderfly
+odonate
+yusufçuk
+damselfly
+gümüşbalığı
+kulağakaçan
+Avrupa ortak earwig
+lepidopteran böcek
+kelebek
+Nymphalid
+yas pelerin
+bağa
+boyalı güzellik
+amiral
+kırmızı amiral
+beyaz amiral
+mor bantlı
+kırmızı benekli mor
+genel vali
+ufak halka
+virgül
+fritillary
+imparator kelebek
+mor imparator
+tavuskuşu
+Danaid
+hükümdar
+lahana kelebek
+küçük beyaz
+büyük beyaz
+kükürt kelebek
+lycaenid
+mavi
+bakır
+Amerikan bakır
+hairstreak
+Strymon melinus
+güve
+tortrisid
+çay tortriks
+turuncu tortriks
+tombul tırtıl
+çingene güvesi
+geometrid
+ölçme solucan
+pyralid
+güve
+halı güvesi
+noctuid güve
+cutworm
+kurdu
+sonbahar tırtılı
+hawkmoth
+tütün boynuzlu kurdu
+domates boynuzlu kurdu
+Kurukafa resmi güve
+ipekböceği
+imparator
+emperyal güve
+ipekböceği
+pervane böceği
+Cecropia
+io güvesi
+Polyphemus'un güve
+atlas güvesi
+zincifre
+çadır tırtıl
+Orman çadır tırtıl
+WebWorm
+WebWorm güve
+WebWorm düşmek
+evre
+tırtıl
+mısır kurdu
+lahana
+yünlü ayı
+yünlü ayı güve
+larva
+su perisi
+tırtıl
+pupa
+krizalid
+kraliçe
+derisi dikenliler
+denizyıldızı
+yılanyıldızı
+sepet yıldızı
+Deniz kestanesi
+yenilebilir deniz kestanesi
+kum dolar
+tüy yıldız
+Deniz hıyarı
+lagomorf
+tavşan
+tavşan kulaklar
+lapin
+tavşan
+Avrupa tavşan
+ahşap tavşan
+doğu cottontail
+tavşan
+Avrupa hare
+jackrabbit
+kutup hare
+Amerika tavşanı
+Angora
+ıslıklı tavşan
+kemirgen
+fare
+sıçan
+ev faresi
+tarla faresi
+kahverengi sıçan
+siyah sıçan
+bandicoot sıçan
+geyik fare
+misk sıçanı
+tarla faresi
+su sıçanı
+su sıçanı
+hamster
+altın hamster
+gerbil
+kirpi
+Kanada kirpi
+kanguru sıçan
+fındık faresi
+sincap
+sincap
+ağaç sincap
+boz sincap
+Batı gri sincap
+tilki sincap
+siyah sincap
+kırmızı sincap
+Amerikan kırmızı sincap
+chickeree
+antilop sincap
+tarla sincabı
+mantled yer sincabı
+suslik
+kaya sincap
+Arktika Gelengisi
+çayırköpeği
+Blacktail çayırköpeği
+doğu sincap
+çizgili sincap
+dağ sıçanı
+groundhog
+Kırçıl Marmot
+kunduz
+Yeni Dünya kunduz
+kobay
+Gine domuzu
+aperea
+Kapibara
+Şili kunduzu
+çinçilla
+toynaklı
+yaban faresi
+kaya yaban faresi
+Tek toynaklılar
+at
+at
+meşin
+tay
+kısrak
+tay
+erkek atı
+ridgeling
+aygır
+damızlık
+iğdiş edilmiş hayvan
+kısrak
+broodmare
+binek atı
+süvari atı
+kesmek
+inek midilli
+çeyrek atı
+Morgan
+Tennessee walker
+Amerikan eyer at
+Arap
+Lippizan
+midilli
+polo midilli
+yabani at
+vahşi at
+tepinen bronco
+güderi
+boz
+gri
+vahşi at
+tarpan
+Przewalski atı
+cayuse
+kesmek
+kesmek
+pulluk atı
+midilli
+Shetland pony
+Galce midilli
+Exmoor
+yarış atı
+safkan
+bir yıllık
+koşum atı
+mısır koçanı
+binek atı
+beygir
+koşum atı
+beygir
+Clydesdale
+Percheron
+çiftlik atı
+eyalet
+sonrası atı
+araba atı
+rahvan giden at
+paça atı
+kestane
+karaciğer kestane
+Defne
+Kuzukulağı
+palomino
+benekli at
+eşek
+yerli eşek
+burro
+küçük ispanyol atı
+katır
+Afrika vahşi eşek
+zebra
+ortak zebra
+dağ zebra
+Grevy Zebrası
+gergedan
+Hint gergedan
+beyaz gergedan
+siyah gergedan
+tapir
+Yeni Dünya tapir
+Malayalı tapir
+çift ​​toynaklılar
+domuz
+domuz
+domuz yavrusu
+domuz
+ekmek
+yaban domuzu
+warthog
+pekari
+yakalı pekari
+suaygırı
+geviş getiren
+sığır
+öküz
+sığırlar
+öküz
+öküz
+Boğa
+inek
+düve
+köpekçik
+sığır eti
+longhorn
+Brahma rahibi
+Hint öküzü
+yaban öküzü
+yak
+Santa Gertrudis
+Aberdeen Angus
+süt ineği
+Esmer
+Charolais
+Jersey
+Durham
+Galloway
+Frizye dili
+hereford
+Eski Dünya manda
+manda
+carabao
+Cape bufalo
+gaur
+bizon
+Amerikan bizon
+wisent
+misk sığırı
+koyun
+koyun
+Veri deposu
+kısırlaştırılmış koç
+Kuzu
+kuzucuk
+Kara koyun
+yerli koyun
+Hampshire
+longwool
+merinos
+yaban koyunu
+argali
+Dall koyun
+Kanada koyunu
+büyük boynuz
+yabani koyun
+aoudad
+keçi
+çocuk
+cop
+dadı
+yerli keçi
+Angora
+yaban keçisi
+Yaban keçisi
+dağ keçisi
+dağ keçisi
+güderi
+Takin
+antilop
+Blackbuck
+Gerenuk
+addax
+gnu
+Dikdik
+inek antilobu
+sassaby
+impala
+ceylân
+Thomson ceylanı
+keseli antilop
+bongo
+kudu
+büyük kudu
+nyala
+bushbuck
+samur antilop
+steenbok
+Afrika geyiği
+ortak eland
+kob
+lechwe
+waterbuck
+Afrika antilopu
+Güney Afrika ceylânı
+pronghorn
+geyik
+erkeklere özel
+Geyik yavrusu
+Alageyik
+erkek geyik
+sambar
+wapiti
+Japon geyik
+Virginia geyik
+katır geyiği
+siyah kuyruklu geyik
+Kanada geyiği
+ala Geyik
+Karaca
+karibu
+ormanlık ren geyiği
+munçağı
+deve
+hecin devesi
+İki hörgüçlü deve
+lama
+guanaco
+alpaka
+vicuna
+zürafa
+okapi
+gelincik
+vizon
+Amerikan vizon
+kokarca
+dağgelinciği
+kara ayaklı gelincik
+su samuru
+nehir su samuru
+Avrasya su samuru
+Deniz su samuru
+kokarca
+çizgili kokarca
+porsuk
+Amerikan porsuk
+porsuk
+obur
+ağaç sansarı
+kalın derili hayvan
+armadillo
+peba
+tembellik
+üç parmaklı tembel hayvanlar
+iki parmaklı tembel hayvanlar
+iki parmaklı tembel hayvanlar
+anteater
+ant bear
+tamandua
+pangolin
+kürek kemiği
+iribaş
+başpiskopos
+maymun
+maymun
+homo
+Dünya
+Homo erectus
+Homo sapiens
+Neandertal adam
+Homo sapiens sapiens
+büyük maymun
+orangutan
+goril
+Batı ova goril
+doğu ova goril
+Gorilla Dağı
+silverback
+şempanze
+doğu şempanze
+merkezi şempanze
+pigme şempanze
+jibon
+siamang
+maymun
+guenon
+vervet
+patas
+Habeş maymunu
+chacma
+mandril
+makak
+al yanaklı maymun
+Barbary maymun
+langur
+entellus
+colobus
+hortum maymun
+ipek maymun
+cüce ipek maymunu
+pembe maymun
+kapüsen
+uluyan maymun
+titi
+örümcek maymunu
+sincap maymunu
+maki
+Madagaskar kedi
+Yavaş loris
+potto
+Galago
+indri
+tarsier
+fil
+Hint fil
+Afrika fili
+rakun
+ortak rakun
+bassarisk
+kinkajou
+kayoti
+az panda
+dev panda
+balık
+olta avı balığı
+gıda balık
+barracouta
+akciğerli
+kedi balığı
+Avrupa Yayın balığı
+bullhead
+kanal yayın balığı
+mavi yayın balığı
+flathead yayın balığı
+Morina
+morina cinsinden bir balık
+morina benzeri bir tür balık
+cusk
+yılanbalığı
+Ton balığı
+murana
+yılanbalığı
+tirsi balığı
+Allice tirsi balığı
+ringa
+sardalya
+sardalya
+hamsi
+Somon
+kırmızı balık
+Atlantik somonu
+denize kıyısı olmayan somon
+sockeye
+chinook
+Asma
+alabalık
+kahverengi alabalık
+Gökkuşağı alabalığı
+Deniz alabalığı
+göl alabalığı
+alabalığı
+tarpon
+bonefish
+Lizardfish
+goosefish
+frogfish
+zargana
+levrek
+levrek
+sarı levrek
+Avrupa levrek
+levrek
+walleye
+nanik
+kargı
+kuzey pike
+muskellunge
+turnabalığı
+güneş balığı
+crappie
+tatlısu balığı
+balkabağı tohumu
+bluegill
+tatlı su levreği
+Siyah bas
+küçük ağız
+largemouth
+bas
+çizgili levrek
+orfoz
+arka
+jewfish
+surfperch
+cardinalfish
+alev balık
+lüfer
+Cobia
+kriko
+crevalle jakı
+gökkuşağı koşucu
+amberjack
+sarı kuyruk
+eşkina balığı
+izin
+scad
+istavrit
+istavrit
+dolphinfish
+tetra
+kardinal tetra
+pirana
+çiklit
+balığı
+homurtu
+porkfish
+pigfish
+izmarit
+koyun'un kafası
+balığı
+kırmızı davul
+mulloway
+şarlatan
+eşkina balığı
+beyaz şarlatan
+beyaz şarlatan
+Deniz alabalığı
+weakfish
+benekli weakfish
+tekir
+barracuda
+Büyük barracuda
+kelebek balığı
+Chaetodon
+keler
+kaya güzellik
+papazlar
+anemon balığı
+palyaço anemon balığı
+Başçavuş
+wrasse
+Tautog
+papağan
+jawfish
+blenny
+Kurt Balığı
+üzgün balığı
+kayabalığı
+çamur zıpzıpı
+düz kafa
+orkinos
+kolyoz
+wahoo
+kolyoz
+kral uskumru
+cero
+Ton balığı
+mavi yüzgeçli
+yellowfin
+kızıl orkinos
+palamut
+sailfish
+Atlantik sailfish
+billfish
+Atlantik kılıçbalığı
+Mavi Marlin
+siyah marlin
+bowfin
+Veslonos
+mersin balığı
+Pasifik mersin
+morina
+tamirhane
+Akrep balığı
+Aslan balığı
+Taş balığı
+rockfish
+düz kafa
+gurnard
+uçan gurnard
+triggerfish
+kraliçe triggerfish
+deri ceket
+boxfish
+Cowfish
+kirpi balığı
+Porcupinefish
+balloonfish
+ay balığı
+yassı balık
+pisi balığı
+yaldızlı pisibalığı
+trança balığı
+Pasifik halibut
+kalkan
+abaküs
+terk edilmiş gemi
+Bir batarya
+mezbaha
+çarşafımın
+Abbe kondansatör
+manastır
+manastır
+manastır
+dayanak
+akademik kıyafet
+akademik elbisesi
+hızlandırıcı
+hızlandırıcı
+hızlandırıcı
+Konaklama
+akordeon
+asetat ipeği
+akustik gitar
+akropol
+adaptör
+hesap makinesi
+yara bandı
+galeri
+ayarlanabilir anahtarı
+kerpiç
+havalandırıcı
+aerosol
+Afgan
+Afro-peruk
+art yakıcı
+Tıraş sonrası
+sorguç
+hava otobüsü
+hava kompresörü
+klima
+uçak
+uçak gemisi
+uçak motoru
+airdock
+havaalanı
+hava filtresi
+kanat ucu
+uçak gövdesi
+hava silahı
+hava çekiç
+havalı korna
+dev uçak
+uçak
+uçak pervane
+havalimanı
+zeplin
+hava Limanı
+koridor
+alarm
+alarm saati
+alcazar
+birahane
+A-line
+Allen anahtarı
+demir uçlu dağcı sopası
+altar
+altar
+altarpiece
+altazimuth
+alternatör
+altimetre
+Amati
+ambulans
+ampermetre
+cephane
+amfibi
+amfibi
+amfitiyatro
+amfitiyatro
+amfora
+amplifikatör
+analog saat
+analog saat
+analitik terazi
+analizör
+anastigmat
+Çapa
+çapa zinciri
+VE devresi
+ocak ayaklığı
+android
+yankısız oda
+anemometre
+kadranlı barometre
+ayak bileği ateli
+halhal
+Cevaplama makinesi
+anten
+antre
+uçaksavar
+Buluşun zehirli boya
+terlemeyi önleyici
+örs
+ao dai
+apartman
+apartman binası
+açıklık
+açıklık
+arı kovanı
+giysi
+cihaz
+cihaz
+apron
+apsis
+skuba
+su kayağı
+akvaryum
+arabesk
+çardak
+çarşı
+kemer
+mimari
+ark lâmbası
+Arktik
+alan
+baklava desenli
+kol
+silâhlanma
+koltuk
+armet
+kol koruma
+kolçak
+armoire
+zırh
+zırhlı araç
+zırhlı personel taşıyıcı
+zırhlı araç
+zırh plakası
+kol dayama
+dizi
+tutucu
+ok
+anayol
+arthrogram
+yapay ufuk
+ağır silahlar
+ashcan
+Kül-pan
+kül tablası
+saldırı tüfeği
+montaj
+toplantı salonu
+montaj fabrikası
+usturlap
+astronomik teleskop
+atletik çorap
+atletik destekçisi
+Atlas
+atom bombası
+atom saati
+atomizer
+kulakçık
+evrak çantası
+saldırı denizaltısı
+Çatı katı
+giydirmek
+audiocassette
+ses CD'si
+audiometer
+ses sistemi
+ses bandı
+ses bandı
+konferans salonu
+otoban
+otoklav
+otofokus
+otojir
+autoloader
+otomat
+otomat
+otomatik silah
+otomatik tabanca
+otomatik tüfek
+otomasyon
+otomat
+otomobil motoru
+otomobil fabrikası
+otomobil boynuz
+otoradyograftır
+Otobanı
+yardımcı depolama
+kuşhane
+tente
+balta
+balta sapı
+balta kafa
+aks
+aks çubuğu
+bebek yatağı
+bebek arabası
+piyano
+bebek pudrası
+bebek ayakkabısı
+geri
+geri
+gündemde
+backboard
+backboard
+arka ayraç
+tavla tahtası
+arka fon
+kazıcı
+Arka aydınlatmanın
+sırt çantası
+backpacking çadır
+arka veranda
+kaşıma
+arka koltuk
+backspace tuşu
+el altından olan
+patrisa
+tek yüzlü kılıç
+yedek sistem
+Badminton sahası
+Badminton raketi
+sırt çantası
+sırt çantası
+sırt çantası
+bagaj
+bagaj
+furgon
+bagaj teslim yeri
+gayda
+geçici olarak kurulan köprü
+yem
+fırın
+yün başlık
+balalayka
+denge
+denge aleti
+balkon
+baldric
+balya
+top
+top
+balldress
+bale etek
+topu cüppe
+balistik füze
+balon
+balon yelken
+oy sandığı
+basketbol sahası
+tükenmez
+balo salonu
+küresel vana
+balsa sal
+korkuluk çubuğu
+muz bot
+bandaj
+Yara bandı
+bandana
+şapka kutusu
+bandoneon
+bant testere
+halhal
+banço
+afiş
+bannister
+vaftiz
+bar
+barbekü
+dikenli tel
+halter
+berber koltuğu
+Berber dükkanı
+bareboat
+mavna
+bariton
+bağırmak
+ahır
+ahır kapısı
+barometre
+bar yazıcı
+varil
+varil
+Barrelhouse
+beşik kemer
+tokası
+barroom
+el arabası
+baskül
+baz
+beyzbol
+beysbol sopası
+beyzbol şapkası
+beyzbol ekipmanları
+beyzbol eldiveni
+Bodrum kat
+Bodrum kat
+bazilika
+basilikos
+havza
+miğfer
+sepet
+sepet
+basketbol
+Basketbol sahası
+basketbol ekipmanları
+sepet örgüsü
+bas
+bas klarnet
+bas davul
+bas keman
+bas gitar
+bas sesli üflemeli çalgı
+beşik
+beşik
+fagot
+burç
+burç
+yarasa
+banyo
+bone
+banyo yağı
+bornoz
+banyo
+Banyo tuzları
+banyo havlusu
+küvet
+batik
+pil
+pil
+vuruş kafes
+vuruş eldiven
+vuruş başlığı
+savaş baltası
+savaş gemisi
+üniforma
+mazgallı siper
+savaş gemisi
+süngü
+defne ispirtosu
+Cumba
+Çarşı
+Çarşı
+bazuka
+plaj havlusu
+plaj vagonu
+Beachwear
+fener
+deney şişesi
+deney şişesi
+kiriş
+armut koltuk
+bere
+yatak
+ayı postu
+kunduz
+yatak
+yatak örtüleri
+Bedford kablosu
+yatakta ceket
+sürgü
+yatak odası
+yatak odası mobilyası
+bedsitting odası
+yatak örtüsü
+karyola
+çağrı cihazı
+bira varil
+bira şişesi
+bira tenekesi
+bira bahçesi
+bira bardağı
+bira salonu
+bira mat
+Bira kupası
+çan kulesi
+çan
+çan kemer
+bellbottom pantolon
+çan cote
+çan beşik
+çan kavanoz
+zil düğmesi
+Çan kulesi
+kemer
+Kemer tokası
+kuşaklama
+Bank
+yatarak halter kaldırma
+bere
+Berlin
+Bermuda şort
+yatak
+çalı süpürgesi
+konik dişli
+mama önlüğü
+bisiklet
+bisiklet-built-için-iki
+bisiklet zinciri
+bisiklet pompası
+bisiklet raf
+bisiklet koltuk
+bisiklet tekerleği
+bide
+cenaze teskeresi
+bikini
+bikini pantolon
+sintine pompası
+fatura
+ilan panosu
+Bilardo topu
+bilardo salonu
+çöp Kutusu
+cilt
+cilt
+bağlayıcı
+pusula dolabı
+dürbün
+binoküler mikroskop
+çiftkanatlı uçak
+birchbark kano
+Kuş banyosu
+kuş kafesi
+Kuş besleyici
+birdhouse
+bit
+siyah
+tahta
+siyah kutu
+siyah kravat
+blackwash
+kılıç
+kılıç
+battaniye
+yüksek fırın
+karıştırıcı
+keşif balonu
+kör
+körü körüne
+bling
+flaşör
+blister
+blok
+blok düzlem
+büzgülü kısa pantolon
+bluz
+üfleyici
+lehim lâmbası
+blucher
+mavi
+blunderbuss
+yatılı ev
+toplantı odası
+tekne
+hasır şapka
+tekne kanca
+kayıkhane
+Tersane
+bobin
+toka
+yarış kızağı
+yarış kızağı
+bocce top
+korse
+vücut
+kalkan, vucüt zırhı
+vücut losyonu
+tek parça iç çamaşırı
+karoser
+Bofors silah
+Kazan
+bolero
+iskele babası
+bolo kravat
+sürgü
+sürgü
+cıvata kesici
+bombardıman uçağı
+bombardıman ceket
+sığınak
+kemik kül fincan
+ince porselen
+kemikler
+bongo
+kaput
+kitap
+kitap çantası
+kitaplık
+bookend
+yer imi
+gezici kütüphane
+kitaplık
+kitapçı
+patlama
+bumerang
+yükseltici
+yükseltici
+çizme
+çizme
+küçük çizme
+kabin
+kabin
+çizme çekeceği
+bağcık
+kucak
+Boston rocker
+şişe
+şişe
+Şişe kapağı
+şişe açacağı
+alt
+buklet
+buket
+butik
+yay
+yay
+yay ve ok
+eğdi yaylı enstrüman
+Av bıçağı
+kase
+kase
+melon şapka
+borina halatı
+Bowling pisti
+bovling topu
+bowling pin
+bowling ayakkabısı
+bowsprit
+papyon
+kutu
+kutu kamera
+yük vagonu
+boks ekipmanları
+Boks eldiveni
+gişe
+bazalı
+kutu anahtarı
+destek
+destek
+destek
+bilezik
+tonik
+fren
+fren
+fren diski
+fren tamburu
+fren balatası
+fren pedalı
+fren pabucu
+fren sistemi
+pirinç
+pirinç
+pirinç
+birahane
+sutyen
+pirinç knucks
+breadbasket
+ekmek kutusu
+ekmek bıçağı
+kahvaltı alanı
+kahvaltı tablo
+dalgakıran
+zırh
+breathalyzer
+pantolon
+Bren
+tuğla
+tuğla mala
+tuğla
+gelinlik
+köprü
+köprü
+dizgin
+iş çantası
+külot
+brik
+brik
+briyantin
+ağız
+fırça
+İngiliz hükümetinin mallarını gösteren ok işareti
+brochette
+yayın yapan
+çuha
+duvardan duvara
+pala
+brokar
+brogan
+ızgara
+kırık kemer
+süpürge
+süpürge sopası
+Browning otomatik tüfek
+Browning makineli tüfek
+varlıklı
+fırça
+Brüksel halı
+kabarcık püskürtmeli yazıcı
+Kova
+kova koltuk
+toka
+tela
+buckskins
+tampon
+büfe
+böcekli
+borazan
+bina
+yapı kompleksi
+bulldog klip
+buldozer
+kurşun
+kurşun geçirmez yelek
+kurşun tren
+borazanı
+külçe
+bullnose
+bullpen
+arena
+küpeşte
+tampon
+tampon
+tampon araba
+tampon koruma
+demet
+bungalov
+bungee
+ranza
+ranza
+sığınak
+sığınak
+bunsen brülör
+kiraz kuşu
+hırsız alarmı
+mezar odası
+Höyük
+burka
+çuval bezi
+geğirmek tabancası
+otobüs
+kile sepet
+burç
+iş kıyafeti
+trajedi
+büstiyer
+telaş
+Kasap dükkânı
+tereyağı çanak
+kelebek vana
+tereyağı bıçağı
+popo menteşe
+düğme
+desteklemek
+popo kaynak
+buzzer
+BVD
+bu arada
+taksi
+taksi
+cabana
+kabare
+oyun sırığı
+kabin
+kabin
+kabin araba
+ikinci mevkii
+kamaralı büyük tekne
+kabine
+kabine
+kabine
+cabinetwork
+kablo
+teleferik
+önbellek
+golf takımlarını taşıyan yardımcı
+kafe
+kafeterya
+kafeterya tepsi
+caff
+kaftan
+kaftan
+kafes
+kaleska
+hesap makinesi
+kazan
+kumpas
+çağrı Merkezi
+arayan kimliği
+kamera
+devetüyü
+kamera
+kamera merceği
+kamera tripod
+camise
+kaşkorse
+kaşkorse
+kamuflaj
+kamuflaj
+çan kulesi
+kamp sandalyesi
+kampçı
+akordeon römork
+Eksantrik mili
+yapabilmek
+kanal tekne
+şamdan
+mum
+şamdan
+baston
+teneke kutu
+top
+top
+top
+top güllesi
+kano
+Konserve açacağı
+canopic kavanoz
+gölgelik
+gölgelik
+gölgelik
+kantin
+kantin
+kantin
+kantin
+konsol köprü
+eyerin arka kaşı
+tuval çadır
+kapak
+kapak
+kapak
+kondansatör
+haşe
+capitol
+kapak açacağı
+capote
+capote
+kapak vidası
+kapsül
+araba
+araba
+araba
+karabina
+sürahi
+kervansaray
+akü
+karabina
+araba bomba
+damacana
+karbüratör
+cardcase
+hırka
+kartvizit indeksi
+kardiyografide
+kardioid mikrofon
+araba kapısı
+cardroom
+kargo konteyner
+kargo gemisi
+kargo gemisi
+araba aynası
+atlıkarınca
+marangoz çekiç
+marangoz kiti
+halı çantası
+halı ped
+halı süpürgesi
+yanları açık garaj
+tek kişilik çalışma yeri
+taşıma
+taşıma
+anayol
+harhar
+taşıma sepeti
+araba koltuğu
+araba
+araba lastiği
+kutu
+araba tren
+kartuş
+palaska
+kartuş tutucu
+yanlamasına takla
+oyma çatal
+oyma bıçağı
+Araba tekerleği
+karyalit
+durum
+durum
+vaka bıçak
+vaka bıçak
+pencere kanadı
+kanatlı pencere
+para kutusu
+ATM
+kaşmir
+yazar kasa
+kasa
+kumarhane
+tabut
+Cassegrainian teleskop
+güveç
+kaset
+kaset çalar
+kaset çalar
+kaset kaydedici
+kaset
+oyuncular
+tuzluk
+kale
+katakomp
+katalitik dönüştürücü
+katamaran
+mancınık
+mancınık
+tek direkli küçük yelkenli
+kedi kutusu
+beysbol maskesi
+havza
+katedral
+katedral
+sonda
+ketçap şişesi
+sığır koruma
+şövalye şapka
+süvari kılıcı
+C-kelepçe
+CD sürücüsü
+CD çalar
+CD-R,
+CD-ROM
+CD-ROM sürücüsü
+sedir göğüs
+tavan
+hücre
+kiler
+hücre bloğu
+çello
+selofan
+cep telefonu
+selüloz bant
+anıt mezar
+buhurluk
+punta zımbası
+Merkezi işlem birimi
+santrifüj pompası
+santrifüj
+seramik
+seramik eşya
+tahıl kase
+tahıl kutusu
+fosseptik
+chador
+Reşo çanak
+zincir
+zincir
+chainlink çit
+zincirden örülmüş zırh
+elektrikli testere
+marketler Zinciri
+sandalye
+sandalye
+telesiyej
+şezlong
+dağ evi
+kadeh
+tebeşir
+lazımlık
+kilisede rahip ve koronun yeri
+idari işler
+avize
+chanter
+küçük kilise
+papazlar meclisi Binası
+karakter yazıcı
+şarküteri
+şarj aleti
+ölü kemiklerinin koyulduğu yer
+şasi
+şasi
+cüppe
+şato
+şato sahibesi
+kare
+Çıkış yapmak
+kundak
+kimya tesisi
+kombinezon
+kombinezon
+saçak
+satranç taşı
+göğüs
+kabarık kanepe
+çekmeceli dolap
+göğüs koruyucusu
+boy aynası
+tavuk kümesi
+kümes teli
+tavuk yarda
+şifon
+şifoniyer
+Çocuk odası
+melodi
+Çin
+çin kabine
+körüklü fener
+chino
+çene dinlenme
+basma
+yonga
+yonga
+keski
+chlamys
+koro
+chopine
+Noel hazırlığı
+kronograf
+chronoscope
+atmak
+chukka
+kilise
+kilise çanı
+kilise şapka
+kilise kule
+yayık
+puro bandı
+puro kutusu
+puro kesici
+sigara izmariti
+Sigara paketi
+sigara tutucu
+Çakmak
+sinema
+beşparmakotu
+daire
+devre
+devre kartı
+şalter
+devre sistemi
+Dairesel testere
+sirk çadırı
+cittern
+Belediye binası
+Çekim tahtası
+klarnet
+toka
+sınıf
+klavsen
+tuşlar
+havaya atılan hedef
+kılıç
+temizleyiciler
+uygulanması temizleme
+temiz oda
+kelepçe
+cleats
+balta
+pencereli üst kısım
+çatal
+kayalıklarda yaşama
+tırmanma çerçevesi
+termometre
+klinker
+klips
+kesme
+kesme
+pelerin
+pelerin
+çan biçiminde şapka
+çan biçiminde şapka
+saat
+saat sarkaç
+saatli radyo
+Saat kulesi
+takunya
+emaye işi
+manastır
+kapalı devre
+çekim lens
+kumaş boneler
+clothesbrush
+elbise dolabı
+Kıyafet kurutucusu
+giysi engel
+çamaşır askısı
+clothespin
+askılık
+Giyim
+debriyaj
+poşetin
+Koç evi
+ceket
+ceket düğmesi
+ceket dolap
+askıyla
+kaplama
+kaplama
+örümcek ağı
+oyuncak at
+küçük kayık
+pilot kabini
+pilot kabini
+kokteyl elbisesi
+kokteyl salonu
+kokteyl sallayıcısı
+yosma
+kahve can
+kahve fincanı
+kahve filtresi
+kahve makinesi
+kahve değirmeni
+kahve kupası
+coffeepot
+kahve masası
+kahve makinesi
+sandık
+tabut
+diş
+külah
+bobin
+yay
+kevgir
+soğuk katot
+soğuk keski
+soğuk krema
+limonluk
+yaka
+yaka
+kolej
+halka
+çarpıştırıcısı
+kolonya
+kemeraltı
+renkli televizyon
+renkli tüp
+tay
+güvercinlik
+güvercinlik
+sütun
+sütun
+tarak
+tarak
+şifreli kilit
+birleştirmek
+yorgan
+kumanda kapsülü
+dinlenme odası
+haberleşme uydusu
+banliyö
+kompakt
+kompakt
+Kompakt Disk
+Kompakt disk brülör
+pusula
+pusula
+bileşik mikroskop
+kompresyon bandajı
+kompresör
+bilgisayar
+bilgisayar devresi
+bilgisayarlı tomografi tarayıcı
+bilgisayar klavyesi
+bilgisayar ekranı
+bilgisayar ekranı
+bilgisayar sistemi
+kuyruklu piyano
+konser Salonu
+akerdeona benzer bir çalgı
+akerdeona benzer bir çalgı
+Beton karıştırıcı
+yoğuşma pompası
+kondansatör
+kondansatör mikrofon
+kat mülkiyeti
+kat mülkiyeti
+şekerleme
+konferans merkezi
+konferans odası
+konferans masası
+günah çıkarma ile ilgili
+Bağlantı Çubuğu
+bağ
+konservatuvar
+konservatuvar
+konsol
+konsol
+temas
+konteyner
+yük gemisi
+kontrol
+kontrol Merkezi
+kontrol devresi
+Kontrol tuşu
+Kontrol Paneli
+Kontrol odası
+kontrol kulesi
+konvektör
+marketten
+manastır
+dönüştürücü
+konvertibl
+konvertibl
+nakil
+konveyör bant
+Ocak
+çerez kesici
+kurabiye Kavanozu
+çerez levha
+pişirme kabı
+Kuzine
+soğutucu
+soğutma kulesi
+coonskin kapak
+tımar sahibi
+bez kaplı kayık
+destekle çıkmak
+kordon
+ipler
+kordonlar
+çekirdek bit
+mantar
+tirbuşon
+corncrib
+köşe
+köşe
+dondurma külahı
+korniş
+korniş
+korniş
+sıkı giysi
+korse
+kozmetik
+kostüm
+kostüm
+kostüm
+rahat
+bebek karyolası
+pamuk
+pamuk pazen
+kanepe
+kanepe
+sayaç
+sayaç
+kır evi
+ülke mağaza
+kup
+bağlantı
+mahkeme
+mahkeme
+Adliye
+Adliye
+tulum
+kapalı köprü
+kapalı kanepe
+kapalı vagon
+yatak örtüsü
+cowbarn
+cowbell
+kovboy çizme
+kovboy şapkası
+baca şapkası
+inek kalem
+CPU kartı
+beşik
+zanaat
+krampon
+krampon
+vinç
+karter
+krank
+kask
+sandık
+kravat
+pastel boya
+karmaşık desenli yorgan
+krem
+krem sürahi
+kreş
+credenza
+krep de Chine
+beşik
+beşik
+kriket topu
+kriket sopası
+kriket ekipmanları
+kabarık etek
+kabarık etek
+tığ
+güveç
+Crock Pot
+kroket top
+kroket ekipmanları
+kroket Tokmak
+çapraz
+yaylı tüfek
+crossjack
+levye
+taç
+saray mücevherleri
+pota
+haç
+şişe
+seyir kontrolü
+kruvazör
+Gezi gemisi
+kuskun
+öğütücü
+koltuk değneği
+kristal
+guguklu saat
+işaret
+isteka topu
+zırh
+Cullis
+ekici
+suyolu
+Fincan
+dolap
+kubbe
+kaldırım taşı
+bigudi
+saç maşası
+perde
+Özel ev
+kesici
+cutwork
+silindir
+silindirik kilit
+zil
+villa
+hançer
+mandıra
+kürsü
+baraj
+damasko
+amortisör
+gösterge paneli
+dashiki
+veri sistemi
+sedir
+sedir
+daybed
+kreş
+gunduz Okulu
+dekanlık
+güverte
+güverte
+şezlong
+dekolte
+derin dondurucu
+savunma sistemi
+defansif yapısı
+defibrilatör
+deflektör
+Hollanda porseleni
+Şarküteri
+teslimat kamyonu
+damacana
+demitasse
+den
+kot
+densitometre
+takma diş
+deodorant
+büyük mağaza
+kıl dökücü
+derinlik bulucu
+vinç
+derringer
+büro
+masa telefonu
+masaüstü bilgisayar
+tatlı kaşığı
+yok edici
+müstakil ev
+detektör
+detektör
+cihaz
+Arap yelkenlisi
+kadran
+kadran
+iletişim kutusu
+telefon arama
+bebek bezi
+bebek bezi
+diyafram
+zar fincanı
+Diktafon
+dizel
+Dizel-elektrik lokomotif
+Dizel-hidrolik lokomotif
+dizel lokomotif
+sindirici
+dijital ses kaydı
+dijital kamera
+dijital saat
+dijital gösterge
+dijital abone Hattı
+dijital saat
+yapay penis
+lokanta
+yemek odası
+filika
+Yemek alanı
+yemekli vagon
+yemek salonu
+yemek odası
+yemek odası mobilya
+yemek masası
+yemek masası
+yemek zili
+akşam yemeği elbise
+smokin
+yemek masası
+diyot
+kepçe
+DIP anahtarı
+kısa kılıç
+üstü dar altı geniş elbise
+üstü dar altı geniş elbise
+disko
+gizlemek
+tabak
+tabak
+bulaşıklık
+dishrag
+kurulama bezi
+bulaşık makinesi
+disk
+Disk fren
+Disk debriyaj
+disket
+diskarolar
+evrak çantası
+dispanser
+ekran
+vitrin
+yok etme
+imbik
+distribütör kapağı
+distribütör noktası
+Hendek
+gemici torbası
+bölünmüş otoyol
+dalgıç elbisesi
+Dixie fincan
+rıhtım
+dogsled
+bardak altlığı peçete
+oyuncak bebek
+oyuncak bebek evi
+dolama
+dolmen
+kubbe
+kubbe
+domino
+dongle
+kalın ve hava geçirmez ceket
+kapı
+kapı
+kapı
+kapı zili
+kapı kilidi
+paspas
+kapı levhası
+kapı eşiği
+taban direği
+çatı penceresi
+yurt
+Nokta vuruşlu yazıcı
+çift ​​kişilik yatak
+ikili ısıtıcı
+Kruvaze ceket
+Kruvaze takım elbise
+çift ​​kapı
+çift ​​örgü
+eş
+çift ​​ağaç
+güvercinlik
+kurtağzı
+kavela
+çizim masası
+Dragunov
+drenaj çukuru
+boşaltma sepeti
+perdelik kumaş
+çeki
+asma köprü
+Çekmece
+çekmeceler
+çizim tebeşir
+çizim odası
+çizim odası
+drawknife
+İpli çanta
+serpiştirmek
+tarak
+elbise
+şifoniyer
+elbise şapka
+makyaj çantası
+sabahlık
+giyinme odası
+soyunma çuval
+makyaj masası
+takım elbise
+geçit töreni üniforması
+matkap
+elektrikli matkap
+sondaj platformu
+Matkap basın
+sondaj kulesi
+içilebilir memba
+içme kabı
+damla pot
+sürücü
+sürücü
+Tahrik mili
+sürüş demir
+işletme tekeri
+erkek arı
+erkek arı
+asma sahne perdesi
+açılan yaprak masa
+damlalık
+eczane
+davul
+Kampana fren
+davul derisi
+davul yazıcı
+baget
+kuru dok
+kurutma makinesi
+kuru sinek
+kuru duvar
+Ördek Lobutlu
+spor kıyafeti
+Spor çantası
+spor kıyafeti ceket
+yeraltı sığınağı
+sığınağın kano
+santur
+dambıl
+dumpcart
+çöplüğü
+damperli kamyon
+kumsal arabası
+zindan
+dubleks ev
+teksir makinası
+dustcloth
+toz kaplamış
+dustmop
+faraş
+Hollanda fırını
+Hollanda fırını
+Konut
+Eames sandalye
+Kış kulaklığı
+kulaklık
+kulaklık
+kulak tıkacı
+kulak tıkacı
+toprak
+hafriyat
+şövale
+rahat koltuk
+saçak
+Yumurta çırpıcı
+kuştüyü yorgan
+Bilardo
+acil fırlatma koltuğu
+elastik bandaj
+elastoplast
+dirsek
+dirsek pedleri
+elektrik
+elektrik kablosu
+elektrik çevirici
+elektrikli cihaz
+elektrikli sandalye
+elektrikli fan
+elektro gitar
+elektrik çekiç
+elektrikli ısıtıcı
+elektrik lambası
+elektrikli lokomotif
+elektrik ölçer
+elektrikli karıştırıcı
+elektrik motoru
+elektrik organı
+elektrik aralığı
+elektrikli buzdolabi
+elektrikli diş fırçası
+elektrikli daktilo
+elektrolitik
+elektronik Denge
+elektronik cihaz
+elektronik ekipman
+elektronik fetal monitör
+elektron mikroskobu
+asansör
+asansör boşluğu
+elçilik
+süsleme
+Acil servis
+emaye
+emaye
+yakılarak süslenmiş olan
+energizer
+motor
+mühendislik
+İngilizce eyer
+büyütücü
+topluluk
+sancak
+saçak
+eğlence merkezi
+siper kazma aracı
+zarf
+zarf
+zarf
+epe
+sofra ortasına konulan süslü kâse
+ekolayzer
+ekvatoral
+ekipman
+silgi
+kalkmalı prizma
+Erlenmeyer şişesi
+saat maşası
+eğimli yüzey
+espadrille
+meyve ağacı kafesi
+espresso makinesi
+espresso dükkanı
+kuruluş
+estaminet
+Etajer
+etamine
+ethernet
+Ethernet kablosu
+tüba
+buharlaştırmalı soğutucusu
+akşam çantası
+egzersiz bisikleti
+egzoz
+egzoz fanı
+sergi salonu
+ekspres
+uzatma kablosu
+harici sürücü
+ekstraktör
+Kaş kalemi
+eyeliner
+göz bandı
+mercek
+far
+kumaş
+cephe
+yüz koruma
+aynası
+makyaj pudrası
+yüz peçe
+kaplama
+kopya
+fabrika
+fayans
+peri ışığı
+orak biçimli ağır kılıç
+fallboard
+sahte yüz
+aile odası
+fan
+vantilatör kayışı
+fan blade
+kıyafet balosu elbisesi
+kapı üstü yelpaze şeklinde pencere
+fanjet
+bel çantası
+fan tonoz
+çiftlik binası
+Çiftçi marketi
+çiftlik
+çiftlik makine
+farmplace
+fatigues
+musluk
+tüy boa
+fötr şapka
+jant
+keçe
+keçeli kalem
+felucca
+çit
+eskrim maskesi
+eskrim kılıcı
+dönme dolap
+yüksük
+feribot
+fes
+fiber optik kablo
+fiberscope
+keman yayı
+topçu
+alan emisyon mikroskobu
+dürbün
+alan hokey topu
+alan ev
+alan lensi
+alan çadır
+saha
+beşinci tekerlek
+savaşçı
+şekil paten
+filaman
+dosya
+dosya klasörü
+film
+Film avans
+filtre
+bulucu
+parmak
+klavye
+parmak boyası
+parmak boyama
+parmak plakası
+fipple flüt
+ateş
+yangın alarmı
+ateşli silâh
+yangın alarmı
+fireboat
+ateş tuğlası
+itfaiye arabası
+yangın söndürücü
+yangın demir
+şömine
+yangın ekran
+yangın kulesi
+yanma odası
+ilk yardım kiti
+ilk taban
+birinci sınıf
+fishbowl
+balıkçı cazibesi
+olta takımı
+olta
+ağ
+fiksatif
+tamire
+bayrak
+büyük kulplu şişe
+bayrak direği
+flanş
+flanel
+flanel taklidi pamuklu kumaş
+kapak
+flaş
+flaş
+flaşlı kamera
+el feneri
+flaş için pil
+flash bellek
+cep şişesi
+flatbed
+flatbed basın
+düz tezgah
+tek odalı daire
+düz panel ekran
+yassı
+zambak
+uçuş simülatörü
+çakmaklı tüfek
+çakmaklı tüfek
+takla
+şamandıra
+deniz uçağı
+sel
+zemin
+zemin
+taban kaplaması
+zemin kiriş
+Zemin lambası
+çiçekçi
+diş ipi
+çiçeklik
+flugelhorn
+florasan lamba
+floş tuvalet
+flüt
+flüt
+uçmak
+deniz uçağı
+flying buttress
+olta
+çadır sinek
+volan
+köstek
+Sis lambası
+folyo
+kat
+Klasör
+katlanır sandalye
+katlanır testere
+Food court
+mutfak robotu
+futbol kask
+Futbol stadyumu
+ayak banyosu
+yaya köprüsü
+tabure
+ayakkabı
+ayakkabı
+avlu
+ön güvertede
+pruva direği
+ön yelken
+forklift
+resmi kıyafet
+takviye
+kale
+Foucault sarkacı
+fular
+kötü hava dişli
+dökümhane
+Çeşme
+dolma kalem
+dört atlı araba
+dört direkli karyola
+Dört tekerlekten çekiş
+Dört tekerlekten çekiş
+dört tekerlekli
+siper
+freze
+çerçeve
+çerçeve
+mektup damgalama makinesi
+ücretsiz ev
+pedal çevirmeden gitmek
+yük vagonu
+navlun astar
+yük treni
+Fransız kapı
+Korno
+Fransız pencere
+Fresnel merceği
+yıpratmak
+sürtünmeli kavrama
+şayak
+firkateyn
+fırfır
+Frizbi
+frak
+frak
+avlu
+ön projektör
+kumar makinesi
+kızartma tavası
+Benzin göstergesi
+yakıt enjeksiyonu
+Tam elbise üniforma
+cenaze evi
+huni
+kürk
+kürk
+kürk şapka
+donanım
+donanım
+mobilya
+kırışık
+sigorta
+fusee sürücü
+uçak gövdesi
+şilte
+gabardin
+üçgen çatı
+üçgen çatı
+gaff topsail
+tıkaç
+tozluk
+tozluk
+galeri
+gambrel
+GameBag
+oyun ekipmanları
+kumar masası
+işe yaramaz şemsiye
+borda iskelesi
+iskele
+kızak
+garaj
+garaj
+Garand tüfeği
+çöp
+çöp kamyonu
+dipte
+Bahçe
+Bahçe
+bahçe tırmık
+bahçe küreği
+bahçe araç
+bahçe mala
+çirkin yaratık
+sarımsak döveceği
+giysi
+giysi çantası
+asker kasketi
+jartiyer kayışı
+jartiyer dikiş
+gaz obur
+bek
+gaz tabancası
+Gaz ısıtıcı
+gaz tutucu
+conta
+gaz lambası
+gaz maskesi
+gaz sayacı
+benzinli motor
+benzin göstergesi
+gazlı fırın
+gazlı fırın
+gaz pompası
+havagazı ocağı
+gaz halkası
+gaz tankı
+tabanca
+kapı
+ev kapısı
+gateleg tablosu
+kapı dikmesi
+toplanan etek
+mitralyöz
+ölçü
+iş eldiveni
+gazlı bez
+gazlı bez
+tokmak
+balkon
+vites
+vites
+dişli
+dişli takımı
+Vites değiştirme
+jeneratör
+jeneratör
+jeneratör
+Jeodezik kubbe
+jorget
+araba
+dağ geçidi
+seyyar teyp
+hediye Dükkanı
+hediye sarma
+iş
+yaldızlı
+şemsiye
+fıskiye
+kiriş
+kuşak
+bardak
+bardak
+gözlük durumda
+glebe ev
+planör
+Global Konumlandırma Sistemi
+glockenspiel
+eldiven
+torpido gözü
+güneş saati mili
+hedef
+kale ağzı
+kale direği
+kadeh
+gözlük
+Go Kart
+altın kaplama
+Golf çantası
+Golf topu
+Golf arabası
+Golf klübü
+golf kulübü başkanı
+golf ekipmanı
+golf eldiven
+öcü
+gondol
+gong
+boğaz zırhı
+Gotik kemer
+oymak
+sukabağı
+cüppe
+cüppe
+cüppe
+kargaşa
+tutunma barı
+dereceli silindir
+duvar yazısı
+gramofon
+tahıl ambarı
+Dede saati
+kuyruklu piyano
+graniteware
+üzüm çardak
+borda kancası
+borda kancası
+Çim etek
+ızgara
+ızgara
+rende
+mezar taşı
+sos kabı
+gri
+yağ tabancası
+greasepaint
+yağlı kaşık
+palto
+büyük salon
+manav
+yeşil Ev
+el bombası
+saplı ızgara
+ızgara
+öğütücü
+taşlama tekerleği
+zımpara taşı
+sebze poşeti
+Bakkal
+grogren
+zemin kat
+groundsheet
+Tanga
+gueridon
+Guarnerius
+misafir odası
+güdümlü füze kruvazörü
+güdümlü füze firkateyni
+belediye binası
+giyotin
+gitar
+gitar penası
+tabanca
+top arabası
+gun durumda
+gun muhafaza
+ateşleme düzeni
+çuval
+tabanca tetik
+peş
+jimnastik aparat
+jiroskop
+demir testeresi
+sap
+saç fırçası
+kuaförlük
+postiş
+firkete
+kıvrık toka
+saç spreyi
+yarım bağlama
+yarım parça
+salon
+salon
+salon
+yurt
+yular
+yular
+çekiç
+hamak
+sepet
+el
+hentbol
+el çanı
+El üfleyici
+El hesap makinesi
+çekçek
+el kremi
+kelepçe
+el cam
+el cam
+el bilgisayarı
+mendil
+gidon
+dokuma tezgâhı
+el losyonu
+el bagajı
+rüküş
+El biçme
+el pompası
+el testeresi
+ahize
+El aleti
+el havlusu
+el arabası
+askı
+pilotun bağlanarak uçtuğu planör
+liman
+sabit disk
+baret
+armonika
+harmonyum
+koşum
+koşum
+arp
+arp
+harpsikord
+Harrow
+biçerdöver
+çile
+şapka
+şapka kutusu
+yukarıya açılır arka kapı
+yukarıya açılır arka kapı
+balta
+şapka iğnesi
+zırh yelek
+Hawaii gitar
+halat
+saman balya
+patoz
+baş
+yatak başı
+baş örtme
+headdress
+kapak contası
+far
+başlık
+Merkez
+kafalık
+Pruva
+başörtüsü
+kulaklık
+dizgin
+headstock
+sağlık spa'sı
+işitme cihazı
+işitme cihazı
+cenaze arabası
+ocak
+Şöminenin
+ısıtma motoru
+ısıtıcı
+ısı lambası
+Isı pompası
+soğutucu
+çit
+çit düzeltici
+helikopter
+kask
+kask
+hemostat
+ajur
+tavuk tüneği
+zikzak yapmak
+hessian çizme
+heterodin alıcı
+saklanma yeri
+hi-fi
+yüksek sunak
+highball cam
+highboy
+yüksek sandalye
+vurgulayıcı
+vurgulayıcı
+çok katlı
+başörtüsü
+menteşe
+kalça çizme
+cep şişesi
+arka cep
+hipodrom
+kalça çatı
+hokey paten
+Hokey sopası
+çapa
+vinç
+Kulp
+kâse
+tabanca kılıfı
+tabanca kılıfı
+ev Aletleri
+ev bilgisayarı
+kale
+ev Odası
+gösterişsiz
+toprak parçası
+ev tiyatrosu
+bilemek
+bal peteği
+başlık
+başlık
+kanca
+kanca
+kanca
+nargile
+hoopskirt
+elektrik süpürgesi
+çeyiz sandığı
+yatay çubuk
+yatay stabilizatör
+boynuz
+korna düğmesi
+at
+at taşıma
+at arabası
+at arabası
+at nalı
+at nalı
+at izi
+hortum
+çorap
+hastane
+hastane yatağı
+hastane odası
+hastane gemisi
+Pansiyon
+Pansiyon
+sıcak hava balonu
+otel
+otel-casino
+otel odası
+direkt hat
+sıcak pantolon
+sıcak plaka
+sıcak çubuk
+sıcak küvet
+sıcak su şişesi
+balıksırtı kontrolü
+kum saati
+saat ibresi
+ev
+ev
+yüzen ev
+Kartların ev
+evin boya
+housetop
+Konut
+kulübe
+hovercraft
+hubcap
+hula-hoop
+gövde
+Humvee
+Av bıçağı
+engel
+kasırga güvertesi
+rüzgâr feneri
+kulübe
+dolap
+hidrolik baskı
+hidrofil
+hidrofil
+hidrojen bombası
+higrometre
+hiperbarik odası
+hipermarket
+derialtı iğnesi
+derialtı şırıngası
+dağcı buz baltası
+buzlu çay kaşığı
+buz hokeyi pisti
+buz makinesi
+buz yapıcı
+buz pateni pisti
+buz pateni
+buz maşası
+Buz tepsisi
+boşta kasnak
+Eskimo kulübesi
+kontak anahtarı
+vuruşlu yazıcı
+pervane
+baskı
+in sepet
+yakma fırını
+meyil ölçeği
+kuluçka makinesi
+gösterge
+soluk aldırma cihazı
+mürekkep şişesi
+Mürekkep püskürtmeli yazıcı
+inkle
+masaya gömülü hokka
+ayağın üst kısmı
+kurum
+Enstrüman
+entegre devre
+önleme uçağı
+interkom
+kıtalararası balistik füze
+arayüzey
+iç kapı
+dahili sürücü
+interkom
+kavşak
+İnverter
+iPod
+iPod video
+Demir
+Demir
+ütüler
+dökümhane
+yapay akciğer
+hırdavat
+sulama hendek
+kriko
+kriko
+ceket
+ceket
+kutudan fırlayan bebek
+kabaktan yapılmış fener
+marangoz rendesi
+hapis
+jaluzi
+pervaz
+Jampot
+kavanoz
+cirit
+Yaşam Jaws
+kot
+jip
+deri yelek
+büyük şarap şişesi
+Jersey
+Jersey
+jet
+Jet motoru
+jetliner
+ağız kopuzu
+vinç kolu
+jibboom
+hoplamak
+yapboz
+çekçek
+jodhpurs
+jodhpur
+marangozluk
+birleştirici
+kiriş
+patalya
+oyun kolu
+tırmanma oyuncağı
+Önemsiz
+sürahi
+müzik kutusu
+Jumbo jet
+atlamacı
+Jumper kablosu
+tulum
+kavşak
+Eskici dükkanı
+Kachina
+Kalaşnikof
+kameez
+kayık
+kazoo
+tutmak
+fıçı
+köpek kulübesi
+Fransız asker kasketi
+keç, iki direkli yelkenli gemi
+su ısıtıcısı
+su ısıtıcısı
+anahtar
+anahtar
+tuş takımı
+klavye enstrüman
+anahtar deliği
+khadi
+haki
+hakiler
+Kimar
+khukuri
+kickstand
+kick starter
+kibarlık
+fırın
+İskoç eteği
+kimono
+kral
+kirk
+entari
+entari
+malzeme
+malzeme
+alet çantası
+mutfak
+mutfak gereçleri
+Mutfak masa
+mutfak gereci
+mutfak gereçleri
+klakson
+dizlik
+diz boyu
+dizlik
+diz parçası
+bıçak
+bıçak
+bıçak
+örgü örmek
+örgü makinesi
+tığ
+triko
+tokmak
+kapı tokmağı
+düğüm
+koto
+Kremlin
+Kürdistan
+kurta
+kylix
+laboratuar tezgah
+laboratuvar önlüğü
+dantel
+lacquerware
+merdiven geri
+merdiven geri
+merdiven kamyon
+kepçe
+lag vidası
+lama manastırı
+kapı üzerine asılan süs
+topal
+laminat
+lamba
+lamba
+lamba direği
+abajur
+sivri pencere
+iniş takımı
+ağ kepçe
+sabit hat
+lanolin
+Fener
+kordon
+klapa
+dizüstü bilgisayar
+larengoskop
+lazer
+lazer güdümlü bomba
+lazer yazıcı
+kement
+mandal
+mandal
+yakın zamanda
+lateks boya
+çıta
+torna
+kafes
+fırlatıcı
+çamaşır sepeti
+lavaliere
+çim sandalye
+çim mobilya
+çim biçme makinesi
+bebek eşyaları
+kurşun asidik akü
+lider dizgin
+kurşun kalem
+yan binaya yaslı
+tasma kayışı
+suni deri
+deri şerit
+kürsü
+konferans salonu
+lederhosen
+bacak
+legging
+rahat kıyafet
+lens
+lens
+lens kapağı
+tek parça streç giysi
+Zarf açacağı
+seviye
+manivela
+manivela
+manivela
+kol kilidi
+Levi'nin
+kütüphane
+kütüphane
+kapak
+filika
+cankurtaran simidi
+Can yeleği
+hayat koruyucu
+bağ
+ışık
+ampul
+ışık yayan diyot
+çakmak
+daha hafif havadan zanaat
+hafif makineli tüfek
+Işık ölçer
+ışık mikroskobu
+paratoner
+ışık kalemi
+fener gemisi
+Lilo
+sınırlayıcı
+limuzin
+lineer hızlandırıcı
+satır yazıcı
+astar
+kadın iç çamaşırı
+bağlantı
+bağlantı eğitmen
+Linotip
+dudak parlak
+ruj
+likör cam
+sıvı kristal ekran
+Sıvı metal reaktörü
+çöp Kutusu
+küçük tiyatro
+yaşam dörtte
+oturma odası
+mokasen
+ödünç
+lop
+Istakoz pot
+yerel
+kilitlemek
+kilitlemek
+kilitlemek
+kanal havuzundan geçme
+kilitli dolap
+soyunma odası
+madalyon
+kilit kapısı
+pense kilitleme
+lockstitch
+lokomotif
+Pansiyon
+çatı katı
+kütüklerden yapılmış kulübe
+sundurma
+uzun yay
+paçalı don
+Uzun kollu
+uzun pantolon
+bak
+dokuma tezgâhı
+kamyon
+losyon
+hoparlör
+salon
+loungewear
+pertavsız
+aşk düğüm
+Aşk koltuğu
+sevgi dolu bardak
+lowboy
+LP
+Luger
+bagaj bölmesi
+bagaj rafı
+aşırmalı yelken
+kereste fabrikası
+yemek odası
+ut
+lüks astar
+eğitim salonu
+Lychgate
+pala
+makine
+makine
+makineli tüfek
+makrome
+kumaş
+cankurtaran yeleği
+Magazin yığını
+manyetik pusula
+manyetik disk
+Manyetik bant
+manyetometre
+büyüteç
+büyük şişe
+posta çuvalı
+posta kutusu
+maillot
+maillot
+posta treni
+ana direk
+ana rotor
+mayistra yelkeni
+İtalyan çinisi
+makyaj
+Maksutov teleskop
+tokmak
+tokmak
+tokmak
+mandola
+mandolin
+yemlik
+bozmak
+menhol
+menhol kapağı
+eski savaş gemisi
+manometre
+malikâne
+malikane salonu
+mansard
+papaz evi
+konak
+şömine rafı
+şal
+harita
+maraca
+bilye
+yürüyen sırası
+klisifon
+yat Limanı
+işaretleyici
+pazar
+kakma işi
+sahil koruma kulesi
+maskara
+hovarda
+golf sopası
+golf sopası niblick
+mescit
+maske
+maske
+mason kavanoz
+duvarcılık
+direk
+direk
+mastaba
+ana yatak odası
+başyapıt
+mat
+mat
+maç
+kibrit kutusu
+Üçkağıtçılar
+malzeme
+doğum Hastanesi
+Doğumevi
+hasır örme
+kazma
+yatak örtüsü
+tokmak
+mavzer
+mozole
+maksi
+bahar bayramı çiçekli direği
+Labirent
+ölçmek
+ölçüm fincan
+Ölçüm aleti
+ölçüm çubuğu
+et sayacı
+kıyma makinesi
+et termometresi
+mekanik cihaz
+mekanik piyano
+mekanizma
+tıbbi bina
+sağlık topu
+ilaç kutusu
+megalit
+megafon
+anıt
+bellek
+bellek cihazı
+hayvanat bahçesi
+taş anıt
+menorah
+Menora
+Adamın giysileri
+Erkekler odası
+ticari kuruluş
+cıva termometre
+karışıklık ceket
+sefertası
+metal dedektörü
+metal vida
+metre
+metronom
+asma kat
+mikrofiş
+mikrometre
+mikrofon
+mikroişlemci
+mikroskop
+mikroskobik dilimleme aleti
+mikrodalga
+midiron
+Mihrap
+Mihrap
+askeri üniforma
+askeri araç
+süt can
+süt şamandıra
+değirmen
+değirmenci
+tuhafiye
+tuhafiye
+değirmentaşı
+değirmentaşı
+millwheel
+teksir makinası
+minare
+kıyma
+maden kuyusu
+mini-bar
+minibüs
+minicar
+bakanlık
+mini etek
+minivan
+vizon
+katedral
+nane
+Yelkovan
+ayna
+füze
+gönye kutusu
+gönye
+eldiven
+mikser
+mikser
+karıştırma kabı
+karıştırma musluk
+mizana yelkeni
+mizzenmast
+seyyar ev
+Model T
+modem
+modül
+tiftik
+manastır
+para kemeri
+izlemek
+izlemek
+izlemek
+maymun-anahtarı
+monokl
+monstrance
+Mağribi kemer
+moped
+yünlü kadife halı
+miğfer
+sabah elbise
+sabah odası
+Morris sandalye
+harç
+harç
+harç kurulu
+zıvana eklem
+mozaik
+cami
+cibinlik
+motel
+motel odası
+Mother Hubbard
+hareketli resim kamerası
+motor
+motorbot
+motosiklet
+Motor otel
+motorlu tekerlekli sandalye
+motosiklet
+Motorlu araç
+tümsek
+tümsek
+dağ
+dağ bisikleti
+dağ çadırı
+fare
+fare tuşu
+fare kapanı
+köpük
+ağızlık
+ağızlık
+ağızlık
+hareket
+film projektör
+hareketli van
+kerpiç
+çamurluk
+susturucu
+müftü
+Kupa
+saman örtüsü
+katır
+çok kanallı kaydedici
+portatif dolap yatağı
+müzik aleti
+Müzik kutusu
+Müzikhol
+müzik Okulu
+nota sehpası
+piyano taburesi
+misket tüfeği
+muslin
+ağız
+tırnak
+tırnak fırçası
+tırnak törpüsü
+tırnak cilası
+narrowbody uçak
+dar pervaz
+ulusal anıt
+nautilus
+seyir sistemi
+deniz ekipmanları
+deniz silah
+deniz silahlar
+kilise ortası
+yaka kolyesi
+boyun atkısı
+kolye
+boyun kürkü
+neckpiece
+kravat
+boyunbağı
+iğne
+kargaburun
+dikiş
+negatif
+sabahlık
+neon lamba
+yuva
+fol
+ağ
+ağ
+ağ
+ağ
+tırabzan başı direği
+gazete
+habercilik
+gazete bayii
+newton teleskopu
+kalem ucu
+golf sopası
+NiCad
+gecelik
+gece lambası
+yatak kıyafeti
+meme
+niqab
+oluklu saçtan yapılmış baraka
+gürültücü
+sigara içmeyen
+noria
+burunsallık
+nosewheel
+not defteri
+nükleer reaktör
+çıplak
+fidanlık
+somun ve cıvata
+naylon
+naylon çorap
+kürek
+şerbetçiotu fırını
+oast ev
+obelisk
+amaç
+obua
+gözlem kubbe
+rasathane
+ocarina
+oktant
+kilometre sayacı
+ofis
+Ofis binası
+Ofis mobilyaları
+off-line ekipmanları
+Ohm metre
+muşamba
+Yağ filtresi
+gaz lambası
+yağlı boya
+yağ rafinerisi
+muşamba
+petrol tankeri
+zeytin yeşili
+zeytin yeşili
+Olimpiya Zeus
+omlet tava
+soğan kubbe
+açık hava pazarı
+open-end anahtar
+açacak
+seyrek örgü
+opera
+operasyon mikroskobu
+ameliyathane
+ameliyat masası
+optik disk
+optik alet
+optik teleskop
+sıradan
+organ
+organdi
+Organik ışık yayan diyot
+org yeri
+Organ boru
+organza
+cumba
+O halka
+orlon
+yetimhane
+güneş sistemi modeli
+osilograf
+osiloskop
+ölü kemiklerinin koyulduğu yer
+otoskop
+Osmanlı
+dıştan takma motor
+dıştan takma motorlu tekne
+ek bina
+giyim
+nehir ağzı
+birlik
+ek bina
+avara demiri
+outrigger kano
+dış ayna
+fırın
+fırın termometre
+tüm
+tüm
+tulumu
+çıkıntı
+Tepegöz
+overnighter
+üst geçit
+galoş
+overskirt
+kağnı
+Oxford
+oksimetre
+oksijen maskesi
+pace araba
+paket
+paket
+paket
+paket deposu
+paketleme
+paket
+ambalaj kutusu
+kısa kürek
+kısa kürek
+yandan çarklı gemi
+kanatlı çark
+padok
+asma kilit
+boya
+paintball
+paintball silahı
+boya fırçası
+paisley
+pijama
+pijama
+Saray
+Saray
+Saray
+çit
+palet
+tava
+tava
+lambri
+dilenmek
+panik butonu
+küfe
+küfe
+panpipe
+panteon
+panteon
+pantie
+soluma
+pantolon bacak
+kiler
+pantolonlu takım
+külot korse
+külotlu çorap
+zırhlı
+kağıt zinciri
+Ataç
+Kağıt raptiye
+kağıt besleme
+kağıt havlu
+paraşüt
+paralel çubuklar
+korkuluk
+parasail
+güneş şemsiyesi
+parer
+parfe cam
+pari-mutuel makinesi
+parka
+park bankı
+parkmetre
+salon
+parke
+parke döşeme
+papaz evi
+parçacık dedektörü
+bölme
+parçalar bin
+Yolcu aracı
+Yolcu gemisi
+yolcu treni
+yolcu minibüsü
+paspartu
+yama
+yama kablosu
+silhat
+yama cep
+yama işi
+veranda
+pastane
+kaldırım döşemek
+köşk
+kaldırımcı
+piyon
+ödeme telefon
+şeftali bahçesi
+kısa gemici paltosu
+pedal
+pedal itici
+kaide
+ayaklı masa
+yaya geçidi
+pedicab
+alınlık
+pedometre
+kabuk soyucu
+dübel
+pegboard
+Pelham
+kalem
+kalem
+Kalemlik
+Kalemtraş
+kolye küpe
+sarkaç
+sarkaçlı saat
+cezaevi
+çakı
+penlight
+flama
+pennywhistle
+pentot
+Peplum
+biber değirmeni
+biberlik
+biber spreyi
+sık dokunmuş bez
+süzücü
+vurmalı çalgı
+delinme
+parfüm
+parfümeri
+periferik
+sütunlu avlu
+sürekli baskı
+kişisel bilgisayar
+kişisel dijital asistan
+personel taşıyıcı
+havaneli
+havaneli
+Petri kabı
+evcil hayvanlar ve ihtiyaçlarının satıldığı dükkân
+kombinezon
+kilise sırası
+küçük şişe
+fonograf iğnesi
+fonograf kaydı
+fotokopi makinesi
+fotografik ekipmanların
+fotomikrograf
+fotostat
+fotostat
+piyano
+piyano klavyesi
+almak
+pickelhaube
+Bahçe çiti
+almak
+çerçeve
+resim şapka
+iskele
+iskele
+iskele kemer
+boy aynası
+iskele tablosu
+Meryemana resmi
+domuz yatak
+domuzluk
+kumbara
+şahmerdan
+hap şişesi
+asker kepi
+sele
+boyunduruk
+yastık
+yastık blok
+yastık dantel
+yastık sahte
+kılavuz tekne
+pilothouse
+pilot ışık
+toplu iğne
+toplu iğne
+pinata
+langırt makinesi
+kıskaç
+pinpon topu
+topluiğne başı
+kanat
+doruk
+çizgili
+eksen
+fırıldak
+fırıldak
+boru kesici
+boru montajı
+Boru anahtarı
+pike
+korsan
+piste
+tabanca
+kabza
+piston
+piston halkası
+piston kolu
+sürahi
+yunuslama kama
+ilik şapka
+pizzacı
+etek cebi
+sikke levhası
+uçak
+uçak
+düzlem koltuk
+planetaryum
+kalaslar
+planlamacı
+bitki
+ekici
+Alçı
+kartonpiyer
+sıva mala
+naylon poşet
+plastik ambalaj
+plastron
+plaka
+plaka
+plaka
+plaka raf
+platform
+platform yatak
+servis tabağı
+playback
+oyun alanı
+çocuk parkı
+plaza
+pli
+genel kurul
+kerpeten
+plimsoll
+çizici
+pulluk
+fiş
+fiş
+plughole
+çekül bob
+dalgıç
+peluş
+kontrplak
+pocketcomb
+cep kapağı
+çakı
+cep saati
+koza
+zıp zıp
+nokta-ve-çek kamera
+sivri kemerli
+işaret mala
+oya işi
+Polaroid fotoğraf makinesi
+kutup
+polis teknesi
+polis van
+oy verme kabini
+polo tokmak
+Polo bluz
+pomat
+kulplu beygir
+panço
+kurumlu
+duba
+duba köprü
+midilli arabası
+havuz topu
+havuz Odası
+Bilardo masası
+kıç güverte
+pop şişe
+poplin
+porselen
+sundurma
+domuz turtası
+çorba kâsesi
+taşınabilir
+taşınabilir bilgisayar
+Taşınabilir daire testere
+kale kapısı
+porte-cochere
+portföy
+lomboz
+sütunlu giriş
+ceket torbası
+portre kamera
+portre objektifi
+pozitron emisyon tomografi tarayıcısı
+posta
+posthole arayıcısı
+tencere
+tencere
+potansiyometre
+potansiyometre
+potpuri
+çömlek kırığı
+çömlekçinin tekerleği
+çanak çömlek
+lazımlık koltuğu
+kese
+lapa
+pound
+pudra
+toz boynuz
+güç kablosu
+güç matkap
+güç hattı
+güç biçme
+motorlu testere
+güç kürek
+servo direksiyon
+seccade
+dua şalı
+papaz evi
+basın
+basın
+basın kutusu
+düdüklü tencere
+basınç ölçer
+basınç takım
+primus soba
+baskı
+baskılı devre
+yazıcı
+yazıcı
+yazıcı kablosu
+manastır
+hapis
+üretim hattı
+mermi
+projektör
+projektör
+pervane
+pervane düzlemi
+turbo pervaneli uçak
+protez
+iletki
+budayıcı
+budama testeresi
+budama makası
+santur
+seslendirme sistemi
+umumi tuvalet
+toplu taşıma
+cin
+Çek
+kasnak
+Pullman
+kenara çekmek
+pompa
+pompa
+yumruk kase
+kum torbası
+zımba presi
+meyve sepeti
+kumar oynamak
+iki kişilik çadır
+temizleyici
+ters örgü
+çanta
+itme bisiklet
+butona basınız
+itici
+düz yüzlü golf sopası
+macun spatulası
+bulmaca
+pilon
+pilon
+pirometre
+sikkelerin ayarını kontrol etmek
+dörtlü
+kuvars pil
+kraliçe
+tüy
+yorgan
+kapitone yatak örtüsü
+titreme
+duvar köşesi
+QWERTY klavye
+tavşan kafesi
+yarışçı
+yarış teknesi
+yarış konser
+yarış kik
+raf
+raf
+raket
+Badminton
+radar
+radyal
+radyal motor
+radyatör
+radyatör
+radyatör kapağı
+radyatör hortumu
+radyo
+radyo anteni
+telsiz telgraf
+radyo-fonograf
+radyo alıcısı
+radyotelgraf
+telsiz telefon
+radyo teleskop
+radome
+Sal
+kiriş
+RagBag
+raglan
+Raglan kol
+demiryolu
+demiryolu çit
+korkuluk
+demiryolu tüneli
+yağmur varil
+yağmurluk
+yağmur göstergesi
+yağmur sopa
+tırmık
+tırmık sapı
+ramekin
+rampa
+sur
+çiftlik
+ahır ev
+rasgele erişim belleği
+rangefinder
+aralık davlumbaz
+meç
+törpü
+rattan
+fare kapanı
+reyon
+jilet
+okuma lambası
+Okuma odası
+sadece hafızayı oku
+okuma
+hazır giyim
+sıkacak
+dikiz aynası
+alıcı
+resepsiyon masası
+resepsiyon
+girinti
+RECLINER
+kayıt değiştirici
+ses kayıt cihazı
+kayıt
+kayıt oynatıcı
+kayıt kol
+Kurtarma odası
+eğlence aracı
+dinlenme odası
+geri dönüşüm Kutusu
+kırmızı halı
+makara
+makara
+yemekhane
+yemekhane masa
+rafineri
+yansıtmalı teleskop
+reflektör
+refleks kamera
+reformcu
+kırılma teleskop
+refraktometre
+buzdolabı
+kurumsal işaretler
+regülatör
+dizginleme
+röle
+kutsal emanetlerin saklandığı sandık
+uzaktan kumanda
+uzak terminal
+sıva
+tamir dükkanı
+yinelenen ateşli silah
+depo
+rezervuar
+Konut
+rezistans
+yankılayıcı
+yankılayıcı
+resort otel
+solunum cihazı
+restoran
+han
+tutucu
+istinat duvarı
+dürbün ağı
+el çantası
+geri çekme kası
+revers
+revolver
+döner kapı
+kurdele
+Çizgili tonoz
+azarlama
+sırt halat
+sürme önyükleme
+sürme kırpma
+sürme biçme
+tüfek
+teçhizat
+arma
+paten alanı
+isyan tabanca
+yükseltici
+Ritz
+nehir botu
+perçin
+perçinleme makinesi
+yol
+binek atı
+fırın
+elbise
+rock'çı
+külbütör
+roket
+roket
+salıncaklı koltuk
+rodeo
+rulman
+paten
+Rollerblade
+stor perde
+lunapark hız treni
+paten
+hadde
+oklava
+lokomotif ve vagonlar
+roll on deodorant
+roll on deodorant
+roll-on roll-off
+Rolodex
+Roma kemer
+Roma bina
+romper
+çatı
+çatı
+oda
+Odanın ışık
+halat
+IP köprü
+gül pencere
+döndürme mekanizması
+dönen şaft
+et lokantası
+et lokantası
+rotor
+rotor
+rotor kanadı
+rotor kafası
+yuvarlak ve kubbeli yapı
+yuvarlak ve kubbeli yapı
+allık
+rulet
+rulet topu
+rulet tekerleği
+yuvarlak
+yarım dairelik kemer
+yönlendirici
+mahmuzlamak
+satır ev
+kayık
+royal
+kraliyet direk
+lastik bant
+lastik çizme
+lastik silgi
+dümen
+halı
+Rugby topu
+harabe
+kural
+gürlemek
+arka portatif koltuk
+büyük bardak
+oyun salonu
+rundle
+koşu ayakkabısı
+koşu yolu
+rya
+kılıç
+kılıç testere
+samur
+samur ceket
+sabo
+kesecik
+çuval
+çuval
+erkek ceketi
+yağmalama
+sele
+heybe
+eyer örtüsü
+eyer oxford
+saraçlık
+kasa
+Güvenli para yatırma
+Emniyet kemeri
+güvenlik bisiklet
+çengelli iğne
+emniyet rayı
+tıraş makinesi
+Emniyet valfi
+yelken
+yelken
+yelkenli
+yelken bezi
+yelkenli gemi
+salata barı
+salata kasesi
+sallet
+salon
+Saltbox
+tuzluk
+tepsi
+salwar
+Samisen
+semaver
+sandalet
+kum torbası
+kum havuzu
+kum saati
+kum kama
+sandviç kurulu
+kadın bağı
+sarılmak film
+lahit
+sari
+Malaya peştemâli
+kuşak
+kanat raptiye
+sürme pencere
+omuz çantası
+saten taklidi pamuklu kumaş
+uydu
+uydu alıcısı
+uydu televizyon
+saten
+tencere
+saucepot
+sauna
+yatırım bankası
+testere
+bıçkı sehpası
+saksofon
+sakshorn
+kın
+iskele
+ölçek
+ölçek
+skalpel
+tarayıcı
+tarayıcı
+tarayıcı
+eşarp
+eşarp eklem
+kilim
+Schmidt teleskop
+okul
+okul çantası
+okul zili
+okul otobüsü
+okul gemisi
+bira bardağı
+pala
+makas
+aplik
+aplik
+kepçe
+sayı tahtası
+ovma pedi
+kazıyıcı
+ekran
+ekran kapısı
+vida
+vida
+vida
+Tornavida
+vida
+screwtop
+sert fırça
+kürek
+heykel
+deniz tekne
+Deniz Sandığı
+dikiş
+deniz uçağı
+ışıldak
+koltuk
+koltuk
+koltuk
+Emniyet kemeri
+budama makası
+ikinci baz
+ikinci el
+Sekreter
+bölümsel
+sedan
+mibzer
+Segway
+seçici
+kendinden tahrikli araç
+kumaş kenarı
+semafor
+yarı otomatik ateşli silah
+yarı otomatik tabanca
+yarı iletken cihaz
+Yarı müstakil ev
+Yarı römork
+nöbetçi kulübesi
+ayrı
+fosseptik
+sequencer
+Serape
+Serger
+sunucu
+sunucu
+hizmet sepeti
+yemeği servis etmek
+servo
+set silah
+kanepe
+yerleşmek
+yerleşim ev
+yetmiş sekiz
+Antik Dünyanın Yedi Harikası
+dikiş sepeti
+dikiş seti
+dikiş makinesi
+dikiş iğnesi
+dikiş odası
+sekstant
+köstek
+köstek
+gölge kutusu
+şaft
+sevişmek halı
+shaker
+shantung
+frezeci
+köpekbalığı derisi
+kalemtıraş
+Sharpie
+tıraş makinesi
+traş fırçası
+tıraş kremi
+tıraş köpüğü
+şal
+makas
+kılıf
+kaplama
+dökmek
+koyun derisi ceket
+yaprak
+kaplama
+palplanş
+sheetrock
+raf
+raf aparatı
+kabuk
+barınak
+barınak
+barınak
+kalkan
+kalkan
+Shift tuşu
+Dizlik
+gemi
+Nakliye
+gemi enkazı
+gömlek
+gömlek düğmesi
+gömlek kolu
+Shirttail
+shirtwaist
+shiv
+amortisör
+ayakkabı
+ayakkabı
+ayakkabı kutusu
+çekecek
+ayakkabı dükkanı
+şofar
+shoji
+fren çekim
+Dükkan
+alışveriş çantası
+Alışveriş sepeti
+alışveriş kartı
+kısa pantolon
+kısa kol
+fondip kadehi
+pompalı tüfek
+fişek
+atış kulesi
+omuz
+sırt çantası
+omuzlu kemer
+omuz kılıfı
+omuz pedi
+omuz yama
+kürek
+kürek
+showboat
+duş
+duş başlığı
+duş perdesi
+Duş
+duşa kabin
+parçalayıcı
+türbe
+makasçı
+panjur
+panjur
+servis aracı
+servis aracı
+Servis otobüsü
+badminton topu
+mekik helikopter
+orak
+büfe
+motosiklet sepeti
+kadın eyeri
+kaldırım
+Elek
+delikli kap
+manzaraları
+sinyal kutusu
+tabela
+susturucu
+çakmaktaşı
+ipek
+silo
+simülatör
+tek kişilik yatak
+Tek göğüslü ceket
+Tek göğüslü takım
+tek pervane
+atlet
+kardeş gemisi
+sitar
+oturma banyosu
+paten
+kaykay
+çile
+iskelet anahtarı
+kroki
+şiş
+kayak
+kayak bağlama
+kayak ayakkabısı
+kayak kapağı
+kızak kapak
+kik
+Kayak emniyeti
+kayak maskesi
+kayak kutup
+etek
+etek
+telesiej
+skivvies
+takke
+aydınlık
+gökdelen
+bol pantolon
+çıta
+kayrak çatı
+kızak
+uyku tulumu
+kol
+atlı yatak
+atlı kızak çanı
+dilimleyici
+kaymak
+fermuar
+slayt projektörü
+sürgülü hesap cetveli
+Kayar kapı
+sapan
+slingback
+kılıf
+giymek
+kontak bileziği
+şalopa
+yarık
+kumar makinesi
+savak
+küçük bot
+küçük mağazalar
+kokulu şişe
+büzgü
+smokehouse
+sigara tiryakisi
+esrar perdesi
+pürüzsüz düzlem
+atıştırmalık
+aşırmak
+Snap ağız
+Snap-brim şapka
+tuzak
+trampet
+blok koparmak
+bir yudum
+keskin nişancı tüfeği
+snips
+kurdele
+şnorkel
+şnorkel
+kar tepeciği
+snowboard
+kar arabası
+Kar küreme
+kar ayakkabısı ile yürümek
+snowsuit
+kar makinesi
+enfiye kutusu
+snuffer
+sandık
+sabunluk
+sabunluk
+Futbol topu
+çorap
+priz
+maden suyu kutusu
+çim ev
+kanepe
+voleybol
+piyano pedalı
+lağım borusu
+güneş dizi
+Güneş pili
+güneş çanak
+güneş ısıtıcı
+güneş evi
+güneş teleskop
+güneş enerjisi sistemi
+havya
+geniş kenarlı şapka
+sonogram
+çarşı
+ses kamera
+yankı tahtası
+çorba kasesi
+kepçe
+çorba kaşığı
+space bar
+uydu kapsülü
+uzay aracı
+oda ısıtıcısı
+uzay Roketi
+uzay mekiği
+uzay istasyonu
+uzay giysisi
+kürek
+spagetti kavşak
+insan azmanı
+buji
+atışma
+spatula
+spatula
+hoparlör
+mızrak
+özel mağaza
+gözlük
+seyirci pompası
+spektrofotometre
+spekulum
+sürat teknesi
+bump hız
+hız göstergesi
+hız paten
+tansiyon aleti
+baharat rafı
+örümcek ağı
+başak
+iğ
+iğ
+Spin kurutucu
+spinet
+spinet
+kotra yelkeni
+iplik makinası
+iplik çubuk
+çıkrık
+tükürük hokkası
+çamurluk
+cebire
+bölünmüş demiryolu
+Spode
+spoiler
+spoiler
+konuştu
+parmaklık rendesi
+sünger paspas
+kaşık
+kaşık
+Spork
+İskoç eteğinin önüne asılan kürk torba
+spor uçurtma
+Spor araba
+Spor ekipmanları
+Spor giyim
+spor hizmet
+spot
+püskürtme tabancası
+sprey boya
+Bahar dengesi
+fıskiye
+yağmurlama sistemi
+yan yelken
+zincir dişlisi
+zincir dişlisi
+ısparçına
+mahmuz
+düz dişli
+sputnik
+squash raket
+squawk kutusu
+çekçek
+sıkacak
+stabilizatör
+denge çubuğu
+kararlı
+kararlı vites
+yığınlar
+stadyum
+sahne
+posta arabası
+vitray pencere
+merdiven halı
+merdiven boşluğu
+ahır
+ahır
+kaşe
+direk
+durmak
+standart iletim
+Zımba tabancası
+zımba
+marş
+başlangıç ​​kapısı
+eyalet meclisi
+görkemli ev
+lüks kamara
+istasyon
+stator
+heykel
+StaySail
+Biftek bıçağı
+hayalet uçak
+gizli bombacı
+gizli savaşçı
+buhar makinesi
+vapur
+vapur
+buharlı ütü
+buharlı lokomotif
+ezmek
+çelik
+çelik kemer köprü
+çelik tambur
+Çelik Fabrikası
+kantar
+çan kulesi
+direksiyon
+dikili taş
+adım
+gerilim düşürücü transformatör
+müzik seti
+stereoskop
+Sternwheeler
+stetoskop
+pilaki tavası
+Çubuk
+Çubuk
+Çubuk
+pencere çerçevesi
+kama
+cambaz ayaklığı
+üzengi
+Stob
+Stok
+yarış otomobili
+çorap
+et suyu tenceresi
+stockroom
+hisse senedi eyer
+çaldı
+taş duvar
+kumlu taştan kap
+taş
+dışkı
+eğilmek
+musluk
+kronometre
+depolama cihazı, harici depolama cihazı
+depolama alanı
+fırtına kapı
+fırtına pencere
+soba, fırın, ocak
+soba, fırın, ocak
+soba borusu
+Stradavarius
+düz sandalye
+düzleştirici
+düz jilet
+süzgeç
+deli gömleği
+kayış
+kayış menteşe
+askısız
+flama sinek
+sokak
+sokak
+tramvay
+sokak giyimi
+sokak lambası
+sedye
+streç pantolon
+yaylı çalgı
+kiriş
+floresan ile aydınlatma
+stroboscope
+kasa
+kale
+yapı
+damızlık bulucu
+stüdyo daire
+çekyat
+ders çalışma
+çalışma salonu
+şok tabancası
+stupa
+arpacık
+küçük araba
+hafif makineli tüfek
+denizaltı
+denizaltı
+metro tren
+subwoofer
+süet kumaş
+şekerlik
+şeker kaşığı
+takım elbise
+takım elbise kumaşı
+somurtkan
+Yazlık
+sumo halkası
+karter pompa
+sunbonnet
+güneşlenme
+güneş saati
+sundress
+Güneş gözlüğü
+Güneş gözlüğü
+Güneş şapkası
+bol güneş alan oda
+sunroof
+güneş
+sunsuit
+Süper bilgisayar
+otoban
+süpermarket
+üstyapı
+tedarik dolabı
+destek sütunu
+destek hortum
+destek yapısı
+destek kulesi
+cüppe
+cerrahlık
+dalgalanma baskılayıcı
+cerrahi alet
+gözetim sistemi
+suşi bar
+süspansiyon
+asma köprü
+sürdürülmesi pedal
+dikiş
+bez
+bez
+kundak
+yutmak kuyruklu ceket
+sargı
+sineklik
+Kazak
+ter pantolon
+Kazak
+eşofman
+süpürme eli
+mayo
+mayo
+salıncak
+anahtar
+sustalı
+anahtar motoru
+döner sandalye
+karıştırma çubuğu
+kılıç
+kılıçlı baston
+sinagog
+senkromeç
+senkron çevirici
+senkron motor
+synthesizer
+şırınga
+sistem
+tabi
+tablo
+tablo
+tablefork
+servis bıçağı
+masa lambası
+masa testeresi
+yemek kasigi
+masa tenisi masa
+masa tenisi raketi
+masaüstü
+sofra takımı
+tabure
+takograf
+takometre
+takeometre
+çakmak
+tafta
+bagaj kapağı
+stop lambası
+taılpıpe
+kuyruk rotor
+punta
+kanatlı ayakkabı
+talk pudrası
+tam
+kasnak
+kasnak
+tef
+bastırıp sıkıştırmak
+Tampax
+tank
+tank
+maşrapa
+su deposu vagonu
+tanksavar
+tank motoru
+kısa ve kolsuz bluz
+tannoy
+musluk
+tapa
+bant
+bant
+kaset çalar
+teyp sürücüsü
+kaset çalar
+kasetçalar
+goblen
+manivela
+tarmacadam
+tente
+tartan
+dövme
+çay poşeti
+çay top
+çay sepeti
+Çay bardağı
+çaya giderken giyilen elbise
+çaydanlık
+demlik
+çay dükkanı
+çay kaşığı
+çay süzgeci
+Çay masası
+çay urn
+t şeklinde
+tee menteşe
+haberleşme sistemi
+telgraf anahtarı
+telefon
+telefon zili
+telefon kulübesi
+telefon kablosu
+telefon jakı
+telefon hattı
+telefon direği
+telefon alıcısı
+telefon sistemi
+telefon teli
+telefoto lens
+Akıl defteri
+teleskop
+teleskopik görüş
+televizyon
+televizyon anteni
+televizyon kamerası
+televizyon ekipmanları
+televizyon monitörü
+televizyon alıcısı
+televizyon odası
+teleferikle yük taşıma
+tapınak
+tapınak
+geçici bağlanmasından
+hassas
+hassas
+mülk
+Tenis topu
+tenis kampı
+Tenis raketi
+tenor davul
+çadır
+çadır sinek
+kızılderili çadırı
+Sıralı evler
+Terrerium
+terra sigillata
+havlu kumaş
+Tesla bobini
+mozaik işi
+Test roket
+testudo
+tetrode
+tekstil makinesi
+karışık saç
+tiyatro
+tiyatro perdesi
+teodolit
+theremin
+termal yazıcı
+termometre
+termonükleer reaktör
+termos
+termostat
+yüksük
+inceltme makaslar
+üçüncü temel
+sırım
+sırım
+üç parça bir takım
+batöz
+Ucuzluk marketi
+taht
+dip yatağı
+başparmak
+thumbhole
+raptiye
+taç
+tık tık
+kravat
+kravat raf
+bağlantı çubuğu
+tayt
+fayans
+kiremit çatı
+tilt-üst tabloda
+kereste
+kereste
+kronometre
+kronometre
+kronometre
+teneke
+çatal dişi
+aliminyum folyo
+kar lâstiği
+onda ahır
+titratör
+tost makinası
+mini fırın
+toastrack
+tütün kesesi
+tütün dükkanı
+toby
+ayakkabı ucu derisi
+yün harmani
+toga virilis
+geçiş
+geçiş anahtarı
+tuvalet
+makyaj çantası
+klozet
+makyaj pudrası
+banyo malzemesi
+klozet
+tuvalet suyu
+jeton
+gişe
+savaş baltası
+hafif makineli tüfek
+tomografi
+tonik
+maşa
+dil
+dil basacağı
+araç
+alet çantası
+araç
+Araç bölümü
+diş
+diş fırçası
+kürdan
+üst
+budama sanatı
+gabya çubuğu
+gabya yelkeni
+meşale
+torpido bot destroyer
+tork dönüştürücüsü
+tork anahtarı
+totem direği
+dokunmatik ekran
+peruk
+havlu
+havlu
+havlu askısı
+havlu radyatör
+kule
+Belediye binası
+yedekçi yolu
+çekici
+oyuncak
+oyuncak kutusu
+oyuncak dükkanı
+iz
+topunu
+paletli araç
+yolu ev
+çekiş motoru
+traktör
+traktör
+iz bisiklet
+tanıtım videosu
+tanıtım videosu
+römork kamyon
+tren
+tramvay hattı
+trambolin
+tramvay hattı
+haç şeklindeki kilisenin yan kolları
+transistor
+transmisyon mili
+travers
+taşıyıcı
+nakil gemisi
+tuzak
+trapez
+seyahat demir
+trol teknesi
+tepsi
+basmak
+basmak
+ayak değirmeni
+ayak değirmeni
+hazine sandığı
+kafes
+trençkot
+sehpa
+Takma köprü
+Takma tablosu
+üçgen
+tricorn
+triko
+üç tekerlekli bisiklet
+tetik
+trimaran
+düzenleyici
+triyot
+tripod
+üç parçalı tablo
+triskelion
+Zafer Kemeri
+saç ayağı
+trol
+troleybüs
+trombon
+asker taşıyan araç
+kupa durumda
+yalak
+pantolon
+pantolon manşet
+pantolon ütüsü
+pantolon
+çeyiz
+mala
+kamyon
+cop
+tekerlekli yatak
+gövde
+bagaj kapağı
+demet
+çatkılı köprü
+küvet
+tüp
+tudung
+römorkör
+tül
+çamaşır kurutucu
+hacıyatmaz
+şarap fıçısı
+gömlek
+diyapozon
+türban
+çorba kâsesi
+Türk havlu
+tornacı
+turnike
+döner tabla
+taret
+taret saat
+balıkçı yaka
+tüvit
+tweeter
+yirmi iki
+ikiz yatak
+büküm bit
+iki parça
+daktilo
+daktilo klavyesi
+uke
+ultrasantrifüjdeki
+ultramicroscope
+şemsiye
+iç çamaşırı
+külot
+iç çamaşırı
+iç çamaşırları
+düzensiz paralel çubuklar
+unicycle
+evrensel ortak
+Üniversite
+döşeme
+döşeme malzemesi
+iyileştirme
+dik
+semaver
+semaver
+İkinci el araba
+kap
+Uzi
+tatil ev
+vakum
+termos
+vakum monometresi
+Valenciennes
+valiz
+kapakçık
+kamyonet
+kamyonet
+kanatçık
+varyometre
+vazo
+tonoz
+tonoz
+atlama beygiri
+araç
+velur
+kadife
+pamuklu kadife
+otomat
+yaldız
+jaluzi
+Venn şeması
+vantilatör
+veranda
+bakır pası
+Sürmeli kumpas
+sürmeli ölçeği
+dikey dosya
+dikey stabilizatör
+dikey kuyruk
+gemi
+gemi
+yelek
+kisve
+yelek cebi
+viyadük
+vibrafon
+vibratör
+Victrola
+vicuna
+video kaset
+video kaset kaydedici
+videodisk
+video kaydı
+video kaseti
+video kaseti
+nöbeti ışık
+villa
+villa
+viyol
+viyola
+viola da gamba
+keman
+mengene
+vivaryum
+vual
+voleybol
+Voleybol filesi
+voltmetre
+oylama kabini
+uzun balıkçı çizmesi
+sığ havuz
+waffle iron
+yük vagonu
+vagon lastik
+Vagon tekerleği
+lambri
+wainscoting
+bel paketi
+yürüteç
+yürüteç
+Telsiz
+baston
+Walkman
+duvar
+duvar saati
+cüzdan
+duvar çadır
+duvar ünitesi
+asa
+koğuş
+giysi dolabı
+depo
+savaş uçağı
+savaş gemisi
+yıka ve Giy
+lavabo
+tümsekli yol
+tümsekli yol
+yıkayıcı
+yıkayıcı
+tuvalet
+lavabo
+leğen
+atık kağıt kutusu
+izlemek
+izle kapağı
+davayı izlemek
+gözetleme kulesi
+su şişesi
+su popo
+tuvalet
+su soğutucusu
+musluk
+su terazisi
+su bardağı
+su ısıtıcı
+sulama can
+su sürahisi
+su atlama
+su sayacı
+su değirmeni
+su geçirmez
+su kayağı
+sağanak
+su kulesi
+su tekerleği
+su tekerleği
+vatmetre
+balmumu heykel
+silâh
+silâhlar
+silah taşıyıcı
+dönek kimse
+rüzgar gülü
+ağ
+dokuma
+bilgisayar kamerası
+kama
+Wedgwood
+hafta sonunu tatilcisi
+ağırlık
+bent
+bent
+kaynak
+şerit
+wet bar
+Islak sinek
+dalgıç giysisi
+tekerlek
+tekerlek
+tekerlek ve dingil
+tekerlekli sandalye
+tekerlekli taşıt
+kırbaç
+fırçalamak
+viski şişesi
+viski sürahi
+fısıltı galeri
+ıslık
+ıslık
+beyaz
+Beyaz eşya
+badana
+fitil
+hasır
+hasır sepet
+küçük kapı
+küçük kapı
+geniş açılı lens
+widebody uçak
+peruk
+kızılderili çadırı
+Wilton
+vinç
+Winchester
+rüzgâr siperi
+çıkrık
+nefesli çalgı
+geveze
+fırıldak
+fırıldak
+pencere
+pencere
+kör pencere
+pencere kutusu
+pencere çerçevesi
+pencere ekranı
+cam kenarı
+güneşlik
+pencere eşiği
+ön cam
+silecek
+Windsor sandalye
+Windsor kravat
+rüzgar türbini
+şarap şişesi
+şarap kovası
+şarap fıçısı
+şarap bardağı
+şaraphane
+kanat
+kanat sandalye
+kelbek vida somunu
+kanat ucu
+kanat ucu
+silecek
+tel
+tel
+Tel makası
+Kablosuz yerel alan ağı
+tel vuruşlu yazıcı
+kablolama
+wok
+Kadının giyim
+ahşap oymacılığı
+ahşap keski
+woodenware
+tahta kaşık
+odunluk
+tahta nefesli çalgı
+atkı
+woofer
+yün
+workbasket
+iş-giyim
+işlik
+iş-shirt
+iş istasyonu
+iş masası
+tulum
+solucan çit
+kamgarn
+kamgarn
+etrafına sarmak
+sarma
+enkaz
+İngiliz anahtarı
+güreş minderi
+merdane
+kol saati
+yazı masası
+yazı masası
+uygulamak yazma
+fotokopi
+X-ışını filmi
+röntgen cihazı
+yat
+yagi
+avlu
+avlu
+yarmulke
+yole
+yole
+boyunduruk
+yurt
+Zamboni
+zigurat
+kanuna benzer bir çalgı
+zoot takım
+ahşap tahıl
+pürtük
+marbleization
+ışıltı
+lehçe
+kromatik renk
+siyah
+kömür karası
+kaymaktaşı
+kemik
+gri
+kül gri
+mangal kömürü
+kırmızı kök boyası
+kıpkırmızı
+koyu Kırmızı
+koyu kırmızı
+fuschia
+kestane rengi
+Portakal
+kırmızımsı turuncu
+Sarı
+gomagota
+soluk sarı
+yeşil
+Deniz yeşili
+adaçayı, yeşil
+yeşil şişe
+zümrüt
+zeytin yeşili
+yeşim yeşil
+mavi
+masmavi
+çelik mavisi
+yeşilimsi mavi
+morumsu mavi
+mor
+çivit
+lavanta
+pembe
+karanfil
+gül
+kestane
+çikolata
+açık kahverengi
+bej
+kırmızımsı kahverengi
+tuğla kırmızısı
+Hint kırmızı
+lacivert
+pigmentasyon
+ten
+kızıllık
+aposematic renklenme
+halka
+kadavra
+cilt
+deri naklinde kullanılan deri parçası
+skuamoz hücre
+macule
+çil
+perçem
+çiğneme tütünü
+komi
+pompadour
+karışık saç
+Çorba-süzgeç
+Mustachio
+anız
+ruh yama
+diastema
+ağız
+Süt
+anne sütü
+damar
+histiyosit
+lenfosit
+nötrofil
+beyin zarı
+sünnet derisi
+baş
+topuk
+kütikül
+dış iskelet
+Limon
+araç
+medyayı yazdır
+gazetecilik
+rotogravür
+gazete
+günlük
+gazete
+okul gazetesi
+sıkıştırılmış
+sarı gazetecilik
+telekomünikasyon
+telefon
+telesekreter
+aramak
+çağrı yönlendirme
+seyirci telefonlarına yer verilen program
+görüşme beklemede
+yerel arama
+üç yönlü arama
+kablo
+kablosuz
+radyotelgraf
+telsiz telefon
+yayın
+radyo
+televizyon
+kablolu televizyon
+yüksek çözünürlüklü televizyon
+resepsiyon
+Web sitesi
+sohbet odası
+not defteri
+katolik dua kitabı
+belge
+kaya opera
+dergi
+çizgi roman
+haber dergisi
+küspe
+kaygan
+çapraz bulmaca
+işaret
+sokak tabelası
+trafik ışığı
+gamalı haç
+konser
+sanat eseri
+lop
+kitabın dışındaki kâğıt kaplık
+höyük
+Üç gün süren etkinlik
+sağlıklı yiyecek
+yenilebilir
+kurs
+tabak
+Fast food
+parmak gıda
+koşer
+bilet ücreti
+diyet
+diyet
+diyet
+dengeli beslenme
+diyet takviyesi
+yüksek protein diyeti
+vejetaryenlik
+menü
+yiyecek
+yazı tahtası
+gıda maddesi
+yemek
+yulaf ezmesi
+kaba yem
+un
+kepekli un
+besin
+kiler
+konserve
+İstenmeyen e
+yemek
+potluck
+atıştırma
+serinletme
+kahvaltı
+kontinental kahvaltı
+Brunch
+öğle yemeği
+ikindi kahvaltısı
+Çay
+akşam yemegi
+akşam yemeği
+büfe
+piknik
+barbekü
+kızarmış balık
+ısırmak
+nosh
+ziyafet
+antre
+en önemli şey
+plaka
+adobo
+garnitür
+özel
+güveç
+tavuk Güveç
+tavuk Cacciatore
+meze
+meze
+kokteyl
+meyve kokteyli
+karides kokteyl
+ordövr
+daldırma
+peynir dip
+Guacamole
+et suyu
+sırsız porselen
+borsch
+et suyu
+tavuk suyu
+et suyu
+tavuk çorbası
+gaspaço
+Bamya
+güveç
+mulligatawny
+bezelye Çorbası
+biberlik
+petite marmite
+çorba
+çorba
+yumurtalı çorba
+balık türlüsü
+Mısır çorbası
+deniz tarağı çorbası
+New England deniz tarağı çorbası
+Balıklı türlü
+kazanılan ton
+Bezelye çorbası
+bezelye çorbası
+Mercimek çorbası
+vichyssoise
+Güveç
+Gulaş
+sebze çorbası
+güveç
+sığır gulaş
+patatesli ve soğanlı koyun pirzolası
+balık yahnisi
+Marsilya usulü safranlı balık çorbası
+Deniz ürünlü pilav
+yahni pişirmek
+sığır eti güveç
+ratatouille
+pot-au-feu
+smorgasbord
+viand
+kek karışımı
+şeker kamışı
+toz şeker
+tatlı
+şekerleme
+confiture
+Şeker
+şeker kutusu
+sert şeker
+kırılgan fıstık
+sakız
+sakız top
+sakız
+şekerlemesi elma
+Portakal kabuğu
+şeker kamışı
+şeker mısır
+karamel
+bonbon
+pamuk şeker
+fondan
+geçiştirmek
+çikolata fudge
+penuche
+sakızlı şeker
+nane
+jöle fasulye şekerleme
+öpücük
+çikolata öpücük
+lolipop
+öksürük pastili
+hatmi
+koz helvası
+koz helvası bar
+pralin
+şeker
+yağcılık
+yermantarı
+tatlı
+pişmiş Alaska
+komposto
+meyveli börek
+turta
+dondurulmuş tatlı
+köpük
+köpük
+Pavlova
+kırbaç
+puding
+puding
+Tiramisu
+pandispanyalı tatlı
+jöle
+buz
+dondurma
+dondurma külahı
+çikolatalı dondurma
+şeftali dondurma
+sherbert
+Çilekli dondurma
+Tutti Frutti
+vanilyalı dondurma
+meyveli çubuk dondurma
+Dondurulmuş yoğurt
+parfe
+Sundae dondurma
+Bölünmüş
+banana split
+dondurulmuş muhallebi
+çikolatalı mus
+üzümlü Noel pudingi
+Mısır pudingi
+puding
+çikolatalı puding
+muhallebi
+krem Karamel
+creme brulee
+Kiraz likörü
+garnitür
+hamur işi
+devir
+samosa
+puf böreği hamuru
+yufka
+dondurma keki
+tatlı çörek
+balık pastası
+balık sopa
+korumak
+elma yağı
+reçel
+limon lor
+çilek reçeli
+jöle
+Portakal marmelatı
+Jelatin
+buffalo kanat
+mangalda kanat
+kıyma
+püre
+barbekü
+biryani
+sote
+dana eti Parmesan
+Dana cordon bleu
+Dolgu
+midye dolma
+ekmek
+bap
+breadstick
+esmer ekmek
+topuz
+challah
+tarçın ekmek
+kızarmış ekmek parçaları
+karanlık ekmek
+İngiliz muffin
+gözleme
+Sarımsaklı ekmek
+gluten ekmek
+graham ekmeği
+bannock
+chapatti
+pide
+somun ekmek
+francala
+Hamursuz ekmek
+nan
+Üzüm Ekmek
+hızlı ekmek
+muz ekmeği
+tarih ekmek
+fındık ekmeği
+İrlanda Soda Ekmeği
+tava ekmeği
+Çavdar ekmeği
+siyah ekmek
+Yahudi çavdar ekmeği
+limpa
+ekşi ekmek
+kızarmış ekmek
+gofret
+Beyaz ekmek
+kaval
+Fransız ekmeği
+İtalyan ekmeği
+Mısır ekmeği
+dolgun
+yavru köpeği susturmak
+johnnycake
+zwieback
+frankfurter topuz
+hamburger topuz
+kek
+kepek çörek
+mısır çörek
+Yorkshire puding
+popover
+çörek
+çörek damla
+haç
+çörek
+hilal rulo
+sert rulo
+kaiser rulo
+çörek
+tarçınlı rulo
+canım
+Danimarkalı
+simit
+bisküvi
+kabartma tozu bisküvi
+ayran bisküvi
+kurabiye
+galeta
+graham kraker
+Çubuk kraker
+yumuşak simit
+sandviç
+sandviç plaka
+butty
+jambonlu sandviç
+tavuklu sandviç
+kulüp sandviçi
+açık yüz sandviç
+Hamburger
+cheeseburger
+sosisli
+Kıymalı ve domates soslu sandviç
+bombardıman uçağı
+gyro
+pastırma marul-domates sandviç
+Reuben
+batı
+şal
+Spagetti
+yulaf lapası
+congee
+yenilebilir meyve
+sebze
+julienne
+ham sebze
+kereviz sapı
+nabız
+yeşillik
+yeşillik
+kök sebze
+patates
+fırınlanmış patates
+patates kızartması
+Ev kızartması
+ceket patates
+patates püresi
+tatlı patates
+tatlı patates
+atıştırmalık yiyecek
+yonga
+mısır cipsi
+tortilla yonga
+nacho
+patlıcan
+ravent
+turpgillerden sebze
+hardal
+lahana
+mangır
+Karalahana
+Çin lâhanası
+Çin lahanası
+baş lahana
+kırmızı lâhana
+savoy lahana
+Brokoli
+Karnıbahar
+Brüksel lahanası
+brokoli rabe
+kabak
+yaz kabağı
+sarı kabak
+crookneck
+kabak
+spagetti squash
+kış kabağı
+palamut squash
+Balkabagi
+salatalık
+enginar
+Kuşkonmaz
+fasulye filizi
+pancar
+pazı
+biber
+tatlı biber
+dolmalık biber
+yeşil biber
+yenibahar
+acı biber
+Acı biber
+Jalapeno Biberi
+kırmızı biber
+Tabasko
+soğan
+yeşil soğan
+mor soğan
+pırasa
+Arpacık soğanı
+salata yeşil
+marul
+buttercrunch
+marullarda marul
+marul
+yaprak marul
+fasulye
+mercimek
+bezelye
+bezelye
+kar bezelye
+Şeker ek bezelye
+nohut
+duygusal bezelye
+siyah gözlü bezelye
+ortak fasulye
+barbunya
+Siyah fasulye
+taze fasulye
+yeşil fasulye
+ek fasulye
+çalı fasulyesi
+yeşil fasulye
+balmumu fasulye
+bakla
+soya
+yeşil soya fasulyesi
+alan soya
+cardoon
+havuç
+havuç sopa
+kereviz
+kereviz
+hindiba
+radicchio
+hindiba
+hindiba escarole
+Belçikalı Hindiba
+Mısır
+şeker mısır
+Patlamış mısır
+tere
+su teresi
+Bamya
+yer lâhanası
+lamb's çeyrek
+domates
+biftek domates
+kiraz domates
+Erik domates
+yeşil domates
+mantar
+doldurulmuş mantar
+yaban havucu
+kabak
+turp
+Şalgam
+bir tür şalgam
+şalgam
+Kuzukulağı
+ıspanak
+taro
+fıstık
+elma
+yaban elması
+yeme elma
+Cortland
+Lezzetli
+golden Delicious
+Red Delicious
+imparatorluk
+McIntosh
+Macoun
+tohumdan yetiştirilen elma
+pişirmelik elma
+anneanne Smith
+dut
+yabanmersini
+yaban mersini
+Kızılcık
+lingonberry
+Frenk üzümü
+altın çilek
+Frenk üzümü
+böğürtlen
+boysenberry
+Ahududu
+çilek
+trabzon hurması
+açerola
+carambola
+narenciye
+Portakal
+mandalina
+clementine
+satsuma
+mandalina
+Tangelo
+Acı portakal
+tatlı portakal
+göbekli portakal
+Valencia portakal
+kumquat
+Limon
+Misket Limonu
+greyfurt
+greyfurt
+ağaç kavunu
+Ürdün badem
+kayısı
+şeftali
+şeftali
+pitahaya
+Erik
+yaban eriği
+kurutulmuş meyve
+kuru kayısı
+Frenk üzümü
+incir
+Ananas
+muz
+tutku meyvesi
+granadilla
+ekmekağacı meyvesi
+jackfruit
+kakao çekirdeği
+kakao
+kavun
+kavun
+kavun
+tatlı özsu
+karpuz
+Kiraz
+Tatlı Kiraz
+bing kiraz
+vişne
+üzüm
+Concord üzüm
+vinifera üzüm
+misket üzümü
+Hint ayvası
+cherimoya
+soursop
+papaya
+papaya
+ackee
+durian
+feijoa
+kivi
+yenidünya
+mangosten
+Mango
+sapodilla
+demirhindi
+avokado
+tarih
+mürver
+guava
+JABUTİCABA
+hünnap
+litchi
+muşmula
+muşmula
+dut
+zeytin
+siyah zeytin
+yeşil zeytin
+armut
+bosc
+bartlett
+sinirotu
+nar
+frenk inciri
+ayva
+rambutan
+Gül elması
+balkabağı tohumu
+ceviz
+Brezilya fındığı
+kaşu
+kestane
+fındık
+Hindistan cevizi
+Macadamia fındığı
+pekan
+Çam fıstığı
+fıstık
+ayçiçeği çekirdeği
+yem
+eatage
+yem
+küspe
+alfalfa
+bakla
+saman
+tahıl
+kabuksuz tahıl
+darı
+arpa
+buğday
+pirinç
+Esmer pirinç
+Beyaz pirinç
+yabani pirinç
+çeltik
+kuş besleme
+Evcil Hayvan gıda
+kanarya tohumu
+salata
+attı salata
+yeşil salata
+et, ançuez ve yumurtalı bir yemek
+salad nicoise
+şefin salatası
+patates salatası
+makarna salatası
+Makarna salatası
+meyve salatası
+Lâhana salatası
+tabbouleh
+bileşen
+baharat
+baharat
+Tarçın
+Çubuk tarçın
+karanfil
+kimyon
+küçük hindistan cevizi
+biber
+sassafras
+Fesleğen
+Defne yaprağı
+hodan
+çördük
+Frenk maydanozu
+Frenk soğanı
+karakafes
+Kişniş
+Rezene
+Sarımsak
+sarımsak bıçak
+melisa
+selâmotu
+Mercanköşk
+nane
+Lâtin çiçeği
+maydanoz
+Biberiye
+adaçayı
+adaçayı
+tatlı woodruff
+Kekik
+Zerdeçal
+ketçap
+Kakule
+kırmızı biber
+acı sos
+Hint turşusu
+Biftek sosu
+Salsa
+Kızılcık sosu
+köri
+kuzu köri
+kırmızı biber
+turşu
+soya sosu
+Tabasko
+melekotu
+Çin anason
+ardıç meyvesi
+Safran
+Susam tohumu
+haşhaş tohumu
+vanilya fasulye
+elma sirkesi
+şarap sirkesi
+Sos
+acı sos
+carbonara
+domates sosu
+pesto
+pansuman
+hamsi pansuman
+mayonez
+yeşil mayonez
+Rus Giyimi
+barbekü sosu
+Holandez
+bourguignon
+çikolata sosu
+sıcak çikolata sosu
+Beyaz sos
+sos
+sos
+spagetti sosu
+marinara
+köstebek
+veloute
+Yumurta
+yumurta sarısı
+haşlanmış yumurta
+sert haşlanmış yumurta
+Paskalya yumurtası
+Paskalya yumurtası
+çikolata yumurta
+şeker yumurta
+Haşlanmış yumurta
+omlet
+haşlanmış yumurta
+büzgülü yumurta
+omlet
+sufle
+kızarmış yumurta
+günlük ürün
+Süt
+soya sütü
+formül
+çiğ süt
+süt tozu
+krem
+süt kaymağı
+yoğun krema
+hafif krema
+Ekşi krema
+krema
+Tereyağı
+yoğurt
+raita
+kesilmiş sütün suyu
+Lor
+Lor
+peynir
+krem peynir
+çift ​​krem
+Mascorpone peyniri
+üçlü krem
+süzme peynir
+Stilton
+Brie
+kamembert peyniri
+mozzarella
+Emmenthal
+fıstık ezmesi
+karides tereyağı
+Miso
+Humus
+bal
+şeker
+şurup
+şeker şurubu
+süpürge darısı
+nar şurubu
+akçaağaç şurubu
+yumruklamak
+Hamur
+ekmek hamuru
+Coq au vin
+tavuk ve pirinç
+arroz con pollo
+pastırma ve yumurta
+mangalda Kaburga
+sığır Bourguignonne
+Wellington sığır eti
+makarna
+cannelloni
+peynir sufle
+tavuk Kiev
+Acı biber
+biber köpek
+pirzola suey
+chow mein
+kroket
+yazlık pasta
+köfte
+dolmas
+rulo yumurta
+yumurta Benedict
+enchilada
+falafel
+balık ve cips
+fondü
+peynir Fondü
+çikolata fondü
+Fransız usulü tost
+kızarmış pirinç
+frittata
+galantin
+dondurulmuş balık
+Salamura et kıyması
+Jambalaya
+kebap
+souvlaki
+lazanya
+deniz Newburg
+makarna ve peynir
+köfte
+İsveç köfte
+Et Dilimi
+Musakka
+ilik
+Domuzlu battaniyeler
+pilav
+Pizza
+sosis pizza
+biberli pizza
+peynirli pizza
+hamsi Pizza
+Sicilyalı pizza
+hapsedilme
+Pasta kabı
+risotto
+balık ekmek
+Scotch yumurta
+Spagetti ve köfte
+İspanyol Pirinci
+steak tartar
+biberli biftek
+biftek au poivre
+biber dolması
+doldurulmuş domates
+doldurulmuş domates
+succotash
+Sukiyaki
+sashimi
+Suşi
+tamale
+tempura
+teriyaki
+terrine
+Peynirli kızarmış ekmek
+şnitzel
+taco
+tavuk taco
+börek
+Quesadilla
+tostada
+içecek
+karışım
+dolgu
+iksir
+alkol
+kanıt ruhu
+ev demlemek
+içki
+aperatif
+demlemek
+bira
+fıçı bira
+köpük
+Münih bira
+siyah bira
+Alman birası
+hafif bira
+Pilsen
+weissbier
+Weizenbock
+malt
+bira
+acı
+soluk ale
+kapıcı
+sağlam
+Guinness
+bal likörü
+hafif bira
+zencefil birası
+uğruna
+şarap
+bağbozumu
+kırmızı şarap
+Beyaz şarap
+allık şarap
+köpüklü şarap
+Şampanya
+bordo
+Beaujolais
+Medoc
+Kanarya Adaları şarabı
+chablis'de
+Montrachet
+Chardonnay
+Pinot noir
+Pinot blanc
+bordo şarabı
+koyu kırmızı
+Chianti
+Cabernet
+merlot
+Sauvignon Blanc
+Kaliforniya şarap
+Cotes de Provence
+tatlı şarap
+macon
+Muscadet
+çarpmak
+retsina
+Beyaz bir üzüm çeşiti
+liebfraumilch
+Rhone şarabı
+Rioja
+çuval
+saint Emilion
+Soave
+zinfandel
+sauterne
+saman şarap
+sofra şarabı
+vin ordinaire
+Vermut
+tatlı Vermut
+kuru vermut
+Chenin blanc
+Verdicchio
+Vouvray
+Yquem
+çeşit
+güçlendirilmiş şarap
+Madeira
+tatlı Yunan şarabı
+Liman
+ispanyol şarabı
+Marsala
+misket üzümü
+likör
+nötr ruhlar
+ispirto
+kanyak
+aquavit
+rakı
+apsent
+Brendi
+elma konyağı
+calvados
+Armagnac
+Konyak
+grappa
+cin
+sloe cin
+Cenevre
+sulu alkol içmek
+uzo
+ROM
+esmer şeker
+Jamaika rom
+schnapps
+Tekila
+votka
+viski
+harmanlanmış viski
+Burbon
+mısır viskisi
+ateş su
+İrlandalı
+kaçak viski
+Çavdar
+İskoç
+Ekşi püre
+likör
+pelin
+Amaretto
+rakı
+benedictine
+Kahve likörü
+Drambuie
+üçlü Sn
+Grand Marnier
+Kiraz likörü
+pastis
+Fransız İçkisi
+sambuca
+karma içki
+kokteyl
+highball
+Bloody Mary
+collins
+soğutucu
+ferahlatıcı
+iki yüzlü
+rom ve limonlu koktely
+Çilekli kokteyl
+spritzer
+burgu
+cin tonik
+şurup
+Manhattan
+Margarita
+Martini
+cin ve
+votka martini
+Sazerac
+Tornavida
+motosiklet sepeti
+Scotch ve soda
+sapan
+Ekşi
+Ekşi viski
+sıcak toddy
+fışırtı
+İrlanda Kahvesi
+cafe au lait
+espresso
+caffe latte
+cappuccino
+buzlu kahve
+hazır kahve
+koyun derisi
+koyun derisi
+Türk kahvesi
+Elmadan yapılan bir içki
+elma şarabı
+kalitesiz içki
+kakao
+Meyve suyu
+meyve suyu
+nektar
+Kızılcık suyu
+üzüm suyu
+üzüm suyu
+portakal suyu
+dondurulmuş portakal suyu
+ananas suyu
+limon suyu
+domates suyu
+havuç suyu
+meyve içeceği
+limonata
+sıcak şarap
+meşrubat
+pop
+Kola
+krem soda
+zencefilli gazoz
+Portakallı soda
+Coca Cola
+Pepsi
+kök bira
+tonik
+kahve çekirdeği
+Kahve
+meyve suyu
+mimoza
+pina colada
+yumruk
+Fincan
+çay'nın yumruk
+Beyaz Rus
+Mayıs şarap
+yumurta likörü
+Çay
+çay poşeti
+Çay
+cuppa
+soğuk çay
+Souchong
+Oolong
+Su
+şişelenmiş su
+şube su
+içme suyu
+soda
+maden suyu
+kuskus
+multivitamin
+vitamin hapı
+soul food
+insanlar
+Toplamak
+kitap
+kütüphane
+kalabalık
+çekirdek
+konser grubu
+düğün
+zincir
+pazar yeri
+lunapark
+afel
+çalı
+otobüs durağı
+kamp alanı
+mezarlık
+Şehir
+iş bölgesi
+inek mera
+sorguç
+piskoposluk
+içi vb
+turist ağırlayan çiftlik
+bit pazarı
+çöp yığını
+benthos
+hububat tarlası
+yarım direk
+etek boyu
+balıkçıl yatağı
+duvardaki delik
+kıyı
+otlak
+Mekke
+nombril
+Fuar alanı
+otlak
+kasbah
+liman bölgesi
+çare
+tesisi alanı
+kaba
+Scrubland
+weald
+başucu
+toprak ufuk
+alan
+petrol sahası
+masaüstü
+kampong
+bozkır
+kartal yuvası
+hava balonu
+alp
+Alp buzul
+karınca yuvası
+sarp dağ geçidi
+kuru vadi
+çıkış
+yıldız kümesi
+atol
+plaj
+bal peteği
+volta etmek
+ben
+berm
+blöf
+bayır
+kabarcık
+yuva
+butte
+kanyon
+mağara
+mağara
+uçurum
+buzyalağı
+uçurum
+bulut
+col
+kuyrukluyıldız
+mercan kayalığı
+koy
+kayalık
+krater
+ekili arazi
+kirletmek
+iniş
+çimen
+aşağı
+yokuş aşağı
+kumul
+eğimli yüzey
+ateştopu
+zemin
+fomite
+bayır
+burun
+suların çekildiği kıyı
+jeolojik oluşum
+gayzer
+buzul
+geçit
+mağara
+sel çukuru
+dolu
+dağlık
+Tepe
+yamaç
+delik
+kaplıca
+buzdağı
+buz örtüsü
+buz parçası
+buz kütlesi
+tepecik
+lakefront
+göl kenarı
+depolama
+çıkıntı
+ay krateri
+kitle
+menderes
+dağ
+dağın
+organdi
+doğal bir yükselti
+okyanus
+okyanus tabanı
+Okyanus kıyısında
+ortaya çıkmak
+oxbow
+Palasit
+Pinetum
+sade
+puan
+yol çukuru
+uçurum
+burun
+titreşen yıldız
+radyatör
+gökkuşağı
+menzil
+mera
+resif
+sırt
+sırt
+kıyıdaş orman
+nehir kıyısı
+nehir yatağı
+Kaya
+çatı
+kumsal
+sandbar
+sahil
+sahil
+kabuk
+kıyı
+kıyı şeridi
+düden
+kayak merkezinde
+gökyüzü
+eğim
+kolibri
+rüzgârla oluşan kar yığını
+sabun köpükleri
+tükürmek
+hayvan ayak izi
+köpük
+star
+dik
+bozkır
+iplik
+dere
+Güneş
+süpernova
+bataklık
+kabarma
+yayla
+meyil
+arapsaçı
+gelgit havzası
+tor
+yamuk
+yokuş yukarı
+vadi
+volkanik krater
+volkan
+eşek arısı yuvası
+suyolu
+sahil
+Xenolith
+ruhani lider
+anomali
+atanan kimse
+Aşkenazi
+halktan olan kimse
+şovmen
+üs
+eski başkan
+yüz
+kadın
+oturan
+yerli
+yerli
+sevgili
+erkek
+arabulucu
+akran
+alıcı
+gezgin
+işçi
+siyah Afrikalı
+Siyah
+Siyah kadın
+melez
+Beyaz
+Sami
+Beyaz adam
+Çinli
+Moğol
+Biloxi
+Caddo
+Chickasaw
+Delaware
+Kickapoo
+Kiliwa
+Mohikan
+Kachina
+Tarahumara
+Gujarati
+Keşmirli
+Pencap
+Slav
+Yahudi olmayan
+Kıpti
+Budist
+Zen Budist
+hoca
+Avrasyalı
+dürüst
+Afgan
+Arnavut
+Angola
+Bahama
+Herero
+Barbadoslu
+Bolivya
+bornean
+Bulgar
+Belarusça
+Kamerunlu
+Kanadalı
+Fransız Kanadalı
+Orta Amerikalı
+Kongolu
+Britisher
+İngiliz kişi
+İngiliz
+İngiliz
+Etiyopyalı
+Eritre
+komi
+Litvanya
+Parisli
+Parisienne
+Laconian
+Guyana
+Haitili
+Malaya
+Hollandalı
+Irak
+Dubliner
+sabine
+Japonca
+Ürdün
+Koreli
+Kenyalı
+Lao
+Lapon
+Latin Amerikalı
+Lübnan
+Liberyalı
+Meksikalı
+Meksikalı Amerikalı
+Yeni Zelandalı
+Nikaragua
+Nijeryalı
+Hausa
+Umman
+Pakistan
+Filipinli
+Polinezya
+Katar
+Romen
+Sarawakian
+İskandinav
+Senegalli
+Sloven
+Güney Afrikalı
+Sudan
+Tahiti
+Tanzanyalı
+Tibet
+Togo
+Tuareg
+Ugandalı
+İbo
+Anglo-Amerikan
+Floridian
+Alman Amerikan
+Mainer
+Minnesotan
+Nebraskalı
+Kuzey Carolinian
+Vietnam
+Gambian
+Gine
+Papua
+Yemenli
+Yugoslav
+Xhosa
+Zimbabwe
+Zulu dili
+İkizler burcu
+balık Burcu
+suç ortağı
+abseiler
+akademik yönetici
+akademisyen
+yoldaş
+tanıdık
+ip cambazı
+aktif
+aktör
+emir subayı
+komutanla ordu arasında iletişimi sağlayan general
+zina yapan kadın
+avukat
+bağlı şirket
+tarımcı
+alkollü
+belediye meclisi üyesi
+dağcı
+papaz yardımcısı çocuk
+büyükelçi
+büyükelçi
+organı alınmış kimse
+endüstri analisti
+piyasa stratejisti
+anarşist
+Ata
+Çapa
+eski
+anti
+ANZAC
+atanan kimse
+aday
+başpiskopos
+okçu
+Ordu subayı
+aranjör
+topçu
+sanatçının modeli
+asserter
+ortak
+astronot
+atlet
+Başsavcı
+teyze
+çocuğa bakarak aile yanında kalan kız
+otoriter
+yetki
+babu
+bebek
+bebek
+geri
+kıdemsiz parlamento üyesi
+Sırtı
+bagaj
+bairn
+fırıncı
+top taşıyıcı
+balet
+top şahin
+balon pilotu
+beyzbol oyuncusu
+boğa güreşçisi
+banderillero
+matador
+picador
+horoz siklet
+barmaid
+baron
+baron
+barmen
+baz koşucu
+Basketbol oyuncusu
+Sepet Makinesi
+bas
+yarasa Çocuk
+baton twirler
+Bavyera
+sakal
+Bedevi
+arıcı
+biracı
+acuze
+en iyi
+abla
+bilardo oyuncu
+biyografi yazarı
+doğum
+siyah kemer
+demirci
+entellektüel kadın
+tersane
+kayıkçı
+aynasız
+koruma
+ayakkabı boyacısı
+yavru
+Erkek izci
+erkek izci
+bragger
+kavgacı tip
+geçimini sağlayan kimse
+hayvan yetiştiricisi
+tuğla
+gelin
+nedime
+kayınbirader
+Brummie
+arkadaş
+sayman
+iş düzenleyicisi
+golf takımlarını taşıyan yardımcı
+telekız
+Hattat
+kampçı
+aday
+Kaptan
+Kaptan
+esir
+kardinal
+kardiyolog
+mesleki başarıyı ön planda tutan kimse
+hasta bakıcı
+karikatürist
+caroler
+marangoz
+kaza
+kaza
+safsatacı
+dini öğretici kitabı okutan kimse
+papaz
+şöhret
+viyolonsel çalan müzisyen
+asırlık
+merkezci
+yeminli hesap uzmanı
+bukalemun
+temizlikçi kadın
+ponpon kız
+ponpon kız
+Keops
+satranç ustası
+baş yönetici
+genel kurmay başkanı
+çocuk
+çocuk
+çocuk
+kareograf
+puro içen
+şifre
+sirk akrobat
+vatandaş
+Şehir baba
+medeni haklar lideri
+papaz
+din adamı
+dağcı
+klinik tedavi uzmanı
+yakın
+palyaço
+palyaço
+yunuslama antrenörü
+arabacı
+kömür madeni işçisi
+ayakkabı tamircisi
+diş
+kuaför
+colleen
+renk Koruyucu
+Başkomutanı
+komutan
+subay
+devreye subay
+komiser
+komiser
+committeewoman
+banliyö
+sunuculuk yapmak
+bilgisayar kullanıcısı
+konser meraklısı
+şekerci
+sırdaş
+Yardımcı pilot
+başrolü paylaşan oyuncu
+hemşehri
+hala kızı
+kapak kızı
+usta
+usta
+çılgın
+yaratık
+veliaht prenses
+cryptanalyst
+yavru kurt
+baba
+Dalay Lama,
+dallier
+dansçı
+dansçı
+takunya dansçı
+dans-master
+sevgilim
+boş gezenin boş kalfası
+demagog
+gösterici
+Bölüm Başkanı
+milletvekili
+belirlenen hitter
+dedektif
+piskoposluk bölgesine ait
+yönetmen
+disk jokey
+bölge Savcısı
+Dalgıç
+doktor
+yerli ortağı
+donna
+küfe
+çift
+terzi
+dribbler
+ayyaş
+ayyaş
+askeri bando önünde giden kız
+davulcu
+ayyaş
+kuru
+düşes
+beceriksiz
+istekli Kunduz
+eksantrik
+ekonometricinin
+iktisatçı
+yaşlı kurt
+elektrikçi
+işçi
+işveren
+büyücü kadın
+Ilan kadın
+girişimci
+konser veren kimse
+Genel Müdür Yardımcısı
+teşhirci
+kolaylaştırıcı
+iyilik perisi
+doğancı
+sahteci
+fan
+meraklısı
+Çiftlik çocuğu
+çiftçi
+farmhand
+baba
+baba
+kayınpeder
+tüy siklet
+federalist
+kadın çocuk
+nişanlı
+meydancı
+savaş pilotu
+ateş yiyen
+ateş yiyen
+itfaiyeci
+ilk meydancı
+ilk doğan
+en başta gelen kadın
+Üsteğmen
+başçavuş
+balık satıcısı
+ev arkadaşı
+flütçü
+sineksiklet
+sineksiklet
+düşman
+halk dansçısı
+ata
+patron
+ileri
+kurucu
+keşiş
+tam geri
+fütürist
+kazanan
+gal
+çöp adam
+bahçıvan
+jandarma
+genel
+jeolog
+kız
+kız harikası
+gladyatör
+Usta
+keçi çobanı
+vaftiz ebeveyni
+vaftiz oğlu
+gondolcu
+Genel Vali
+mezun hemşire
+gramerci
+kız torun
+Büyük baba
+büyükanne
+büyükbaba veya büyükanne
+dul erkek
+büyük teyze
+Büyük torun
+torunun kızı
+büyük büyükanne
+Büyük büyükbaba
+büyük torunu
+kardeş torunu
+kardeş torunu
+yeşil Bereliler
+Amerikalı
+damat
+damat
+bekçi
+konuk
+gitarist
+guru
+adam
+jimnastikçi
+kuaför
+halfback
+hayvan terbiyecisi
+pilotun bağlanarak uçtuğu planör
+alacalı
+okul müdürü
+baş Hemşire
+dinleyici
+ağır
+bahçıvan
+Veliaht
+mirasçı
+kahraman
+Herr
+ukalâ
+yüksek komiseri
+Başrahip
+hitter
+evsiz
+onur bekçi
+hornist
+atlı
+at wrangler
+otelci
+ev arkadaşı
+revir doktoru
+sır
+iri parça
+iki yüzlü
+önemli kişi
+görevdeki
+acemi asker
+aşağı
+infielder
+kayın
+Genel Müfettiş
+kışkırtıcı
+sigorta komisyoncusu
+muhatap
+çevirmen
+araştırmacı
+yatırımcı
+soytarı
+jokey
+hakim
+hokkabaz
+klavyeci
+kingmaker
+kral
+Crown Müşaviri
+akraba
+akraba
+ağız
+Klansman
+emekçi
+Labourite
+bayan
+lama
+kız
+Latince
+kanun yapıcı
+kanun adamı
+lector
+solak
+yasal temsilcisi
+öğrenimini tamamlamış kimse
+teğmen
+Yarbay
+önyüzbaşı
+hayat
+Cankurtaran
+hafif ağır
+hafif
+hafif
+hafif
+yan hakem
+hat görevlisi
+küçük erkek kardeş
+Küçük kızkardeş
+lowerclassman
+sadık kul
+lumper
+piroman
+makinist
+büyücü
+hizmetçi
+hizmetçi
+majör
+Adonis
+adam
+müdire
+manikürcü
+yürüyen kimse
+mareşal
+sert amir
+maskot
+mason
+maskara
+usta
+usta
+seremoni lideri
+Dostum
+Dostum
+anne
+Belediye Başkanı
+belediye başkanı kadın
+madalya kazanan kimse
+pratisyen hekim
+Kurul Üyesi
+mender
+Avrupalı-kızılderili melezi
+büyükşehir
+microeconomist
+orta yaşlı adam
+orta siklet
+ebe
+Milanese
+miler
+askeri ataşe
+subay
+askeri polis
+değirmen el
+MİLYONERLER
+bakan
+küçük leaguer
+metres
+model
+modelci
+Monegasque
+parasalcı
+morris dansçı
+anne
+anne
+Annenin çocuk
+annenin kızı
+motosiklet polis
+motosikletçi
+musher
+müzisyen
+Muslimah
+Miken
+miyop
+nan
+milliyetçi
+donanma komutanı
+lacivert mühür
+yenidoğan
+nötr
+yeni gelen
+haber spikeri
+yeğen
+Nobel ödüllü
+astsubay
+sigara içmeyen
+Kuzey Baptist
+çıraklık dönemi
+hemşire
+su perisi
+seksi kız
+obuacı
+şarap sever
+officiant
+yaşlı erkek
+yaşlı kadın
+yaşlı adam
+ihtiyar
+yaşlı kadın
+oligarşi yöneticisi
+seyirci
+hatip
+laternacı
+orgcu
+yetim
+yetim
+kırıkçı
+dış saha oyuncusu
+sağ meydancı
+sağ elini kullanan sürahi
+ressam
+Panchen Lama
+panel katılımcısı
+kilise cemaatinden kimse
+Milletvekili
+meclis ajan
+papağan
+partaker
+yolcu
+hasta
+patrik
+patrik
+patrik
+vatansever kişi
+patron
+Barışçıl
+seyyar satıcı
+ritm sazcı
+kötümser
+Peter Pan
+Evcil Hayvan bakıcısı
+Firavun
+eczacı
+hayırsever
+filatelist
+fizyoterapist
+toplayıcı
+hacı
+boru içen
+sürahi
+platin sarışın
+oyuncu
+tam yetkili
+poliçe hamili
+siyaset bilimci
+politikacı
+politikacı
+havuz oyuncu
+tavukçu
+namaz
+önce doğmuş çocuk
+kilise yönetim kurulu üyesi
+Devlet Başkanı
+Amerika Birleşik Devletleri başkanı
+basın fotoğrafçısı
+rahip
+primigravid
+Galler prensi
+asıl
+özel
+stajyer
+programcı
+destekçi
+bulaştıran
+korumacı
+protegee
+budayıcı
+psycholinguist
+kuklacı
+itici
+kurucu
+levazım subayı
+Quebecois
+kraliçe
+kraliçe
+kraliçe yoldaş
+kralın annesi
+haham
+radyolog
+raiser
+erbaş
+vergi yükümlüsü
+okuyucu
+okuma öğretmen
+Tuğamiral
+acemi
+kızıl saçlı
+hakem
+tamirci
+muhabir
+temsilci
+kurtarıcı
+yedek
+ikamet komiseri
+perakendeci
+emekli
+romatolog
+Zengin insan
+binici
+sağ kroşe
+Rock yıldızı
+atlı polis
+koşucu
+koşucu
+koşucu
+satış elemanı
+satis elemani
+sangoma
+saunterer
+Okul çocuğu
+okul arkadaşı
+öğretmen
+okul arkadaşı
+scorekeeper
+golcü
+oymak beyi
+telefonun dinlenmesini önleyen cihaz
+tüplü dalış
+heykeltraş
+ikinci kuzen
+ikinci derecede rol oynayan
+anlayışı kıt kimse
+Dışişleri Bakanı
+İçişleri Sekreteri
+laikçi
+güvenlik danışmanı
+numaralı seribaşı oyuncu
+satıcı
+yarı finalist
+senatör
+serjeant-at-law
+tamirci
+göçmen
+göçmen
+seks sembolü
+koyun
+şeyh
+çoban
+kardeş
+Hasta kişi
+signorina
+şarkıcı
+Kız kardeş
+kız kardeş
+sitar oyuncu
+kaykaycı
+skidder
+aletsiz dalan kimse
+dazlak
+travers
+travers
+uyuyan güzel
+hafiye
+darbe
+Futbol oyuncusu
+sosyolengüistik
+sosyolog
+asker
+oğul
+şarkıcı
+şarkıcı
+şarkı yazarı
+ruh ikizi
+egemen
+antreman maçı yapılan boksör
+konuşmacı
+konuşmacı
+seyirci
+Sürat
+sfenks
+spor
+spor adamı
+spor spikeri
+kare dansçı
+personel
+Kıdemli Başçavuş
+yıldızcık
+devlet sayman
+kamarot
+borsacı
+stratejist
+damızlık
+Öğrenci
+stilist
+taşeron
+halef
+halef
+Sufi
+Sumo güreşçisi
+sunbather
+yüce önder
+Cerrah
+bilirkişi
+bilirkişi
+bir tanem
+güzel kız
+sempatizan
+müşavir
+tabiyeci
+araba kuyruğu
+tanker
+çeşnicibaşı
+öğretmen
+teknisyen
+televizyon muhabiri
+Tenis oyuncusu
+tenis yanlısı
+tenor saksofoncu
+teosofist
+terapist
+atıcı
+Timor
+turist
+şehir tellalı
+trafik polisi
+karşı cinse özenen kimse
+trol teknesi
+Hazine
+kabile üyesi
+süvari atı
+trompetçi
+ikiz
+sokak köpeği
+dublör
+unicyclist
+Bilinmeyen asker
+sonradan görme
+veda konuşmacısı
+atlayan
+vejetaryen
+çok önemli kişi
+mahalle papazı
+papaz genel
+köylü
+şarap tüccarı
+viyolacı
+vikont
+profesörü ziyaret
+başıboş hayvan
+Garson
+bayan garson
+avare
+meteoroloji uzmanı
+kaynakçı
+dul
+kadın eş
+kanat oyuncusu
+kadın
+çalışan kız
+işçi
+tapan kimse
+wright
+yard bird
+genç kova
+hayvanat bahçesi kaleci
+Toz fırtınası
+parheli
+kar
+dalga
+volva
+basidiocarp
+su
+biryofit
+bataklık yosunu
+kızılyaprak
+hepatica
+eğreltiotu
+spor
+çiçeksiz bir bitki türü
+yıllık
+welwitschia
+cycad
+sago palmiyesi
+sahte sago
+Zamia
+dioon
+encephalartos
+macrozamia
+çam
+çam fıstığı
+pinon çam
+Tek kanatlı
+ladin çam
+karaçam
+çıralı çam
+gölet çam
+fıstık çamı
+İsviçre çam
+İsviçre dağ çam
+antik çam
+Amerikan beyaz çam
+Batı beyaz çam
+Whitebark çam
+sarı çam
+ponderosa
+Jeffrey çam
+kıyı çam
+Loblolly çam
+jack çam
+longleaf çam
+kızılçam
+sarıçam
+Monterey çam
+bristlecone çam
+masa-çam
+Japon karaçam
+Torrey çam
+karaçam
+Amerikan karaçam
+batı karaçam
+köknar
+gümüş köknar
+amabilis köknar
+Avrupa gümüş köknar
+beyaz köknar
+balsam fir
+Fraser köknar
+ova köknar
+Alp köknar
+Santa Lucia köknar
+sedir
+Lübnan sedir
+Himalaya sediri
+Atlas sedir
+ladin
+Norveç ladin
+ağlayan ladin
+beyaz ladin
+siyah ladin
+Sitka ladin
+oryantal ladin
+Colorado ladin
+kırmızı ladin
+zehir
+doğu baldıran
+dağ baldıran
+batı baldıran
+douglas köknar
+Yeşil Douglas köknar
+sedir
+Arizona servi
+Monterey selvi
+İtalyan selvi
+tütsü sedir
+güney beyaz sedir
+Oregon sedir
+sarı selvi
+Japon sedir
+Ardıç
+pahautea
+metasequoia
+arborvitae
+Batı kırmızı sedir
+Amerikan arborvitae
+oryantal arborvitae
+Wollemi çam
+orman çamı
+maymun bulmaca
+Norfolk Adası çam
+bunya bunya
+kauri çam
+kauri
+Yellowwood
+kahverengi çam
+Kahikatea
+Westland çam
+miro
+matai
+Japon şemsiye çam
+porsukağacı
+Eski Dünya porsuk
+Japon porsuk
+ginkgo
+angiosperm
+dikot
+çiçekçik
+çiçek
+gaf
+yabani çiçek
+Gül goncası
+pistil
+cornstalk
+polen borusu
+tomurcuk
+sporophyte
+hypanthium
+taçyaprağı
+korol
+dudak
+çiçek örtüsü
+şeytanarabası
+Hint ayvası
+soursop
+papaya
+ilang-ilang
+ortak karamuk
+Oregon üzümü
+Mayapple
+Carolina yenibahar
+defne
+gerçek defne
+kâfur ağacı
+Çin tarçını
+Cassia Bark
+tarçın kabuğu
+avokado
+sassafras
+Yıldız anason
+manolya
+güney manolya
+şemsiye ağaç
+bir manolya çeşidi
+yıldız manolya
+tatlı defne
+lâleağacı
+küçük hindistan cevizi
+su perisi
+Avrupa beyaz zambak
+su Chinquapin
+şakayık
+düğünçiçeği
+çayır çiçeği
+su crowfoot
+basurotu
+sürünen çiçeği
+kurtboğan
+boğanotu
+Baneberry
+kırmızı Baneberry
+anemon
+Alp anemon
+Kanada anemon
+ağaç anemon
+ağaç anemon
+kardelen anemon
+rue anemon
+hasekiküpesi
+toplantı evi
+mavi kumru
+granny'nın boneler
+altıntopu
+Karayılan otunun
+kırmızı yabanasması
+mor akasma
+roket larkspur
+hezaren çiçeği
+hezaren çiçeği
+kış kurtboğan
+hepatica
+çörek
+çörekotu
+rüzgârçiçeği
+fıstık
+hop yonca
+kıpkırmızı yonca
+kırmızı yonca
+ak üçgül
+mimoza
+akasya
+sepet örgüsü
+siyah saz
+gümüş saz
+Huisache
+lightwood
+altın saz
+ateş ağacı
+coralwood
+Albizzia
+ipek ağacı
+yağmur ağacı
+calliandra
+conacaste
+kurşun ağaç
+impala zambak
+Allamanda
+ortak Allamanda
+dita
+Cezayir menekşesi
+fildişi ağacı
+zakkum
+frangipani
+sarı zakkum
+büyük Cezayir menekşesi
+arum
+yabani danaayağı
+Hint kamışı
+Alocasia
+Amorphophallus
+antoryum
+flamingo çiçeği
+jack-in-the-minber
+caladium
+vahşi calla
+taro
+altın pothos
+kokarca lahana
+ceriman
+Philodendron
+su marulu
+pothos
+Spathiphyllum
+kokarca lahana
+zambak
+pembe calla
+su mercimeği
+ortak su mercimeği
+aralia
+jinseng
+Virginia snakeroot
+Heartleaf
+Heartleaf
+mısır kabuk
+sandwort
+dağ sandwort
+fare kulak chickweed
+Kar-in-yaz
+pembe
+hüsnüyusuf
+karanfil
+çin pembe
+Japon pembe
+kızlık pembe
+Kaşar pembe
+düğmesi pembe
+yazlık pembe
+bebeğin nefesi
+Lychnis
+düzensiz robin
+kırmızı Lychnis
+mullein pembe
+sandwort
+sandwort
+çöven
+Silene
+yosun campion
+vahşi pembe
+kırmızı karanfil
+beyaz karanfil
+yangın pembe
+mesane campion
+chickweed
+ortak chickweed
+Hottentot incir
+Livingstone papatya
+incir kadife çiçeği
+buz çiçeği
+tumbleweed
+köklü tilki kuyruğu
+bobstil
+dünya amaranth
+Saltbush
+pancar
+pancar kökü
+saltwort
+kum verbena
+çöl kumu verbena
+begonviller
+saat dört
+ortak dört saat
+California 04:00
+saguaro
+gece çiçeklenme CEREUS
+ECHINOCACTUS
+kirpi kaktüs
+Altın varil kaktüs
+Epiphyllum
+varil kaktüs
+gece çiçeklenme CEREUS
+dikensiz kaktüsün uyuşturucu tepesi
+Mammillaria
+tüy top
+garambulla
+Frenk inciri
+frenk inciri
+cholla
+Frenk inciri
+Noel kaktüs
+gece çiçeklenme CEREUS
+Yengeç kaktüs
+pokeweed
+kurcalamak
+tüylü saplı gül
+bahar güzelliği
+Virginia bahar güzelliği
+Bitterroot
+kurbağa zambak
+kış semizotu
+alev çiçeği
+ortak kapari
+spiderflower
+sarımsak hardal
+deliotu
+kaya tere
+sarı roket
+yabani lahana
+lahana
+baş lahana
+savoy lahana
+Brüksel lahanası
+Karnıbahar
+Brokoli
+collard
+yer lâhanası
+Şalgam
+brokoli raab
+Çin lahanası
+kolza
+kolza tohumu
+hanımın önlük
+crinkleroot
+sarı şebboy
+sarı şebboy
+şam menekşe
+candytuft
+mazı woad
+tatlı deliotu
+Malcolm stok
+Stok
+brompton stok
+bladderpod
+turp bitkisi
+eklemli yabani hardal
+turp
+turp
+alan hardal
+çit hardal
+alan pennycress
+haşhaş
+izlanda haşhaş
+dikenli haşhaş
+izlanda haşhaş
+oryantal haşhaş
+gelincik
+Haşhaş
+dikenli haşhaş
+Meksika haşhaş
+kırlangıçotu
+corydalis
+Kaliforniya haşhaş
+boynuz haşhaş
+mavi haşhaş
+Galce haşhaş
+Matilija haşhaş
+rüzgar haşhaş
+kırlangıçotu haşhaş
+kız kalbi
+Hollandalı en kısa pantolon
+bileşik
+pusula bitki
+ebedi
+achillea
+civanperçemi
+ageratum
+ortak ageratum
+inci sonsuz
+mayweed
+sarı papatya
+mısır papatya
+dulavratotu
+Büyük dulavratotu
+Afrika papatya
+papatya
+silversword
+arnika
+Arnica montana
+artemisia
+pelin
+tatlı pelin
+ortak pelin
+dalya
+gür aster
+funda aster
+New England aster
+Michaelmas papatya
+kır aster
+balsamroot
+papatya
+koyungözü
+su keneviri
+tickseed ayçiçeği
+Swan River papatya
+nergis
+ortak kadife çiçeği
+Çin aster
+devedikeni
+misk devedikeni
+sapsız Carline devedikeni
+Ortak Carline devedikeni
+catananche
+tozlu miller
+peygamberçiçeği
+mor top çiçekli bitki
+Büyük peygamberçiçeği
+Barnaby en devedikeni
+sarı papatya
+krizantem
+altıncık
+taç papatya
+hindiba
+hindiba
+tüy devedikeni
+Kanada devedikeni
+alan devedikeni
+Avrupa yünlü devedikeni
+boğa dikeni
+mistflower
+horseweed
+otsu süs bitkisi
+calliopsis
+Evren
+enginar
+cardoon
+dalya
+çiçekçi krizantem
+pelerin kadife çiçeği
+coneflower
+dünya devedikeni
+Brittlebush
+fireweed
+fleabane
+papatya fleabane
+turuncu papatya
+sahil papatya
+Philadelphia fleabane
+Joe-Pye ot
+boneset
+Joe-Pye ot
+mavi papatya
+gaillardia
+gazania
+hazine çiçek
+Afrika papatya
+Barberton papatya
+çöl ayçiçeği
+cudweed
+gumweed
+sneezeweed
+ayçiçeği
+bataklık ayçiçeği
+normal ayçiçeği
+dev ayçiçeği
+kır ayçiçeği
+yerelması
+yerelması
+strawflower
+Heliopsis
+strawflower
+hawkweed
+fosforlu yol kulak
+İnula
+bahçe marul
+yaprak marul
+tidytips
+edelvays
+beyaz ay papatyası
+beyaz ay papatyası
+shasta papatya
+yanan yıldız
+Afrika papatya
+tatlı yanlış papatya
+pamuk devedikeni
+cineraria
+butterbur
+oxtongue
+hawkweed
+Stevia
+fleabane
+coneflower
+Meksika şapka
+Uzun kafa coneflower
+kır coneflower
+coneflower
+siyah gözlü Susan
+cutleaved coneflower
+lavanta pamuk
+tozlu miller
+butterweed
+gümüş adaçayı
+rosinweed
+süt devedikeni
+goldenrod
+çayır goldenrod
+devedikeni sow
+Stevia
+Stokes dalya
+kadife çiçeği
+Afrika kadife çiçeği
+Fransız kadife çiçeği
+boyalı papatya
+feverfew
+tozlu miller
+solucan otu
+ortak karahindiba
+karahindiba yeşil
+Meksika ayçiçeği
+Paskalya papatya
+sarı salsify
+tekesakalı çiçeği
+çayır salsify
+öksürükotu
+wingstem
+Cowpen papatya
+Ironweed
+kurutulduğunda rengi bozulmayan çiçek
+zinya çiçeği
+beyaz zinnia
+boruçiçeği
+sürünen bellflower
+Canterbury çan
+kümelenmiş bellflower
+şeftali çanları
+rampion
+tombul bellflower
+orkide
+salep otu
+erkek orchis
+kelebek orkide
+Aerides
+bataklık gül
+bletia
+Bletilla striata
+brassavola
+örümcek orkide
+örümcek orkide
+caladenia
+çim pembe
+türkü
+cattleya
+Helleborine
+kırmızı Helleborine
+kurbağa orkide
+coelogyne
+mercan kök
+benekli mercan kök
+cymbid
+venüsçarığı
+mokasen çiçek
+Ortak anlaşan terlik
+Sarı venüsçarığı
+Büyük sarı venüsçarığı
+California venüsçarığı
+dağ bayan terliği
+bataklık orkide
+Ortak benekli orkide
+dendrobium
+disa
+kelebek orkide
+kelebek orkide
+Helleborine
+Epipactis Helleborine
+dere orkide
+çıngıraklı yılan otu
+kokulu orkide
+kısa mahmuzlu kokulu orkide
+saçaklı orchis
+orkide dizginlemek
+bataklık dizgin orkide
+beyaz saçaklı orchis
+-Mor saçaklı orkide
+düzensiz orkide
+-Mor saçaklı orkide
+Teksas mor başak
+kertenkele orkide
+Laelia
+Liparis
+twayblade
+fen orkide
+twayblade
+masdevallia
+hercai menekşe orkide
+odontoglossum
+Oncidium
+arı orkide
+orkide uçmak
+örümcek orkide
+Erken örümcek orkide
+Venüs terlik
+phaius
+güve orkide
+kelebek bitki
+az kelebek orkide
+daha kelebek orkide
+Hint çiğdem
+pogonia
+kelebek orkide
+Psychopsis papilio
+kask orkide
+sobralia
+Bayanlar saçlar
+vida alâmet
+Avrupa Bayanlar saçlar
+stanhopea
+stelis
+orkide uçmak
+vanda
+mavi orkide
+vanilya
+vanilya orkide
+tatlı patates
+çuhaçiçeği
+İngilizce çuha çiçeği
+çuhaçiçeği
+çuha çiçeğine benzer bitki
+çuhaçiçeği
+farekulağı
+kırmızı pimpernel
+siklâmen
+sowbread
+su menekşe
+loosestrife
+kargaotu
+grafit
+deniz lavanta
+otsu bitki
+çim
+tallgrass
+ot
+keçi çim
+buğday çimi
+çayır tilki kuyruğu
+tilki kuyruğu
+uzun boylu çayır yulafı
+toetoe
+tahıl yulaf
+brom
+grama
+manda çim
+kamış çim
+tüy kamış çim
+pampa otu
+meyve bahçesi çim
+yabani çavdar
+çayır otu
+kadife çim
+arpa çim
+kara çayır
+çok yıllık çim
+anahtar çim
+kaz çim
+dallisgrass
+çeşme çim
+süpürge sakal çim
+Bluestem
+Çavdar
+yeşil bristlegrass
+rattan
+süpürge darısı
+tane sorgum
+cordgrass
+St. Augustine çim
+buğday
+mealie
+Mısır
+Patlamış mısır
+zoysia
+dev bambu
+şemsiye bitki
+nutgrass
+pamuk otu
+ortak pamuk otu
+pandanus
+tekstil vida çam
+çekirdek
+sukabağı
+kabak
+yaz kabağı
+sarı kabak
+spagetti squash
+kış kabağı
+palamut squash
+hubbard kabak
+kış crookneck
+cushaw
+kır kabak
+tatlı kavun
+kavun
+kış kavun
+net kavun
+sukabağı
+lif kabağı
+lif kabağı
+lif kabağı
+balsam apple
+balsam armut
+lobelia
+amber
+ebegümeci
+Bamya
+Bamya
+abelmosk
+çiçekli akçaağaç
+kadife
+gülhatmi
+ebegümeci gül
+althea
+hatmi
+ebegümeci gül
+pamuk gül
+Mahoe
+lacebark
+Pavonia
+çalı ebegümeci
+checkerbloom
+kırmızı ipek-pamuk ağacı
+baobap ağacı
+yastık pamuğu
+durian
+Jamaikalı kiraz
+Panama ağacı
+alev ağacı
+alev ağacı
+Kurrajong
+Çin şemsiye ağacı
+kırmızı kayın
+ayna bitki
+gümüş ağaç
+kakao
+ıhlamur
+Amerikan ıhlamur ağacı
+Japon ıhlamur
+gümüş kireç
+ot
+protea
+bal küpü
+banksia
+Grevillea
+Waratah
+Waratah
+casuarina
+Avustralya çam
+ağaç funda
+kış funda
+çan funda
+çilek ağacı
+Kalmia
+dağ defne
+alp açelya
+kuzukulağı ağacı
+mor funda
+rododendron
+zakkum
+bataklık açelya
+açelya
+yaban mersini
+kırmızı yabanmersini
+shortia
+pipsissewa
+Hint boru
+kayın
+kızılkayın ağacı
+Amerikan kayın
+ağlayan kayın
+Japon kayın
+Amerikan kestane
+Allegheny chinkapin
+Ozark chinkapin
+meşe, kestane
+Japon meşe
+güney kayın
+Yeni Zelanda kayın
+siyah kayın
+meşe palamudu
+meşe
+canlı meşe
+sahil canlı meşe
+Amerikan beyaz meşe
+Avrupa hindi meşe
+kanyon meşe
+güney kırmızı meşe
+Oregon beyaz meşe
+shingle meşe
+bluejack meşe
+Kaliforniya siyah meşe
+defne meşe
+Kaliforniya beyaz meşe
+bur meşe
+blackjack meşe
+bataklık kestane meşe
+Chinquapin meşe
+mersin meşe
+su meşe
+durmast
+sepet meşe
+pin meşe
+söğüt, meşe
+ortak meşe
+kuzey kırmızı meşe
+Shumard meşe
+sonrası meşe
+mantar meşesi
+siyah meşe
+güney canlı meşe
+İç canlı meşe
+huş ağacı
+sarı huş
+Amerikan beyaz huş
+gri huş
+gümüş huş
+tüylü huş
+siyah huş
+bataklık huş
+kızılağaç
+ortak kızılağaç
+beyaz kızılağaç
+pürüzsüz kızılağaç
+gürgen
+Avrupa gürgen
+Eski Dünya hop gürgen
+Doğu hop gürgen
+fındık
+kantaron
+az kantaron
+kır centiyana
+Centiyana
+gentianella
+kapalı centiyana
+kapalı centiyana
+Büyük sarı centiyana
+bataklık centiyana
+agueweed
+saçaklı centiyana
+zeytin ağacı
+zeytin
+zeytin
+saçak ağacı
+saçak çalı
+hor çiçeği
+kül
+beyaz kül
+Avrupa kül
+Oregon kül
+siyah kül
+manna kül
+kırmızı kül
+mavi kül
+dağ külü
+kabak kül
+yasemin
+kış yasemin
+ortak yasemin
+ortak kurtbağrı
+ortak lila
+kanguru pençe
+kış ela
+fothergilla
+Liquidambar
+sığla
+demir ağacı
+ceviz
+siyah ceviz
+İngilizce ceviz
+Kuzey Amerika cevizi
+bitternut
+mockernut
+kelbek vida somunu
+Kafkas ceviz
+beyaz mangrov
+loosestrife
+mor loosestrife
+krep mersin
+Kraliçe'nin krep mersin
+mersin
+ortak mersin
+bayberry
+vişne
+Surinam kiraz
+feijoa
+JABUTİCABA
+guava
+guava
+sakız ağacı
+kırmızı sakız
+kırmızı sakız
+Nehir kırmızı sakız
+kar sakız
+alp kül
+mavi sakız
+limon kokulu sakız
+siyah mallee
+Orman kırmızı sakız
+dağ külü
+karanfil
+tupelo
+ekşi sakız
+willowherb
+fireweed
+Kaliforniya fuşya
+küpe çiçeği
+Çuha çiçeği
+ortak çuha çiçeği
+Sundrops
+Missouri çuha çiçeği
+nar
+mangrov
+mezereon
+canna
+muz
+cüce muz
+Japon muz
+sinirotu
+yenilebilir muz
+Habeş muz
+ortak zencefil
+Havlıcan
+shellflower
+begonya
+yumrulu begonya
+melek kanadı begonya
+rex begonya
+balmumu begonya
+melez yumrulu begonya
+sarı Kantaron
+Ortak Aziz sarı kantaron
+Büyük St sarı kantaron
+St John 's wort sürünen
+klammath ot
+Çin bektaşi üzümü
+papaya
+laden
+granadilla
+granadilla
+Maypop
+çörekotu
+muhabbetçiçeği
+muhabbetçiçeği
+viyola
+menekşe
+alan hercai menekşe
+köpek menekşe
+boynuzlu menekşe
+İki gözlü menekşe
+kuş ayak menekşe
+soluk mor
+çit menekşe
+ısırgan otu
+rami
+Hint keneviri
+dut
+dut
+ekmekağacı meyvesi
+jackfruit
+incir
+altın incir
+Hint inciri
+Pipal
+Kauçuk ağacı
+kağıt dut
+karaağaç
+Amerikan karaağaç
+düz yapraklı karaağaç
+sedir karaağaç
+cadı karaağaç
+Hollanda karaağaç
+İngilizce karaağaç
+Sibirya karaağaç
+Eylül karaağaç
+hackberry
+Avrupa çitlembik
+şeker çitlembiği
+sakallı iris
+sakalsız iris
+cüce iris
+Hollandalı iris
+Floransalı iris
+Alman iris
+Japon iris
+İran iris
+Hollandalı iris
+cüce iris
+İspanyol iris
+blackberry-zambak
+mavi gözlü çim
+Hippeastrum
+nergis
+fulya
+fulya
+dağ zambak
+Kanada zambak
+Kaplan zambak
+Columbia kaplan zambak
+Kaplan zambak
+Paskalya zambak
+Turk's-cap
+leopar zambak
+Turk's-cap
+Afrika zambak
+yabani pırasa
+soğan
+Arpacık soğanı
+başını sallayarak soğan
+Frenk soğanı
+yabani sarımsak
+sarımsak bıçak
+kniphofia
+poker bitki
+kızgın poker
+Kuşkonmaz
+kuşkonmaz eğreltiotu
+çirişotu
+aspidistra
+dünya zambak
+SEGO zambak
+camas
+ortak camas
+dogtooth menekşe
+Sarı engerek dil
+zambak fawn
+buzul zambak
+fritillary
+taç emperyal
+Yılanın başı fritillary
+lâle
+cüce lale
+Tulipa gesneriana
+Darwin lale
+gloriosa
+limon zambak
+ortak sümbül
+yıldız-Bethlehem
+üzüm sümbül
+Ortak üzüm sümbül
+püskül sümbül
+scilla
+bahar squill
+adasoğanı
+kasap süpürge
+zevce çim
+ölüm camas
+ot Paris
+clintonia
+Vadinin yanlış zambak
+Vadinin yanlış zambak
+Solomon's sızdırmaz
+bellwort
+strawflower
+sabır otu
+Amerikan agave
+maguey
+maguey
+lahana ağacı
+Dracaena
+sümbülteber
+Sansevieria
+anne-in-law dil
+İspanyol süngü
+İspanyol süngü
+Joshua ağacı
+Adem'in iğne
+ayı çim
+İspanyol hançer
+su yonca
+kelebek çalı
+sarı yasemin
+keten
+cennet kuşu
+dağ abanoz
+Çin tarçını
+duş altın ağacı
+keçiboynuzu
+kraliyet poinciana
+akasya
+bal keçiboynuzu
+Kentucky kahve ağacı
+logwood
+palo Verde
+demirhindi
+sahte indigo
+sahte indigo
+lahana kabuğu
+böbrek fiğ
+süt fiğ
+yabani çivit
+Mavi yanlış çivit
+kelebek bezelye
+erguvan
+erguvan
+batı redbud
+nohut
+nohut
+çöl bezelye
+kelebek bezelye
+mavi bezelye
+axseed
+crotalaria
+ortak süpürge
+Brezilyalı gül ağacı
+mercan ağacı
+Ceibo
+Hint mercan ağacı
+mantar meşesi
+İspanyol süpürge
+woodwaxen
+soya
+yabani bezelye
+plaj bezelye
+mercimek
+kuş ayak yonca
+acı bakla
+ağaç kurt
+vahşi kurt
+Bluebonnet
+Teksas Bluebonnet
+doktor
+siyah kelebekotu
+korunga
+tumbleweed
+kutup fasulye
+fasulye
+balmumu fasulye
+çalı fasulyesi
+lima fasulyesi
+Sieva fasulye
+bezelye
+bahçe bezelye
+yenilebilir-pod bezelye
+Şeker ek bezelye
+roble
+kanatlı fasulye
+kudzu
+yalancı akasya
+Japon pagoda ağacı
+mescal fasulye
+Kowhai
+yeşim asma
+sahte acı bakla
+kuş ayak yonca
+karaçalı
+burçak
+püsküllü fiğ
+bakla
+snailflower
+börülce
+börülce
+kuşkonmaz fasulye
+Japon wistaria
+Amerikan wistaria
+avuç içi
+sago palmiyesi
+tüy hurma
+fan palmiye
+palmetto
+areka
+şeker, palmiye
+palmyra
+şarap hurma
+Hindistan cevizi
+carnauba
+caranday
+Palmiye yağı
+Afrika palmiye yağı
+lahana palmiye
+lahana palmiye
+hurma ağacı
+bambu palmiye
+bayan palmiye
+minyatür fan palmiye
+royal palm
+lahana palmiye
+lahana palmetto
+saw palmetto
+saz hurma
+anahtar palmiye
+geniş yapraklı muz
+eriogonum
+Ravent
+pasta tesisi
+ekşi dok
+commelina
+spiderwort
+Ananas
+su sümbülü
+su mercimeği
+bant çim
+gül
+kalça
+banksia gül
+şam gülü
+misk gülü
+Agrimonia
+Hasat-bitler
+çiçekli ayva
+Japon ayvası
+Cotoneaster
+karadiken
+ayva
+dağ avens
+yenidünya
+plaj çilek
+avens
+kır duman
+elma ağacı
+elma
+yabani elma
+yaban elması
+Sibirya yengeç
+vahşi yengeç
+Güney yengeç elma
+Iowa yengeç
+Bechtel yengeç
+muşmula
+Erik
+Allegheny erik
+ortak erik
+Japon kayısı
+ortak kayısı
+Kiraz
+yabani kiraz
+Tatlı Kiraz
+kiraz erik
+vişne
+badem ağacı
+badem
+fuji
+çiçekli badem
+hagberry ağaç
+Saru
+şeftali
+vişne
+çiçekli kiraz
+oryantal kiraz
+Japon çiçekli kiraz
+çiçekli badem
+Chokecherry
+Pyracantha
+armut
+meyve ağacı
+Ahududu
+yabani ahududu
+siyah ahududu
+Salmonberry
+dağ külü
+üvez ağacı
+üvez
+yabani üvez ağacı
+spirea
+gelin çelenk
+Kahve
+Arap kahve
+yoğurtotu
+tatlı woodruff
+sarı yoğurtotu
+pelerin yasemin
+vahşi muşmula
+abelia
+sarı hanımeli
+Japon hanımeli
+Frenk asması
+trompet hanımeli
+kızılcık çalı
+kartopu çiçeği
+Weigela
+tarakotu
+ortak teasel
+uyuz
+tatlı uyuz
+alan uyuz
+jewelweed
+sardunya
+cranesbill
+yabani ıtır
+çayır cranesbill
+ot robert
+turnagagası sardunya
+ıtır çiçeğine
+balık sardunya
+sarmaşık sardunya
+turnagagası
+fil ağacı
+bamya-limbo
+barbados kiraz
+Chinaberry
+neem
+yerli kayın
+Honduras maun
+Ortak ahşap kuzukulağı
+Bermuda çiçeği
+oxalis sürünen
+menekşe ahşap kuzukulağı
+carambola
+ortak milkwort
+narenciye
+Portakal
+turunç
+bergamot
+greyfurt
+greyfurt
+mandalina
+mandalina
+clementine
+satsuma
+tatlı portakal
+Limon
+tatlı limon
+Misket Limonu
+kumquat
+mantar meşesi
+dikenli kül
+Ailanthus
+cennet ağacı
+Lâtin çiçeği
+bahçe latin çiçeği
+çalı latin çiçeği
+boğadikeni
+Söğüt
+beyaz söğüt
+altın söğüt
+Salkım Söğüt
+keçisöğüdü
+keçi söğüt
+bataklık söğüt
+defne söğüt
+mor söğüt
+ortak osier
+kavak
+balsam kavak
+akçakavak
+Karakavak
+kavak
+Doğu kavak
+siyah kavak
+titrek kavak
+Quaking Aspen
+Amerikan Quaking Aspen
+Loranthaceae
+ökseotu
+ökseotu
+soapberry
+Çin ağacı
+longan
+litchi
+rambutan
+pachysandra
+iğ ağacı
+wahoo
+çilek çalı
+akçaağaç
+gümüş akçaağaç
+akçaağaç
+kırmızı akçaağaç
+Moosewood
+Oregon akçaağaç
+asma akçaağaç
+Hedge akçaağaç
+Norveç akçaağaç
+çınar
+kutu yaşlı
+Kaliforniya kutu yaşlı
+Japon akçaağaç
+çobanpüskülü
+ayı üzümü
+inkberry
+Amerikan holly
+kaşu
+Mango
+Damla Sakızı
+Sumak
+geyik boynuzu sumak
+biber ağacı
+zehir kül
+zehirli Sarmaşık
+atkestanesi türü bir ağaç
+trabzon hurması
+Japon Trabzon hurması
+Amerikan Trabzon hurması
+topalak
+güney topalak
+yıldız elma
+balata
+sapodilla
+marmelat ağacı
+Snowbell
+gümüş çan ağaç
+etobur bitki
+sürahi bitkisi
+Ortak sürahi bitkisi
+tropikal sürahi bitkisi
+böcek yiyen
+Venüs'ün flytrap
+Avustralya sürahi bitkisi
+sedum
+stonecrop
+hortensia
+sonbahar-çiçeklenme ortanca
+Deutzia
+Philadelphus
+sahte turuncu
+taş kıran çiçeği
+Sarı dağ taş kıran çiçeği
+çayır saxifrage
+mor saxifrage
+yıldız saxifrage
+astilbe'ait
+cüce astilbe'ait
+spirea
+bergenia
+gelin çelenk
+ormanlık yıldızı
+Parnassia
+bataklık yıldızı
+foamflower
+Frenk üzümü
+Frenk üzümü
+altın çilek
+çınar
+Londra uçak
+Amerikan çınar
+Kaliforniya çınar
+floksa
+yosun pembe
+ayının makat
+siyah gözlü Susan
+katalpa
+çöl söğüt
+hodan
+sığırdili
+bugloss
+İspanyol karaağaç
+Çin unutma beni değil
+blueweed
+puccoon
+Virginia bluebell
+bahçe unutma beni-değil
+beni Unutma
+karakafes
+ortak karakafes
+çit sarmaşığı
+gündüzsefası
+tarla sarmaşığı
+küsküt
+selvi asma
+ay çiçeği
+Kırmızı sabah-şan
+Japon sabah zafer
+achimenes
+aeschynanthus
+gloksinya
+Canterbury çan
+Afrika menekşesi
+streptocarpus
+waterleaf
+sarı çan
+Nemophila
+bebek mavisi gözler
+Beş nokta
+scorpionweed
+anason çördük
+borazan
+sürünen borazan
+borazan dik
+piramit boru
+yabani fesleğen
+coleus
+boyalı ısırgan
+kenevir otu
+zemin sarmaşık
+yarpuz
+çördük
+ısırgan otu
+beyaz ısırgan otu
+henbit
+İngiliz lavanta
+Fransız lavanta
+başak lavanta
+dagga
+Motherwort
+mercanköşk
+melisa
+Su nane
+nane
+nane
+elma nane
+yarpuz
+Monarda
+arı melisa
+horsemint
+arı melisa
+catmint
+Fesleğen
+Phlomis
+physostegia
+plectranthus
+dağ nanesi
+Biberiye
+adaçayı
+mor adaçayı
+cancerweed
+ortak adaçayı
+çayır clary
+adaçayı
+Meksika nane
+yabani adaçayı
+takke
+çit ısırgan
+mahmut otu
+Kekik
+ortak kekik
+yabani kekik
+Akdeniz aslanağzı
+çanta çiçeği
+Hint fırçası
+çöl fırça
+Dev kırmızı boya fırçası
+yüksükotu
+ortak yüksükotu
+mavi nevruzotu
+nevruzotu
+balon çiçek
+güve sığırkuyruğu
+ortak sığırkuyruğu
+veronika
+alan speedwell
+brooklime
+mısır speedwell
+brooklime
+germander yavşan
+su yavşan
+ortak yavşan
+itüzümü
+at ısırgan
+patates asma
+çalı menekşe
+melek trompet
+melek trompet
+kuş biber
+gece yasemin
+banotu
+Christmasberry
+Erik domates
+cupflower
+petunya
+melez petunya
+burun bektaşi üzümü
+yeşil domates
+yeşil domates
+kadeh asma
+mine çiçeği
+siyah mangrov
+beyaz mangrov
+siyah mangrov
+tik ağacı
+sütleğen
+Kar-on-the-dağ
+selvi sütleğen
+yapraklı sütleğen
+poinsettia
+ahşap sütleğen
+dikenler tacı
+kroton
+hint yağı bitkisi
+sütleğen otu
+manyok
+acı manyok
+manyok
+kandil
+terlik sütleğen
+kamelya
+Dereotu
+bahçe angelica
+vahşi angelica
+inek maydanoz
+astrantia
+daha masterwort
+kimyon
+su baldıran
+zehir
+yabani havuç
+deniz holly
+ortak rezene
+maydanoz türü bir bitki
+selâmotu
+tatlı cicely
+maydanoz
+İtalyan maydanoz
+kızılcık sopası
+Ortak beyaz kızılcık
+kırmızı hasır
+Avrupa ortak kızılcık
+bunchberry
+kızılcık
+kediotu
+ortak kediotu
+kırmızı kediotu
+puslu eğrelti
+çiçekli eğrelti
+kraliyet eğrelti
+su yonca
+çiçekli eğrelti
+küllemesi
+çavdar mahmuzu
+Ölü sahipsiz parmaklar
+Dünyatopu
+skleroderma citrinum
+mucor
+balçık kalıp
+Gerçek balçık kalıp
+beyaz mantar
+küfü
+Pythium
+Phytophthora infestans
+yermantarı
+kulüp mantar
+mercan mantar
+diş mantar
+liken
+lecanora
+sakal liken
+ren geyiği yosun
+İzlanda yosun
+mantar
+gerçek mantar
+basidiomicethes
+mantar
+çayır mantarı
+mantar
+mantar
+zehirli mantar
+at mantar
+çayır mantar
+shiitake
+kraliyet mantarı
+sahte deathcap
+sinek mantarı
+ölüm kap
+kızarma mantar
+yok melek
+sarı renkli bir tür mantar
+jack-o-fener mantar
+mürekkep kapak
+shaggymane
+milkcap
+peri-ring mantar
+peri halkası
+istiridye mantarı
+Pholiota aurea
+nameko
+Pholiota squarrosa
+solungaç mantar
+Entoloma lividum
+lepiota
+şemsiye mantar
+Amerikan şemsiye
+Lepiota clypeolaria
+blewits
+kumlu mantar
+geyik mantar
+saman mantar
+Clitocybe clavipes
+Clitocybe irina
+kış mantar
+miselyum
+kese mantar
+ascomycete
+Maya
+discomycete
+Sarcoscypha coccinea
+Aleuria aurantia
+kuzumantarı
+ortak morel
+Disciotis venosa
+VERPA
+VERPA Bohemica
+siyah morel
+Morchella semilibera
+sahte morel
+Helvella
+Gyromitra
+Gyromitra esculenta
+Gyromitra gigas
+gasteromycete
+stinkhorn
+ortak stinkhorn
+köpek stinkhorn
+kurtmantarı
+dev puffball
+earthstar
+kuş yuva mantar
+polypore
+dirsek mantar
+tavuk-of-the-ormanda
+Polyporus squamosus
+biftek mantarı
+çayır mantarı
+bolete
+Boletus chrysenteron
+Çörek mantarı
+Boletus luridus
+jöle mantar
+Cadılar tereyağı
+Yenilir bir mantar
+sürme hastalığı
+kapalı açık saçık
+tos vurma
+Hygrophorus russula
+Cortinarius armillatus
+kalıp
+küf
+Monilia
+ev bitkisi
+etli
+çeşidinde
+bitki
+tohum zarı
+sporophyll
+yaprak döken bitki
+asma
+filiz
+budak
+ağaç
+kerestelik ağaç
+çardak
+fasulye ağacı
+budanmış ağaç
+fidan
+gölge ağacı
+kozalaklı ağaç
+bonsai
+mesophyte
+bataklık bitki
+strangler
+kök
+pervane kök
+kol
+tüy sapı
+duyarga
+umbel
+yaprak sapı
+çiçek küme
+panikül
+kulak
+çiçeklenme
+meyve
+tohum
+fasulye
+somun
+dut
+Yumuşak çekirdekli
+akdiken meyvesi
+Cascara topalak
+Redberry
+tilki üzüm
+misket
+Sauvignon üzüm
+Beyaz bir üzüm çeşiti
+Boston sarmaşık
+peperomia
+kulak kepçesi
+yaprak
+bracteole
+involucre
+doğrusal yaprak
+kenarı tırtıllı yaprak
+branchlet
+polypody
+ortak polypody
+altın polypody
+ortak geyik boynuzu eğrelti
+spleenwort
+siyah spleenwort
+kuş yuvası eğreltiotu
+yürüyüş eğrelti
+hart's-dil
+ölçek eğrelti
+geyik otu
+gümüş ağaç eğreltiotu
+Yumuşak ağaç eğreltiotu
+eğreltiotu
+ahşap eğrelti
+erkek eğreltiotu
+marjinal ahşap eğrelti
+bayan eğreltiotu
+holly eğreltiotu
+kırılgan mesane eğrelti
+meşe eğrelti
+kireçtaşı eğrelti
+hassas eğrelti
+Noel eğreltiotu
+holly eğreltiotu
+Yumuşak kalkan eğrelti
+woodsia
+Boston eğreltiotu
+baldırıkara otu
+ortak maidenhair
+Amerikan maidenhair eğrelti
+bambu eğrelti
+gümüş eğrelti
+örümcek freni
+angiopteris
+at kuyruğu
+ortak atkuyrugu
+bataklık atkuyruğu
+ovma acele
+kulüp yosun
+ground cedar
+ground fir
+foxtail grass
+earthtongue
+mountain fern
+long beech fern
+honey mushroom
+swamp milkweed
+showy milkweed
+butterfly weed
+wax plant
+stapelia
+stephanotis
+cordage
+extremum
+leaf shape
+pencil
+line
+bulb
+cylinder
+round shape
+heart
+wave
+hook
+envelope
+bight
+cone
+funnel
+circle
+circle
+ring
+loop
+helix
+ellipse
+quadrate
+triangle
+parallel
+star
+pentagon
+hexagon
+octagon
+bell
+belly
+bow
+crescent
+balance
+conformation
+toroid
+column
+barrel
+pipe
+dewdrop
+ridge
+rim
+wrinkle
+crevice
+cleft
+roulette
+tree
+stemma
+block
+ovoid
+tetrahedron
+cube
+tail
+tongue
+wedge
+keel
+place
+herpes
+wall
+charcoal
+rock
+gravel
+leopard
+bricks and mortar
+choline
+concrete
+soil
+litter
+blood agar
+hip tile
+ice
+inositol
+pantothenic acid
+paper
+pantile
+blacktop
+paving
+sand
+stucco
+tear gas
+toilet tissue
+linseed
+vitamin
+vitamin A1
+vitamin B1
+vitamin B12
+vitamin B2
+vitamin B6
+vitamin Bc
+niacin
+vitamin D
+biotin
+vitamin K1
+vitamin P
+vitamin C
+chipboard
+knothole

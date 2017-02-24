@@ -1,0 +1,11221 @@
+benthos
+cellula
+persona
+animale
+pianta
+cibo
+artefatto
+luppolo
+registrare
+dressaggio
+piaffe
+funambolismo
+arrampicata
+sport di contatto
+sport all'aperto
+ginnastica
+acrobazia
+atletica leggera
+traccia
+salto in lungo
+salto in alto
+sciare
+sci di fondo
+salto con gli sci
+sport acquatico
+nuoto
+fare il bagno
+tuffo
+immersione
+galleggiante
+tuffarsi dalla scogliera
+capovolgere
+apnea
+immersioni in subacquea
+lo snorkeling
+fare surf
+sci d'acqua
+canottaggio
+sculling
+boxe
+pugilato professionistico
+combattimento
+asta
+tiro con l'arco
+slittino
+slittino
+bob
+lotta
+lotta greco-romana
+wrestling
+sumo
+pattinando
+Pattinaggio sul ghiaccio
+pattinaggio artistico
+pattinare
+pattinaggio a rotelle
+andare con lo skateboard
+pattinaggio di velocità
+da corsa
+auto da corsa
+canottaggio
+corse aliscafo
+corse di cammelli
+corse di levrieri
+corsa di cavalli
+equitazione
+sport equestre
+pony-trekking
+salto ostacoli
+a cavallo che attraversa il paese
+Ciclismo
+bicicletta
+motociclismo
+tauromachia
+cockfighting
+caccia
+beagling
+coursing
+caccia al cervo
+ducking
+caccia alla volpe
+pesca
+pesca con l'amo
+pesce volante
+troll
+colata
+volare fusione
+surf casting
+gioco giorno
+gioco atletico
+hockey su ghiaccio
+tetherball
+pallanuoto
+giochi all'aperto
+golf
+golf professionale
+partita di golf
+gioco medaglia
+match play
+golf in miniatura
+croquet
+quoits
+shuffleboard
+campo di gioco
+hockey su prato
+shinny
+calcio
+Football americano
+calcio professionistico
+toccare il calcio
+lancio
+Rugby
+gioco di palla
+baseball
+palla
+professionista di baseball
+gioco no-hit
+due-hitter
+tre-hitter
+quattro-hitter
+softball
+stickball
+cricket
+lacrosse
+polo
+calcio
+gioco corte
+palla a mano
+Racquetball
+schiacciare
+pallavolo
+Jai Alai
+badminton
+pallacanestro
+basket professionistico
+netball
+tennis
+tennis professionistico
+single
+single
+doppio
+doppio
+tennis reale
+pallone
+sport
+judo
+sport di squadra
+campeggio
+peste
+critter
+creepy-crawly
+ficcanaso
+spazzino
+bestia da soma
+animale da tiro
+animale domestico
+alimentatore
+alimentatore
+hatchling
+capo
+animale domestico
+animale marino
+gallina
+maschio
+adulto
+giovane
+orfano
+giovane mammifero
+bambino
+cucciolo
+pup di lupo
+cucciolo
+cucciolo
+cucciolo di leone
+orsetto
+cucciolo di tigre
+kit
+lattante
+sire
+diga
+purosangue
+carnivoro
+erbivoro
+microrganismo
+erpete
+herpes simplex 1
+fuoco di Sant'Antonio
+herpes varicella zoster
+citomegalovirus
+il virus della varicella zoster
+stafilococco
+streptococco
+zooplancton
+endameba
+ameba
+ciliato
+paramecium
+alga
+seagrass
+alghe brune
+fucus
+alghe verdi
+alghe di stagno
+eucariote
+sporozoo
+plasmodio
+Loach
+ciprinide
+carpa
+tinca
+cavedano
+pesciolino
+perno
+pesce rosso
+carassio
+anguilla elettrica
+killifish
+killifish strisce
+Rivulus
+swordtail
+guppy
+topminnow
+mosquitofish
+Platy
+soldierfish
+John Dory
+cornetfish
+pipefish
+cavalluccio marino
+Trumpetfish
+feto
+blastocisti
+gastrula
+tuorlo
+tunicate
+ascidia
+ascidia
+vertebrato
+Amniota
+lampreda
+lampreda di mare
+Elasmobranco
+squalo
+smeriglio
+mako
+grande squalo bianco
+squalo elefante
+squalo nutrice
+sabbia tigre
+squalo balena
+squalo toro
+squalo banco di sabbia
+squalo di Blacktip
+pinna bianca
+squalo scuro
+squalo limone
+verdesca
+squalo tigre
+palombo
+smoothhound
+pinna bianca
+martello
+Shovelhead
+squatina
+raggio
+torpediniformes
+pesce sega
+Stingray
+eagle ray
+raggio di aquila chiazzato
+manta
+manta atlantica
+pattinare
+uccello
+dickeybird
+uccellino
+adagiato
+cazzo
+gamecock
+gallina
+uccello di passaggio
+ratite
+carenato
+struzzo
+casuario
+emu
+Kiwi
+rhea
+rhea
+passeraceo
+uccello canoro
+accentor
+siepe passero
+allodola
+allodola
+ballerina
+pispola
+pispola
+fringuello
+fringuello
+Peppola
+cardellino
+fanello
+lucherino
+redpoll
+redpoll
+Nuovo cardellino mondo
+siskin pino
+casa finch
+fringuello viola
+canarino
+canarino comune
+serin
+crossbill
+ciuffolotto
+Junco
+dark-eyed Junco
+vesper passero
+passero bianco-throated
+passero bianco-crowned
+chipping passero
+campo passero
+passera mattugia
+canzone passero
+palude passero
+pavese
+Indigo bunting
+ortolano
+Migliarino di palude
+yellowhammer
+zigolo delle nevi
+honeycreeper
+passero
+Inglese passero
+passera mattugia
+frusone
+grosbeak sera
+hawfinch
+grosbeak di pino
+cardinale
+pyrrhuloxia
+towhee
+tessitore
+baya
+passero Java
+Zebra Finch
+honeycreeper
+lyrebird
+atrichornis
+broadbill
+Nuovo pigliamosche mondo
+kingbird
+Arkansas kingbird
+Kingbird orientale
+kingbird grigio
+pewee
+pewee legno occidentale
+Phoebe
+vermiglio pigliamosche
+galletto delle rocce
+galletto delle rocce
+Manakin
+Bellbird
+Ovenbird
+antbird
+woodhewer
+Pitta
+Scissortail
+muscicapidae
+pigliamosche
+tordo
+missel mughetto
+tordo bottaccio
+fieldfare
+ala rossa
+merlo
+merlo dal collare
+pettirosso
+eremita mughetto
+veery
+legno tordo
+usignolo
+usignolo
+bulbul
+Chat Vecchio Mondo
+stonechat
+stiaccino
+codirosso
+culbianco
+Bluebird
+pettirosso
+bluethroat
+uccello canoro
+gnatcatcher
+re d'un piccolo paese
+Goldcrest
+Regulus calendula
+warbler Vecchio Mondo
+capinera
+maggiore sterpazzola
+Bigiarella
+luì verde
+sedge warbler
+scricciolo warbler
+Tailorbird
+babbler
+Parulidae
+Parula warbler
+usignolo di Wilson
+Codirosso americano
+warbler Cape May
+warbler giallo
+Blackburn
+usignolo di Audubon
+warbler mirto
+Blackpoll
+Nuova chat mondo
+Icteria Virens
+Ovenbird
+mughetto acqua
+yellowthroat
+Yellowthroat comune
+Nuovo rigogolo mondo
+Oriole del nord
+Baltimore Oriole
+Oriole del Bullock
+Oriole frutteto
+meadowlark
+meadowlark orientale
+meadowlark occidentale
+Bobolink
+Nuovo merlo mondo
+grackle
+grackle viola
+merlo arrugginito
+cowbird
+Merlo ad ali rosse
+oriolidae
+rigogolo
+storno
+Starling comune
+myna
+myna crestato
+collina myna
+uccello corvine
+corvo
+corvo americano
+Corvo
+torre
+taccola
+gracchio
+ghiandaia
+blue Jay
+Canada jay
+schiaccianoci
+schiaccianoci di Clark
+gazza
+gazza europea
+gazza australiana
+Butcherbird
+currawong
+tubazioni corvo
+scricciolo
+scricciolo inverno
+Wren
+Marsh scricciolo
+scricciolo lungo becco palude
+carice scricciolo
+roccia scricciolo
+scricciolo Carolina
+cactus scricciolo
+mimo
+uccello gatto
+thrasher
+Thrasher marrone
+roccia scricciolo
+pianta rampicante
+rampicante marrone
+creeper europea
+picchio muratore europeo
+Sitta dal petto rosso
+picchio muratore dal petto bianco
+Cincia
+chickadee
+black-capped Luisa
+Titmouse trapuntato
+Carolina Chickadee
+tit blu
+bushtit
+fata Bluebird
+ingoiare
+rondine
+scogliera rondine
+albero di rondine
+rondine bianco ventre
+Balestruccio
+banca martin
+Martin viola
+legno di rondine
+tanager
+tanager scarlatto
+tanager occidentale
+tanager estate
+averla
+Butcherbird
+Averla europea
+Averla nord
+loggerhead shrike
+Bush Shrike
+Bowerbird
+uccello di raso
+merlo acqua
+vireo
+dagli occhi rossi vireo
+Vireo a punte blu
+waxwing
+cedro waxwing
+waxwing Bohemian
+uccello rapace
+Accipitriformi
+falco
+astore
+sparviero
+Falco di Cooper
+Buteo lagopus
+Buteo lineatus
+poiana
+falco pecchiaiolo
+aquilone
+nibbio bruno
+aquilone a coda di rondine
+aquilone dalla coda bianca
+saccheggiatore
+falco di palude
+albanella minore
+falco di palude
+biancone
+falco
+Peregrine
+gyrfalcon
+gheppio
+sparviero
+piccione hawk
+passatempo
+Caracara
+carancha
+aquila
+giovane uccello
+aquilotto
+arpia
+Aquila reale
+aquila fulva
+aquila calva
+aquila di mare
+Kamchatkan aquila di mare
+ERN
+aquila pescatrice
+falco pescatore
+avvoltoio
+Grifone
+gipeto
+capovaccaio
+avvoltoio nero
+segretario uccello
+poiana
+condor
+condor andino
+California condor
+avvoltoio nero
+re avvoltoio
+gufo
+piccolo gufo
+civetta
+assiolo
+grande gufo cornuto
+grande gufo grigio
+allocco
+gufo bloccate
+gufo comune
+gufo comune
+assiolo
+Strix occidentalis
+Vecchio Mondo Assiolo
+falco civetta
+gufo comune
+barbagianni
+anfibio
+Urodeli
+salamandra
+salamandra pezzata europea
+salamandra pezzata
+tritone
+Newt comune
+EFT rosso
+Newt ruvida pelle
+EFT
+salamandra pezzata
+salamandra tigre
+Axolotl
+Hellbender
+cryptobranchidae
+Dicamptodon
+orientale salamandra rosso-backed
+salamandra scuro
+salamandra snello
+rana
+ranidae
+legno-rana
+rana leopardo
+rana toro
+rana verde
+pickerel rana
+erba rana
+barking frog
+Crapaud
+raganella
+ascaphus
+bufonidae
+bufo
+agua
+rospo europeo
+calamita
+American rospo
+Eurasian rospo verde
+Texas rospo
+rospo occidentale
+rospo ostetrico
+rospo Fuoco-gonfiato
+spadefoot
+albero rospo
+Peeper primavera
+canyon treefrog
+coro rana
+Xenopus laevis
+rettile
+chelonian
+tartaruga
+tartaruga di mare
+tartaruga verde
+testa di legno
+ridley
+ridley Atlantico
+Ridley Pacifico
+tartaruga embricata
+tartaruga liuto
+snapping turtle
+Chelydra serpentina
+Alligator rompersi Tartaruga
+tartaruga di fango
+tartaruga di muschio
+terrapin
+terrapin Diamondback
+terrapin Rosso-gonfiato
+cursore
+Cooter
+casella di tartaruga
+casella di tartaruga occidentale
+tartaruga verniciata
+tartaruga
+testuggine europea
+tartaruga gigante
+tortoise di Gopher
+tartaruga del deserto
+soft-sgusciate tartaruga
+tuatara
+lucertola
+geco
+geco banded
+iguana comune
+iguana marine
+deserto iguana
+chuckwalla
+lucertola senza orecchie
+lucertola dal collare
+leopardo lucertola
+lucertola spinosa
+recinto lucertola
+lucertola di rete fissa occidentale
+lucertola recinzione orientale
+lucertola lato-blotched
+lucertola albero
+lucertola cornuta
+Texas lucertola cornuta
+basilisco
+camaleonte americano
+xantusiidae
+skink
+skink occidentale
+whiptail
+agamid
+agama
+lucertola frilled
+diavolo montagna
+coccodrillo lucertola
+Blindworm
+lucertola senza gambe
+mostro di Gila
+lucertola di perline
+lucertola di sabbia
+ramarro
+camaleonte
+camaleonte africano
+tenere sotto controllo
+Monitor africano
+Komodo dragon
+rettile crocodilian
+coccodrillo
+coccodrillo africano
+coccodrillo asiatico
+alligatore
+alligatore americano
+alligatore cinese
+caimano
+gavial
+Stegosaur
+triceratopo
+tyrannosaur
+serpente
+serpente colubrid
+tuoni serpente
+ringneck serpente
+Hognose serpente
+serpente verde
+liscio serpente verde
+grezzi serpente verde
+serpente verde
+corridore
+Blacksnake
+whip-serpente
+California whipsnake
+biacco
+corn snake
+Serpente di ratto nero
+serpente lucido
+toro serpente
+gopher serpente
+serpente di pino
+re serpente
+kingsnake comune
+serpente del latte
+giarrettiera serpente
+serpente giarrettiera comune
+nastro serpente
+biscia d'acqua
+biscia d'acqua comune
+mocassino acqua
+serpente dell'erba
+viperine biscia
+serpente di sabbia
+serpente vite
+notte serpente
+serpente cieco
+indigo serpente
+boa
+boa
+serpente boa
+Boa ottimistico
+anaconda
+pitone
+tappeto serpente
+pitone reticolato
+pitone indiano
+pitone roccia
+elapide
+serpente corallo
+serpente corallo orientale
+serpente corallo
+Copperhead
+cobra
+cobra indiano
+cobra dal collo nero
+amadriade
+Ringhals
+mamba
+Mamba nero
+mamba verde
+vipera della morte
+serpente tigre
+Krait
+taipan
+serpente di mare
+vipera
+vipera
+aspide
+vipera soffiante
+Gaboon viper
+vipera cornuta
+pit viper
+Copperhead
+mocassino acqua
+serpente a sonagli
+Diamondback
+legno serpente a sonagli
+Prairie serpente a sonagli
+crotalo cerastre
+Diamondback occidentale
+roccia serpente a sonagli
+sonagli Mojave
+serpente a sonagli punteggiati
+Massasauga
+Rattler terra
+Fer-de-lance
+carcassa
+trilobite
+aracnide
+harvestman
+scorpione
+falso scorpione
+whip-scorpione
+ragno
+Orb-tessitura ragno
+nero e il giardino d'oro ragno
+fienile ragno
+giardino ragno
+vedova Nera
+tarantola
+lupo ragno
+ragno lupo europeo
+zecca
+Ixodes dammini
+pecore-tick
+legno tick
+acaro
+ragnetto
+ragno rosso
+centopiedi
+casa centopiedi
+millepiedi
+granchio a ferro di cavallo
+polli domestici
+gioco pollame
+uccelli della giungla
+Gallus gallus
+pollo
+gallo
+pulcino
+cazzo
+galletto
+gallina
+chioccia
+pollastra
+Rhode Island Red
+Orpington
+tacchino
+tacchino
+tacchino ocellated
+gallo cedrone
+fagiano di monte
+fagiano di monte europea
+pernice bianca
+pernici rosse
+fagiano di montagna
+gallo cedrone
+urogallo abete rosso
+sage grouse
+urogallo ruffed
+galli cedroni sharp-coda
+pollo prateria
+tympanuchus cupido
+minore pollo prateria
+chachalaca
+tacchino pennello
+fagiano
+fagiano
+fagiano dorato
+bobwhite
+Bobwhite settentrionale
+pavone
+pavone
+pavona
+peafowl blu
+peafowl verde
+Quaglia
+California quaglia
+tragopan
+pernice
+pernice ungherese
+pernice rossa
+faraona
+faraona
+Hoatzin
+tinamou
+piccione
+colomba
+Rock dove
+piccione banda coda
+Colombaccio
+tortora
+Streptopelia turtur
+tortora australiano
+Mourning dove
+piccione domestico
+rullo
+Piccione viaggiatore
+sandgrouse
+pappagallo
+zerbinotto
+sondaggio
+grigio africano
+amazon
+ara
+kea
+cacatua
+zolfo crestato Cockatoo
+cacatua rosa
+cockateel
+pappagallino verde africano
+lory
+lorikeet
+rainbow Lorikeet
+parrocchetto
+pappagallino ondulato
+parrocchetto ring-collo
+cuculo
+cuculo europeo
+Roadrunner
+Coucal
+Touraco
+rullo
+European roller
+martin pescatore
+Kingfisher eurasiatica
+Martin pescatore
+Kookaburra
+ape mangiatore
+bucero
+upupa
+Upupa Euopean
+motmot
+veloce
+rapida europeo
+colibrì
+Archiloco colubris
+thornbill
+succiacapre
+frogmouth
+picchio
+picchio verde
+Picchio lanuginoso
+barlume
+sfarfallio di colore giallo-scopare
+sfarfallio rosso-scopare
+picchio dai capelli rossi
+Sapsucker
+sphyrapicus varius
+sphyrapicus ruber
+torcicollo
+Barbet
+Puffbird
+jacamar
+tucano
+toucanet
+trogon
+Quetzal
+uccelli acquatici
+uccelli acquatici
+anatra
+drake
+ciarlatano-ciarlatano
+anatroccolo
+anatra tuffatrice
+anatra di superficie
+mallardo
+Black duck
+alzavola
+Greenwing
+Bluewing
+marzaiola
+fischione
+fischione americano
+shoveler
+pintail
+Sheldrake
+volpoca
+anatra rubicondo
+Bufflehead
+occhio d'oro
+goldeneye di Barrow
+Canvasback
+pochard
+testa Rossa
+scaup
+Moretta grigia
+minore scaup
+anatra selvatica
+anatra di legno
+legno drake
+anatra mandarino
+anatra muta
+anatra mare
+edredone
+scoter
+orchetto marino
+vecchia squaw
+smergo
+goosander
+smergo americano
+mergus serrator
+smergo
+Lophodytes Cucullatus
+Oca
+papera
+papero
+oca cinese
+greylag
+oca blu
+oca delle nevi
+Brant
+oca Brant comune
+Honker
+Barnacle goose
+Coscoroba
+cigno
+pannocchia
+penna
+giovane cigno
+cigno
+whooper
+Cigno minore
+whistling Swan
+cigno di Bewick
+trombettista
+cigno nero
+mammifero
+mammifero femmina
+tusker
+echidna
+echidna
+ornitorinco
+marsupiale
+opossum
+opossum comune
+opossum topo
+canguro
+canguro gigante
+wallaby
+petrogale
+pademelon
+albero wallaby
+phalanger
+koala
+wombat
+Diavolo della Tasmania
+numbat
+placentare
+bestiame
+Toro
+mucca
+vitello
+vitello
+animale di un anno
+secchio
+daino
+Talpa
+toporagno
+riccio
+piumino
+piuma contorno
+encolure
+capelli
+scute
+plastron
+conchiglia
+guscio d'ostrica
+invertebrato
+spugna
+polipo
+Medusa
+Portoghese uomo di guerra
+Anemone di mare
+actinia
+pen mare
+corallo
+gorgonia
+piuma del mare
+ventilatore mare
+pietra corallina
+corallo di cervello
+coralli staghorn
+corallo fungo
+ctenophore
+verme
+woodborer
+flatworm
+nematode
+anellidi
+lombrico
+sanguisuga
+sanguisuga medicinale
+mollusco
+orecchia di mare
+ormer
+conchiglia
+conchiglia gigante
+lumaca
+lumaca commestibile
+giardino lumaca
+lumaca marrone
+lumaca
+Nerita
+buccino
+patella
+patella comune
+lumaca di mare
+lepre mare
+hermissenda crassicornis
+ciprea
+denaro ciprea
+Tiger cowrie
+chitone
+bivalve
+battibecco
+mollusco
+conchiglia
+soft-shell clam
+quahog
+littleneck
+geoduck
+vongola gigante
+tellina
+zizzania commestibile
+ostrica
+ostrica perlifera
+arca della shell
+mitilo
+cozze marine
+cozze commestibile
+cozze d'acqua dolce
+Zebra cozze
+pettine
+nautilus Pompilius
+polpo
+nautilus carta
+calamaro
+seppia
+crostaceo
+crostaceo decapode
+brachyuran
+Granchio
+granchio Dungeness
+roccia granchio
+granchio blu
+granchio di violinista
+granchio reale
+granchio ragno europeo
+granchio gigante
+aragosta
+astice americano
+scampo
+aragoste
+Gambero
+Paguro
+gamberetto
+gamberetto
+canocchie
+isopode
+woodlouse
+pillola bug
+anfipode
+Daphnia
+cirripede
+Acorn barnacle
+Barnacle goose
+guadare uccello
+cicogna
+cicogna bianca
+cicogna nera
+uccello aiutante di campo
+marabù
+Openbill
+jabiru
+saddlebill
+uccello poliziotto
+Ibis legno
+shoebill
+ibis
+Ibis legno
+ibis sacro
+spatola
+spatola comune
+Spatola rosa
+fenicottero
+airone
+grande airone blu
+airone bianco
+Airone
+Airone di piccolo azzurro
+garzetta nevoso
+garzetta
+airone bianco
+garzetta americano
+airone guardabuoi
+nitticora
+Nycticorax nycticorax
+nyctanassa violacea
+boatbill
+tarabuso
+Tarabuso americano
+Tarabuso europea
+almeno Tarabuso
+gru
+gru di urlo
+Courlan
+Limpkin
+Cariama crestato
+Chunga
+rotaia
+weka
+crake
+voltolino
+gallinule
+Florida gallinule
+fagiano di montagna
+pollo sultano
+gallinule europea
+gallinule americano
+notornis
+folaga
+Folaga americana
+Folaga Vecchio Mondo
+otarda
+otarda
+turnicidae
+trombettista
+uccello marino
+shorebird
+piviere
+piping Plover
+killdeer
+dotterel
+piviere dorato
+pavoncella
+turnstone
+turnstone rubicondo
+turnstone nero
+beccaccino
+Surfbird
+Sandpiper europea
+Sandpiper macchiato
+meno Sandpiper
+Sandpiper rosso-backed
+Greenshank
+redshank
+yellowlegs
+Greater Yellowlegs
+yellowlegs minori
+Sandpiper pettorali
+nodo
+Sandpiper Curlew
+sanderling
+Upland Sandpiper
+gorgiera
+chiacchierone
+Willet
+beccaccia
+Woodcock americano
+beccaccino
+intero snipe
+snipe di Wilson
+grande snipe
+dowitcher
+Greyback
+chiurlo
+chiurlo europeo
+Pittima
+limosa haemastica
+trampolo
+dal collo nero Stilt
+Cavaliere d'Italia
+trampolo
+avocetta
+beccaccia di mare
+phalarope
+phalarope rosso
+phalaropus tricolor
+pratincole
+occhione
+laridi
+gabbiano
+miagolare
+gabbiano col dorso nero
+gabbiano reale
+ridere gabbiano
+avorio gabbiano
+gabbiano
+sterna
+rondine di mare
+scrematrice
+Jaeger
+Jaeger parassitaria
+skua
+grande skua
+alca
+Auklet
+razorbill
+alle alle
+guillemot
+guillemot nero
+piccione guillemot
+Murre
+Uria comune
+Uria Lomvia
+puffino
+puffino atlantico
+Puffin Cornuto
+pulcinella dai ciuffi
+gavia
+svasso
+svasso maggiore
+PODICEPS GRISEGENA
+svasso piccolo
+tuffetto
+svasso pied-fatturato
+pellicano
+pellicano bianco
+pellicano bianco Vecchio mondo
+fregata
+Gannet
+solan
+tonto
+cormorano
+snakebird
+Turchia acqua
+phaethon
+sphenisciform Seabird
+pinguino
+Adelie
+re pinguino
+pinguino imperatore
+pinguino Jackass
+roccia tramoggia
+pelagico uccello
+albatro
+albatro urlatore
+petrel
+fulmar
+Shearwater
+tempesta petrel
+mammifero acquatico
+cetaceo
+balena
+mysticeti
+balena franca
+rorqual
+balena Blu
+finback
+minore rorqual
+balena grigia
+odontoceti
+capodoglio
+balena Tursiope
+delfino
+delfino comune
+Delfino tursiope
+Atlantic tursiope
+Pacifico tursiope
+focena
+balena assassina
+globicefalo
+balena bianca
+lamantino
+dugongo
+carnivoro
+onnivoro
+mammifero pinniped
+foca
+sigillo Crabeater
+otaria
+sigillo di pelliccia
+pelliccia sigillo Guadalupe
+sigillo di pelliccia
+pelliccia sigillo Alaska
+Leone marino
+Otaria flavescens
+Leone di mare California
+leone marino australiano
+Steller leoni marini
+phocidae
+porto sigillo
+foca della Groenlandia
+elefante marino
+tricheco
+tricheco Atlantic
+aardvark
+canino
+cagna
+cane
+cane
+cur
+cagnolino
+cane giocattolo
+Chihuahua
+cane maltese
+pechinese
+Shih-Tzu
+Blenheim spaniel
+King Charles Spaniel
+papillon
+toy terrier
+cane da caccia
+Rhodesian ridgeback
+cane da caccia
+levriero afgano
+bassotto
+beagle
+segugio
+Bluetick
+Coonhound
+bassotto
+bassotto
+cane da volpe
+Redbone
+Wolfhound
+Borzoi
+Wolfhound irlandese
+levriero
+levriero italiano
+whippet
+segugio di Ibiza
+Norwegian elkhound
+Saluki
+deerhound scozzese
+Weimaraner
+terrier
+Bull terrier
+Staffordshire bullterrier
+American Staffordshire terrier
+terrier Bedlington
+border terrier
+Kerry Blue Terrier
+terrier irlandese
+Norfolk terrier
+Norwich terrier
+Yorkshire Terrier
+rat terrier
+Manchester terrier
+giocattolo Manchester
+fox terrier
+wire-haired fox terrier
+Wirehair
+Lakeland terrier
+terrier gallese
+Sealyham terrier
+Airedale
+tumulo
+terrier australiano
+Dandie Dinmont
+Boston toro
+schnauzer
+schnauzer miniatura
+schnauzer gigante
+schnauzer
+Scotch terrier
+Tibetan terrier
+terrier setosa
+Skye terrier
+soft-rivestite con wheaten Terrier
+West Highland terrier bianco
+Lhasa
+cane da caccia
+cane uccello
+cane da acqua
+cane da riporto
+Flat-Coated Retriever
+retriever riccio rivestite
+Golden retriever
+labrador retriever
+Chesapeake Bay Retriever
+pointer
+Tedesco puntatore a pelo corto
+setter
+vizsla
+English setter
+setter irlandese
+setter Gordon
+spaniel
+Brittany spaniel
+clumber
+Springer spaniel
+English Springer
+Welsh springer spaniel
+Cocker spaniel
+Sussex spaniel
+spaniel acqua
+spaniel acqua irlandese
+cane da lavoro
+cane da guardia
+Kuvasz
+housedog
+Schipperke
+cane da pastore
+cane da pastore belga
+groenendael
+malinois
+briard
+Kelpie
+Komondor
+Old English Sheepdog
+Shetland sheepdog
+collie
+Border collie
+Bovaro delle Fiandre
+rottweiler
+Pastore tedesco
+cane poliziotto
+pinscher
+Doberman
+pinscher miniatura
+Sennenhunde
+Grande cane Swiss Mountain
+Bovaro Bernese
+Appenzeller
+pugile
+mastino
+bull mastiff
+mastino tibetano
+bulldog
+bulldog francese
+alano
+San Bernardo
+cane da slitta
+Eskimo cane
+malamute
+Husky siberiano
+dalmata
+Affenpinscher
+basenji
+carlino
+Leonberg
+Terranova
+grandi Pirenei
+spitz
+Samoiedo
+volpino
+rancio
+keeshond
+grifone
+corgi
+Pembroke
+Cardigan
+barboncino
+barboncino nano
+barboncino in miniatura
+barboncino di serie
+lupo
+lupo di legname
+lupo Bianco
+lupo Rosso
+coyote
+sciacallo
+cane selvatico
+dingo
+dhole
+cane da caccia africano
+iena
+iena striata
+iena maculata
+Volpe
+Volpe rossa
+Volpe rossa
+kit di volpe
+kit di volpe
+Volpe artica
+volpe grigia
+felino
+gatto
+gatto domestico
+gattino
+Mouser
+gatto di strada
+randagio
+tom
+soriano
+gattino
+soriano
+Tiger cat
+tartaruga
+persiano
+Angora
+gatto siamese
+gatto birmano
+gatto egiziano
+abissino
+Manx
+gattopardo
+cat sabbia
+gatto selvatico europeo
+Puma
+ocelot
+gatto della giungla
+gattopardo
+margay
+manul
+lince
+lince comune
+lynx canadensis
+lince rossa
+lynx macchiato
+Caracal
+grande gatto
+leopardo
+pantera
+leopardo delle nevi
+giaguaro
+Leone
+leonessa
+tigre
+tigre del Bengala
+tigre
+liger
+ghepardo
+orso
+orso bruno
+orso siriano
+grizzly
+Alaskan orso bruno
+orso nero americano
+Asiatic black bear
+orso di ghiaccio
+orso bradipo
+zibetto
+Binturong
+genette
+mangusta
+meerkat
+Meerkat coda slanciata
+suricate
+pipistrello
+Volpe volante
+Volpe volante
+pipistrello marrone
+piccolo pipistrello marrone
+grande pipistrello marrone
+bat pallida
+pipistrelle
+pipistrello vampiro
+predatore
+preda
+gran gioco
+quadrupede
+hexapod
+insetto
+insetti sociali
+defogliatore
+impollinatore
+scorpione mosca
+collemboli
+scarafaggio
+Tiger beetle
+coccinella
+coccinella due spotted
+convergens Ippodamia
+Vedalia
+terra coleottero
+Calosoma
+lucciola
+tarlo
+segatore
+Chrysomelidae
+coleottero pulce
+dorifora della patata
+Scarabeo stercorario
+scarabeo
+coleottero giugno
+verde scarabeo giugno
+coleottero giapponese
+Scarabeo rinoceronte
+maggiolino
+chafer di rosa
+chafer di rosa
+cervo volante
+coleottero elaterid
+clicca scarabeo
+tonchio
+rove beetle
+coleottero farina
+coleottero asiatico Longhorned
+pidocchio comuni
+insetto dipterous
+volare
+mosca domestica
+moscone della carne
+moscone
+greenbottle
+carne fly
+tafano
+ape fly
+rapinatore fly
+Mosca della frutta
+drosophila
+tick cavallo
+zanzara
+wiggler
+zanzara della febbre gialla
+zanzara tigre asiatica
+zanzara comune
+moscerino
+armyworm
+crane fly
+blackfly
+ape
+fuco
+Ape Regina
+ape operaia
+Ape
+ape africanizzata
+ape nera
+falegname ape
+bombo
+Andrena
+Foglio-taglio ape
+osmia
+vespa
+vespa carta
+calabrone
+hornet gigante
+vespa comune
+hornet bald-faced
+giacca gialla
+mason vespa
+formica velluto
+vespa scavatrice
+cicala assassino
+fango dauber
+ichneumon fly
+formica
+formica esercito
+carpentiere formica
+formica di fuoco
+legno formica
+formica sanguinario
+cavalletta
+cavalletta breve corna
+locusta
+locusta migratoria
+katydid
+grillo sabbia
+cricket
+grillotalpa
+phasmid
+bastone da passeggio
+scarafaggio
+blatta orientalis
+scarafaggio americano
+scarafaggio tedesco
+mantide
+mantide religiosa
+insetto
+insetto hemipterous
+bug squash
+leaf-footed bug
+cimice
+vero bug
+gigante insetto acqua
+strider acqua
+insetto volante
+whitefly
+cocciniglia
+impianto pidocchio
+afide
+adelgid
+cicala
+diciassettenne locusta
+Froghopper
+spittlebug prato
+cicalina
+efemera
+Stonefly
+doodlebug
+lacewing
+lacewing verde
+Dobson
+alderfly
+odonati
+libellula
+damselfly
+pesciolino d'argento
+dermattero
+earwig comune europeo
+insetto lepidopterous
+farfalla
+nymphalid
+lutto mantello
+tartaruga
+bellezza dipinta
+ammiraglio
+ammiraglio rosso
+ammiraglio bianco
+fasciato viola
+rosso-porpora macchiato
+viceré
+boccolo
+virgola
+fritillary
+imperatore farfalla
+imperatore viola
+pavone
+Danaid
+monarca
+cavolo farfalla
+piccolo bianco
+grande bianco
+farfalla di zolfo
+lycaenid
+blu
+rame
+rame americano
+hairstreak
+Strymon melinus
+falena
+tortricid
+tè tortrix
+arancione tortrix
+tussock caterpillar
+Lymantria
+geometrid
+verme di misurazione
+piralide
+vestiti falena
+tappeto falena
+falena noctuid
+cutworm
+armyworm
+cadere armyworm
+hawkmoth
+hornworm tabacco
+hornworm pomodoro
+falena testa di morto
+baco da seta
+imperatore
+falena imperiale
+baco da seta
+Luna moth
+cecropia
+io falena
+polyphemus falena
+atlante falena
+cinabro
+tenda bruco
+foresta tenda bruco
+webworm
+webworm falena
+cadere webworm
+instar
+bruco
+mais earworm
+Cabbageworm
+orso lanoso
+lanoso falena orso
+larva
+ninfa
+larva
+pupa
+crisalide
+Regina
+echinoderma
+stella marina
+ophiuroidea
+euryalina
+Riccio di mare
+commestibile riccio di mare
+dollaro di sabbia
+piuma stella
+cetriolo di mare
+lagomorfo
+coniglio
+orecchie di coniglio
+lapin
+coniglietto
+coniglio europeo
+coniglio in legno
+Minilepre
+lepre
+lepre europea
+jackrabbit
+lepre polare
+racchette da neve lepre
+Angora
+Pika
+roditore
+topo
+ratto
+casa del mouse
+topo di campagna
+topo delle chiaviche
+ratto comune
+bandicoot rat
+topo cervo
+ondatra
+vole
+vole acqua
+vole acqua
+criceto
+criceto dorato
+gerbillo
+porcospino
+Canada porcospino
+kangaroo rat
+ghiro
+citello
+scoiattolo
+scoiattolo
+scoiattolo grigio orientale
+scoiattolo grigio occidentale
+volpe scoiattolo
+scoiattolo nero
+scoiattolo rosso
+scoiattolo rosso americano
+chickeree
+antilope scoiattolo
+scoiattolo di terra
+scoiattolo di terra ammantate
+Suslik
+scoiattolo rock
+scoiattolo di terra artica
+cane della prateria
+Blacktail cane di prateria
+Chipmunk orientale
+chipmunk
+marmotta
+marmotta
+marmotta hoary
+castoro
+Nuovo castoro mondo
+cavia
+porcellino d'India
+aperea
+capibara
+nutria
+cincilla
+ungulato
+hyrax
+roccia hyrax
+perissodactyla
+equino
+cavallo
+roano
+puledro
+puledra
+puledro
+cavallo maschio
+ridgeling
+stallone
+perno
+cavallo castrato
+cavalla
+fattrice
+cavallo da sella
+cavalleria cavallo
+mod
+pony mucca
+quarter horse
+Morgan
+Tennessee Walker
+cavallo da sella americana
+arabo
+Lippizan
+pony
+polo pony
+mustang
+mustang
+Monta di cavallo selvaggio
+pelle di daino
+grigio
+grigio
+Cavallo selvaggio
+tarpan
+il cavallo di Przewalski
+Cayuse
+mod
+mod
+cavallo aratro
+pony
+pony Shetland
+pony Welsh
+Exmoor
+cavallo da corsa
+purosangue
+animale di un anno
+cablaggio cavallo
+pannocchia
+cavallo da sella
+cavallo di battaglia
+cavallo da tiro
+carthorse
+Clydesdale
+Percheron
+allevamento di cavalli
+contea
+cavallo posta
+cavallo allenatore
+battistrada
+cavallo trotto
+Castagna
+castagno fegato
+baia
+Acetosa
+Palomino
+pezzato
+culo
+asino domestico
+asinello
+jennet
+mulo
+asino selvatico africano
+zebra
+zebra comune
+zebra di montagna
+zebra di Grevy
+rinoceronte
+rinoceronte indiano
+rinoceronte bianco
+rinoceronte nero
+tapiro
+Nuovo tapiro mondo
+Tapirus indicus
+ungulati artiodattili
+suino
+maiale
+porcellino
+cinghiale
+seminare
+cinghiale
+Facocero
+pecari
+pecari dal colletto
+ippopotamo
+ruminante
+bovino
+bue
+bestiame
+bue
+torello
+Toro
+mucca
+giovenca
+dogie
+Manzo
+Longhorn
+bramano
+zebù
+uri
+yak
+Santa Gertrudis
+Aberdeen Angus
+bovini da latte
+Brown Swiss
+Charolais
+maglia
+Durham
+Galloway
+Friesian
+Hereford
+Vecchio Mondo di bufala
+Bufalo d'acqua
+carabao
+Capo di bufala
+Gaur
+bisonte
+bisonte americano
+wisent
+ovibove
+pecora
+pecora
+montone
+montone castrato
+agnello
+agnellino
+pecora nera
+ovini domestici
+Hampshire
+Longwool
+merino
+mufloni
+argali
+dall pecore
+pecore di montagna
+grande corno
+muflone
+Aoudad
+capra
+ragazzo
+manganello
+bambinaia
+capra domestica
+Angora
+capra selvatica
+bezoar capra
+stambecco
+capra di montagna
+camoscio
+Takin
+antilope
+blackbuck
+Gerenuk
+Addax
+gnu
+madoqua
+hartebeest
+sassaby
+impala
+gazzella
+gazzella di Thomson
+springbok
+bongo
+kudu
+kudu maggiore
+Nyala
+Bushbuck
+antilopi nere
+steenbok
+Eland
+Eland comune
+kob
+lechwe
+waterbuck
+orice
+gemsbok
+pronghorn
+cervo
+cervo
+cerbiatto
+cervo
+cervo
+sambar
+Wapiti
+cervi giapponesi
+Virginia cervi
+Cervo mulo
+nero cervo a coda
+alce
+daino
+capriolo
+caribù
+caribù
+muntjac
+cammello
+cammello arabo
+Bactrian camel
+lama
+guanaco
+alpaca
+vigogna
+giraffa
+okapi
+donnola
+visone
+visone americano
+puzzola
+furetto
+Mustela nigripes
+lontra
+lontra di fiume
+lontra eurasiatica
+lontra
+puzzola
+Skunk a strisce
+tasso
+tasso americano
+tasso eurasiatica
+ghiottone
+pino martora
+pachiderma
+armadillo
+PEBA
+bradipo
+Bradipo tridattilo
+choloepus
+choloepus
+formichiere
+orso formica
+Tamandua
+pangolino
+scapolare
+girino
+primate
+scimmiesco
+scimmia
+omosessuale
+mondo
+Homo erectus
+Homo sapiens
+l'uomo di Neandertal
+Homo sapiens sapiens
+grande scimmia
+orangutan
+gorilla
+gorilla di pianura occidentale
+orientale gorilla di pianura
+gorilla di montagna
+Silverback
+scimpanzé
+scimpanzé orientale
+Pan troglodytes troglodytes
+scimpanzé pigmeo
+gibbone
+siamang
+scimmia
+guenon
+cercopiteco
+Patas
+babbuino
+chacma
+mandrillo
+macaco
+Rh
+bertuccia
+langur
+entellus
+colobus
+proboscide scimmia
+bertuccia
+pigmeo marmoset
+Tamarin
+cappuccino
+scimmia urlatrice
+titi
+Ragno scimmia
+scimmie scoiattolo
+lemure
+cat Madagascar
+lento Loris
+potto
+Galago
+Indri
+Tarsier
+elefante
+elefante indiano
+elefante africano
+procione
+procione comune
+bassarisk
+Kinkajou
+coati
+Poco panda
+Panda gigante
+pesce
+gioco di pesce
+pesce cibo
+Barracouta
+lungfish
+pesce gatto
+siluro
+bullhead
+pesce gatto di canale
+pesce gatto blu
+pesce gatto a testa piatta
+merluzzo
+bottatrice
+Pollack
+Cusk
+Anguilla
+tonno
+murena
+grongo
+alosa
+allice SHAD
+aringa
+sardina
+sardella
+acciuga
+salmone
+pesce rosso
+Salmone atlantico
+salmone senza sbocco sul mare
+sockeye
+chinook
+coho
+trota
+trota fario
+la trota iridea
+trota di mare
+trota di lago
+trota di ruscello
+tarpon
+bonefish
+lucertola
+goosefish
+rana
+needlefish
+pertica
+pertica
+pesce persico giallo
+pesce persico europeo
+lucioperca
+walleye
+Snook
+luccio
+luccio
+muskellunge
+pickerel
+sunfish
+crappie
+orata acqua dolce
+seme di zucca
+bluegill
+spigola d'acqua dolce
+basso nero
+bocca piccola
+trota
+basso
+branzino striato
+cernia
+posteriore
+jewfish
+embiotocidae
+cardinale
+pesce fiamma
+Bluefish
+Cobia
+Jack
+crevalle jack
+rainbow Runner
+ricciola
+ricciola
+kingfish
+permesso
+scad
+suro
+suro
+lampuga
+tetra
+cardinale tetra
+piranha
+ciclidi
+snapper
+grugnito
+Porkfish
+Pesce porco
+orata
+testa di pecora
+snapper
+tamburo rosso
+mulloway
+croaker
+kingfish
+ombrina bianco
+ombrina bianco
+trota di mare
+weakfish
+weakfish macchiato
+triglia
+Barracuda
+grande barracuda
+pesci farfalla
+chaetodon
+squatina
+roccia bellezza
+castagnole
+pesce di anemone
+pesce di anemone pagliaccio
+sergente maggiore
+wrasse
+tautog
+pappagallo
+Jawfish
+bavosa
+wolffish
+dragonet
+goby
+mudskipper
+Testa piatta
+sgombro
+sgombro
+Wahoo
+sgombro
+re Mackerel
+cero
+tonno
+rosso
+gialla
+palamite
+bonito
+istioforo
+pesce vela Atlantic
+billfish
+Marlin
+marlin blu
+marlin nero
+bowfin
+spatola
+storione
+storione del Pacifico
+beluga
+gar
+scorfano
+pesce leone
+stonefish
+rockfish
+Testa piatta
+gallinella
+gallinella volante
+balestra
+regina balestra
+giacca di pelle
+boxfish
+cowfish
+puffer
+porcupinefish
+balloonfish
+mola mola
+pesci piatti
+platessa
+passera di mare
+halibut
+halibut del Pacifico
+rombo
+abaco
+nave abbandonata
+Una batteria
+macello
+abaya
+condensatore di Abbe
+abbazia
+abbazia
+abbazia
+spalla
+costume accademico
+abito accademico
+acceleratore
+acceleratore
+acceleratore
+alloggio
+fisarmonica
+rayon acetato
+chitarra acustica
+acropoli
+adattatore
+macchina sommatrice
+benda adesiva
+adito
+chiave regolabile
+adobe
+aeratore
+aerosol
+afgano
+Afro-parrucca
+postbruciatore
+dopobarba
+aigrette
+airbus
+compressore d'aria
+condizionatore
+aereo
+portaerei
+motore aeronautico
+airdock
+campo di aviazione
+filtro dell'aria
+piano a profilo aerodinamico
+cellula
+Pistola ad aria compressa
+martello di aria
+tromba d'aria
+aereo di linea
+aereo
+aeroplano
+aeroporto
+dirigibile
+air terminal
+corridoio
+allarme
+sveglia
+alcazar
+birreria
+A-line
+chiave a brugola
+bastone da montagna
+altare
+altare
+pala d'altare
+altazimutale
+alternatore
+altimetro
+Amati
+ambulanza
+amperometro
+cartucce
+anfibio
+anfibio
+anfiteatro
+anfiteatro
+anfora
+amplificatore
+orologio analogico
+orologio analogico
+bilancio analitico
+analizzatore
+anastigmat
+ancora
+ancora con catena
+Il circuito
+alare
+androide
+Camera anecoica
+anemometro
+barometro aneroide
+cavigliera
+calzerotto
+segreteria telefonica
+antenna
+anticamera
+antiaereo
+antivegetativa
+antitraspirante
+incudine
+ao dai
+appartamento
+condominio
+apertura
+apertura
+apiario
+abbigliamento
+apparecchio
+apparecchio
+grembiule
+abside
+autorespiratore
+acquaplano
+acquario
+arabesco
+pergolato
+portico
+arco
+architettura
+lampada ad arco
+artico
+la zona
+argyle
+braccio
+armamento
+poltrona
+Armet
+guardia del braccio
+bracciale
+armadio
+armatura
+Auto blindata
+veicolo corazzato
+veicolo blindato
+corazza
+bracciolo
+schieramento
+scaricatore
+freccia
+arteria
+arthrogram
+orizzonte artificiale
+artiglieria
+ashcan
+ash-pan
+portacenere
+fucile d'assalto
+montaggio
+sala riunioni
+impianto di assemblaggio
+astrolabio
+telescopio astronomico
+calzino atletico
+sostenitore atletico
+atlante
+bomba atomica
+orologio atomico
+atomizzatore
+atrio
+Borsa per documenti
+sottomarino d'attacco
+Attico
+abbigliamento
+audiocassette
+CD audio
+audiometro
+sistema audio
+musicassetta
+musicassetta
+auditorium
+autostrada tedesca
+autoclave
+autofocus
+autogiro
+caricatore automatico
+automat
+automat
+arma da fuoco automatica
+pistola automatica
+fucile automatico
+automazione
+automa
+motore di automobile
+fabbrica di automobili
+clacson
+autoradiograph
+autostrada
+memoria ausiliaria
+voliera
+tenda
+ascia
+manico d'ascia
+testa di ascia
+asse
+bar assale
+letto bambino
+passeggino
+Baby Grand
+talco per bambini
+pattino di bambino
+indietro
+indietro
+backbench
+piano di sostegno
+piano di sostegno
+brace indietro
+backgammon
+sfondo
+terna
+retroilluminazione
+zaino
+tenda backpacking
+veranda sul retro
+backscratcher
+sedile posteriore
+tasto backspace
+scala di servizio
+paterazzo
+costoliere
+sistema di backup
+campo da badminton
+racchetta di badminton
+Borsa
+Borsa
+Borsa
+Bagaglio
+Bagaglio
+bagagliaio
+ritiro bagagli
+cornamusa
+ponte Bailey
+esca
+forno
+Balaclava
+balalaica
+equilibrio
+fascio di equilibrio
+balcone
+bandoliera
+balla
+palla
+palla
+balldress
+pannello esterno di balletto
+abito da ballo
+missile balistico
+palloncino
+balloon vela
+urna elettorale
+ballpark
+a sfera
+sala da ballo
+valvola a sfera
+balsa zattera
+balaustro
+barca banana
+bendare
+Cerotto
+fazzoletto a colori vivaci
+cappelliera
+bandoneon
+Sega a nastro
+braccialetto
+bangio
+bandiera
+ringhiera
+fonte battesimale
+bar
+barbecue
+filo spinato
+manubrio
+poltrona da barbiere
+barbiere
+bareboat
+chiatta
+baritono
+abbaiare
+fienile
+porta della stalla
+barometro
+stampante bar
+barile
+barile
+barrelhouse
+volta a botte
+barretta per capelli
+mescita
+carriola
+bascule
+base
+baseball
+Mazza da baseball
+cappellino da baseball
+attrezzature di baseball
+guanto da baseball
+seminterrato
+seminterrato
+basilica
+basilisco
+bacino
+basinet
+cestino
+cestino
+pallacanestro
+campo da basket
+attrezzature basket
+tessuto di cestino
+basso
+clarinetto basso
+grancassa
+violino basso
+basso
+contrabbasso corno
+culla di vimini
+culla di vimini
+fagotto
+bastione
+bastione
+pipistrello
+bagno
+cuffia da bagno
+olio da bagno
+accappatoio
+bagno
+sali da bagno
+asciugamano da bagno
+vasca da bagno
+batik
+batteria
+batteria
+gabbia di battuta
+guanto battuta
+casco batting
+ascia
+incrociatore da battaglia
+tenuta da combattimento
+merlo
+corazzata
+baionetta
+bay rum
+bovindo
+bazar
+bazar
+bazooka
+telo mare
+beach wagon
+beachwear
+faro
+coppa
+coppa
+fascio
+beanbag
+Beanie
+cuscinetto
+colbacco
+castoro
+letto
+lenzuola
+cavo di Bedford
+giacca da camera
+padella
+Camera da letto
+mobili camera da letto
+soggiorno-letto
+copriletto
+bedstead
+cicalino
+barile di birra
+bottiglia di birra
+lattina di birra
+giardino della birra
+bicchiere di birra
+birreria
+sottobicchiere
+boccale di birra
+campanile
+campana
+campana arco
+pantaloni BELLBOTTOM
+bell cote
+campanile a vela
+campana di vetro
+bell push
+Torre campanaria
+cintura
+fibbia della cintura
+cinghie
+panca
+panca
+berretto
+Berlino
+bermuda
+cuccetta
+scopa
+ingranaggio conico
+bavaglino
+bicicletta
+bicicletta costruita per-due
+catena della bicicletta
+pompa per bicicletta
+portabiciclette
+sede di bicicletta
+ruota di bicicletta
+bidè
+bara
+bikini
+pantaloni bikini
+pompa di sentina
+conto
+tabellone
+palla da biliardo
+sala biliardo
+bidone
+legante
+legante
+rilegatura
+chiesuola
+binocolo
+microscopio binoculare
+biplano
+corteccia di betulla canoe
+vaschetta per gli uccelli
+gabbia per uccelli
+mangiatoia per uccelli
+birdhouse
+po
+nero
+lavagna
+scatola nera
+cravatta nera
+blackwash
+lama
+lama
+coperta
+forno fusorio
+miscelatore
+dirigibile
+cieco
+benda
+bling
+lampeggiatore
+blister
+bloccare
+piano blocco
+pantaloncini sportivi
+camicetta
+ventilatore
+reattore
+Blucher
+blu
+vecchio fucile
+pensione
+sala riunioni
+barca
+paglietta
+mezzo marinaio
+casa-barca
+cantiere navale
+bobina
+Forcina
+bob
+bob
+bocce
+corpetto
+corpo
+giubbotti antiproiettile
+lozione per il corpo
+calzamaglia
+carrozzeria
+Bofors gun
+caldaia
+bolero
+bitta
+bolo cravatta
+bullone
+bullone
+tagliavite
+bombardiere
+bomber
+rifugio antiaereo
+tazza di osso-cenere
+bone china
+ossatura
+bongo
+cofano
+libro
+sacchetto di libro
+libreria
+fermalibri
+segnalibro
+bookmobile
+libreria
+libreria
+boom
+bumerang
+ripetitore
+ripetitore
+avvio
+avvio
+scarpetta
+cabina
+cabina
+Bootjack
+bootlace
+seno
+Boston rocker
+bottiglia
+bottiglia
+tappo di bottiglia
+apri bottiglia
+parte inferiore
+boucle
+mazzo
+boutique
+arco
+arco
+arco e freccia
+chino strumento a corde
+coltello Bowie
+ciotola
+ciotola
+bombetta
+bolina
+sala da bowling
+palla da bowling
+bowling
+shoe bowling
+bompresso
+cravatta a farfalla
+scatola
+box camera
+Boxcar
+attrezzature boxe
+guantoni da boxe
+botteghino
+molle
+chiave scatola
+bretelle
+bretelle
+bretelle
+braccialetto
+bracer
+freno
+freno
+disco freno
+freno a tamburo
+guarnizioni dei freni
+pastiglie freno
+ganascia
+Sistema di frenaggio
+ottone
+ottone
+ottone
+birreria
+reggiseno
+knucks ottone
+granaio
+pane-bin
+coltello per il pane
+zona colazione
+tavolo per la colazione
+frangiflutti
+corazza
+etilometro
+calzoni alla zuava
+Bren
+mattone
+cazzuola mattoni
+muratura
+abito da sposa
+ponte
+ponte
+briglia
+ventiquattrore
+slip
+brigantino
+brigantino
+brillantina
+tesa
+setole
+Broad Arrow
+brochette
+emittente
+tessuto in doppia altezza
+broadloom
+spadone
+broccato
+Brogan
+graticola
+arco rotto
+scopa
+manico di scopa
+Browning automatico
+mitragliatrice Browning
+arenaria
+spazzola
+tappeto di Bruxelles
+stampante a getto di bolla
+secchio
+sedile ribaltabile
+fibbia
+bugrane
+buckskins
+buffer
+buffet
+passeggino
+tromba
+costruzione
+complesso edilizio
+clip di bulldog
+bulldozer
+proiettile
+giubbotto antiproiettile
+treno ad alta velocità
+megafono
+lingotti
+toro
+bullpen
+arena
+murata
+paraurti
+paraurti
+autoscontro
+guardia paraurti
+impacchettare
+bungalow
+bungee
+cuccetta
+letto a castello
+bunker
+bunker
+becco Bunsen
+pavese
+allarme antifurto
+Camera mortuaria
+tumulo
+burqa
+tela ruvida
+pistola burp
+autobus
+moggio
+boccola
+completo
+stivaletto
+bustier
+trambusto
+macelleria
+Burriera
+valvola a farfalla
+coltello da burro
+cerniera di testa
+pulsante
+contrafforte
+saldatura di testa
+cicalino
+BVD
+mediante
+taxi
+taxi
+cabana
+cabaret
+caber
+cabina
+cabina
+auto cabina
+cabina di seconda classe
+cabinato
+Consiglio dei ministri
+Consiglio dei ministri
+Consiglio dei ministri
+cabinetwork
+cavo
+funivia
+nascondiglio
+barattolo
+bar
+caffetteria
+vassoio self-service
+caff
+caffetano
+caffetano
+gabbia
+calesse
+calcolatrice
+calderone
+calibro
+call center
+ID chiamante
+videocamera
+peli di cammello
+macchina fotografica
+obiettivo della fotocamera
+fotocamera treppiede
+camise
+camiciola
+camiciola
+camuffare
+camuffare
+campanile
+sedia da campo
+camper
+rimorchio camper
+albero a camme
+può
+barca sul canale
+candelabro
+candela
+candeliere
+canna
+scatola metallica
+cannone
+cannone
+cannone
+palla di cannone
+canoa
+apriscatole
+vaso canopo
+baldacchino
+baldacchino
+baldacchino
+mensa
+mensa
+mensa
+mensa
+ponte a sbalzo
+paletta
+tenda di tela
+berretto
+berretto
+berretto
+condensatore
+bardatura
+Campidoglio
+apertura del coperchio
+mantello
+mantello
+vite
+capsula
+auto
+auto
+auto
+moschettone
+caraffa
+caravanserraglio
+batteria dell'auto
+carabina
+autobomba
+damigiana
+carburatore
+cardcase
+cardigan
+schedario
+cardiografo
+microfono cardioide
+portiera dell'automobile
+sala da gioco
+contenitore di carico
+cargo
+nave da carico
+specchio auto
+giostra
+martello da falegname
+Kit del carpentiere
+borsa da viaggio
+pad tappeto
+battitappeto
+posto auto coperto
+Carrel
+trasporto
+trasporto
+carreggiata
+giardiniera
+culla portatile
+seggiolino auto
+carrello
+pneumatico
+scatola di cartone
+treno auto
+cartuccia
+cartucciera
+supporto della cartuccia
+ruota di carro
+forchettone
+trinciante
+auto ruota
+cariatide
+caso
+caso
+caso coltello
+caso coltello
+battente
+battente della finestra
+cassa
+bancomat
+cachemire
+registratore di cassa
+involucro
+casinò
+cofanetto
+telescopio Cassegrainian
+casseruola
+cassetta
+registratore a cassette
+lettore di cassette
+registratore a cassette
+musicassetta
+lanciare
+fonditore
+castello
+catacomba
+catalizzatore
+catamarano
+catapulta
+catapulta
+catboat
+cassetta del gatto
+Casco da ricevitore
+utenza
+Cattedrale
+Cattedrale
+catetere
+bottiglia di ketchup
+barriera per il bestiame
+cappello cavalier
+spada di cavalleria
+C-clamp
+unità CD
+riproduttore CD
+CD-R
+CD ROM
+Lettore CD-ROM
+cassa di cedro
+soffitto
+cellula
+cantina
+blocco di celle
+violoncello
+cellofan
+telefono cellulare
+nastro di cellulosa
+cenotafio
+incensiere
+punzone
+Unità centrale di elaborazione
+pompa centrifuga
+centrifuga
+ceramica
+ceramica
+ciotola di cereali
+scatola di cereali
+pozzo nero
+chador
+scaldavivande
+catena
+catena
+recinzione a rete
+cotta di maglia
+sega a catena
+catena di negozi
+sedia
+sedia
+seggiovia
+sedia a sdraio
+chalet
+calice
+gesso
+chamberpot
+coro
+cancelleria
+lampadario
+chanter
+cappella
+sala Capitolare
+stampante carattere
+salumi
+caricabatterie
+ossario
+telaio
+telaio
+pianeta
+chateau
+castellana
+checker
+check-out
+cheekpiece
+impianto chimico
+chemise
+chemise
+ciniglia
+pezzo degli scacchi
+il petto
+chesterfield
+cassettiera
+Pettorina
+vetro cheval
+pollaio
+filo di pollo
+pollaio
+chiffon
+chiffonier
+stanza del bambino
+carillon
+Cina
+armadio vetrina
+lanterna cinese
+chino
+mentoniera
+chintz
+patata fritta
+patata fritta
+scalpello
+clamide
+coro
+chopine
+calza di Natale
+cronografo
+cronoscopio
+mandrino
+chukka
+Chiesa
+campana della chiesa
+cappello della chiesa
+campanile della chiesa
+zangola
+banda di sigaro
+scatola di sigari
+taglia sigari
+mozzicone di sigaretta
+portasigarette
+bocchino
+accendino per sigari
+cinema
+cinquefoil
+cerchio
+circuito
+scheda di circuito
+interruttore
+circuiteria
+Sega circolare
+tendone da circo
+cittern
+Municipio
+ciak
+clarinetto
+fermaglio
+aula
+clavicordo
+Clavier
+al piattello
+claymore
+pulitori
+pulizia implementare
+Camera pulita
+galloccia
+tacchetti
+mannaia
+clerestory
+Cerniera
+Casa nella roccia
+struttura rampicante
+termometro clinico
+clinker
+clip
+clipper
+clipper
+mantello
+mantello
+campana di vetro
+campana di vetro
+orologio
+pendola
+radiosveglia
+Torre dell'orologio
+impedimento
+cloisonné
+chiostro
+circuito chiuso
+primo piano lente
+coppola
+spazzola per abiti
+armadio di vestiti
+asciugatrice
+cesto della biancheria sporca
+stendibiancheria
+molletta
+albero di vestiti
+capi di abbigliamento
+frizione
+Pochette
+casa allenatore
+cappotto
+pulsante cappotto
+cappotto armadio
+appendiabiti
+Rivestimento
+Rivestimento
+ragnatela
+cockhorse
+cockleshell
+cabina di pilotaggio
+cabina di pilotaggio
+abito da cocktail
+cocktail lounge
+cocktail shaker
+cocotte
+caffè può
+tazza di caffè
+caffè filtro
+macchina per il caffè
+macinacaffé
+tazza di caffè
+caffettiera
+tavolino da caffè
+caffè urna
+forziere
+bara
+ingranaggio
+cuffia
+bobina
+molla elicoidale
+colino
+catodo freddo
+scalpello freddo
+crema fredda
+specie di serra
+collare
+collare
+Università
+Collet
+Collider
+colonia
+colonnato
+televisione a colori
+tubo di colore
+Puledro
+colombario
+colombario
+colonna
+colonna
+pettine
+pettine
+Lucchetto a combinazione
+combinare
+consolatore
+modulo di comando
+sala comune
+comunicazioni via satellite
+pendolare
+compatto
+compatto
+compact disk
+bruciatore compact-disk
+bussola
+bussola
+microscopio composto
+bendaggio compressivo
+compressore
+computer
+circuito di computer
+scanner tomografia assiale computerizzata
+tastiera del computer
+schermo del computer
+schermo del computer
+sistema informatico
+Concert Grand
+sala concerti
+piccola fisarmonica
+piccola fisarmonica
+betoniera
+pompa condensato
+condensatore
+microfono a condensatore
+condominio
+condominio
+confetteria
+centro conferenze
+sala conferenze
+tavolo delle conferenze
+confessionale
+Biella
+connessione
+conservatorio
+conservatorio
+consolle
+consolle
+contatto
+contenitore
+nave cargo
+controllo
+centro di controllo
+circuito di controllo
+chiave di controllo
+pannello di controllo
+sala di controllo
+Torre di controllo
+termoconvettore
+minimarket
+convento
+convertitore
+convertibile
+convertibile
+trasporto
+nastro trasportatore
+fornello
+cookie cutter
+Barattolo di biscotti
+strato di biscotto
+utensile da cucina
+cookstove
+più fresco
+Torre di raffreddamento
+cap coonskin
+copyholder
+coracle
+mensola
+cordone
+cordame
+cavi
+corona
+sughero
+cavatappi
+mangiatoia
+angolo
+angolo
+cornetta
+cornice
+cornice
+cornice
+corselet
+corsetto
+cosmetico
+costume
+costume
+costume
+accogliente
+culla
+cotone
+flanella di cotone
+divano
+divano
+contatore
+contatore
+casa di campagna
+negozio di paese
+coupé
+accoppiamento
+Tribunale
+Tribunale
+palazzo di giustizia
+palazzo di giustizia
+tuta
+ponte coperto
+divano coperto
+carro coperto
+copriletto
+cowbarn
+campanaccio
+stivale da cowboy
+cappello da cowboy
+cappuccio
+penna mucca
+scheda CPU
+culla
+mestiere
+ramponi
+ramponi
+gru
+carter
+albero a gomiti
+casco protettivo
+gabbia
+cravatta
+pastello
+crazy quilt
+crema
+crema lanciatore
+nido
+credenza
+crepe de Chine
+culla
+culla
+palla da cricket
+Mazza da cricket
+apparecchiature di cricket
+crinolina
+crinolina
+uncinetto
+crock
+Crock Pot
+palla da croquet
+attrezzature da croquet
+Mazza da croquet
+attraversare
+balestra
+crossjack
+piede di porco
+corona
+gioielli della corona
+crogiuolo
+crocifisso
+ampolla
+regolazione automatica della velocità
+incrociatore
+nave da crociera
+crupper
+frantoio
+stampella
+cristallo
+orologio a cucù
+spunto
+pallino
+corazza
+Cullis
+Coltivatore
+canale sotterraneo
+tazza
+credenza
+cupola
+paracarro
+bigodino
+ferro arricciacapelli
+tenda
+Dogana
+fresa
+intaglio
+cilindro
+serratura a cilindro
+piatto
+dacia
+pugnale
+latteria
+predella
+diga
+damasco
+ammortizzatore
+cruscotto
+dashiki
+sistema di dati
+calatoia
+calatoia
+daybed
+asilo infantile
+giorno di scuola
+decanato
+ponte
+ponte
+sedia a sdraio
+scollatura
+congelatore
+sistema di difesa
+struttura difensiva
+defibrillatore
+deflettore
+maiolica di delft
+gastronomia
+camion delle consegne
+damigiana
+demitasse
+tana
+denim
+densitometro
+dentiera
+deodorante
+grande magazzino
+depilatorio
+cercatore di profondità
+falcone
+Derringer
+scrivania
+telefono fisso
+computer desktop
+cucchiaio da dessert
+distruttore
+casa indipendente
+rivelatore
+rivelatore
+dispositivo
+dhow
+comporre
+comporre
+la finestra di dialogo
+linea telefonica
+pannolino
+pannolino
+diaframma
+tazza di dadi
+Dittafono
+diesel
+locomotiva diesel-elettrica
+locomotiva diesel-idraulico
+locomotiva diesel
+digestivo
+audiotape digitale
+Camera digitale
+orologio digitale
+Display digitale
+linea di abbonamento digitale
+orologio digitale
+dildo
+commensale
+tinello
+dinghy
+sala da pranzo
+carrozza
+sala da cena
+sala da pranzo
+mobili della sala da pranzo
+tavolo della sala da pranzo
+tavolo da pranzo
+campana della cena
+vestito da pranzo
+smoking
+tavolo da pranzo
+diodo
+mestolo
+DIP switch
+pugnale
+dirndl
+dirndl
+discoteca
+travestimento
+piatto
+piatto
+colapiatti
+dishrag
+straccio per asciugare i piatti
+lavastoviglie
+disco
+freno a disco
+frizione a dischi
+dischetto
+erpice a dischi
+caso spedizione
+dispensario
+display
+vetrina
+disposizione
+distilleria
+protezione di distributore
+punto distributore
+fosso
+borsa canzoncina
+strada divisa
+muta
+tazza di Dixie
+bacino
+cane da slitta
+centrino
+Bambola
+casa delle bambole
+dolman
+dolmen
+cupola
+cupola
+domino
+dongle
+giacca asino
+porta
+porta
+porta
+campanello di casa
+serratura
+zerbino
+doorplate
+soglia della porta
+abbaino
+abbaino
+dormitorio
+stampante ad aghi
+letto matrimoniale
+bagnomaria
+giacca a doppio petto
+doppio petto
+doppia porta
+doppia maglia
+doppione
+doppio albero
+colombaia
+incastro
+caviglia
+tavolo da disegno
+Dragunov
+canale di scolo
+cestino di scarico
+drappeggio
+timone
+ponte levatoio
+cassetto
+cassetti
+disegno di gesso
+salotto
+salotto
+drawknife
+Borsa morbida
+dragare
+draga
+vestito
+credenza
+Cappellino da signora
+caso spogliatoio
+vestaglia
+Camerino
+spogliatoio sacco
+tovaglia
+abito da cerimonia
+uniforme
+trapano
+trapano elettrico
+piattaforma di perforazione
+trapano
+perforazione
+Fontanella
+nave potabile
+pentola a goccia
+guidare
+autista
+albero di trasmissione
+ferro di guida
+volante
+fuco
+fuco
+sipario
+tavolo pieghevole
+contagocce
+farmacia
+tamburo
+freno a tamburo
+drumhead
+stampante tamburo
+bacchetta del tamburo
+bacino di carenaggio
+asciugatrice
+mosca secca
+cartongesso
+duckpin
+Duffel
+borsone
+montgomery
+canoa
+piroga
+salterio
+manubrio
+dumpcart
+dumpster
+Camion della spazzatura
+dune buggy
+prigione
+casa su due piani
+duplicatore
+panno per la polvere
+parapolvere
+dustmop
+paletta
+forno olandese
+forno olandese
+dimora
+Eames
+earflap
+paraorecchie
+auricolare
+earplug
+earplug
+terracotta
+sterro
+cavalletto
+poltrona
+gronda
+sbattiuova
+piumino
+otto palla
+sedile catapultabile
+benda elastica
+Hansaplast
+gomito
+pad gomito
+elettrico
+cavo elettrico
+convertitore elettrico
+dispositivo elettrico
+sedia elettrica
+ventilatore elettrico
+chitarra elettrica
+martello elettrico
+Stufa elettrica
+lampada elettrica
+locomotiva elettrica
+contatore elettrico
+mixer elettrico
+motore elettrico
+organo elettrico
+gamma elettrica
+frigorifero elettrico
+spazzolino elettrico
+macchina da scrivere elettrica
+elettrolitico
+saldo elettronico
+dispositivo elettronico
+equipaggiamento elettronico
+monitor fetale elettronico
+microscopio elettronico
+ascensore
+condotto dell'ascensore
+ambasciata
+abbellimento
+pronto soccorso
+smalto
+smalto
+encausto
+energizzante
+motore
+ingegneria
+sella inglese
+ingranditore
+insieme
+alfiere
+trabeazione
+centro di intrattenimento
+piccone
+Busta
+Busta
+Busta
+spada
+centro da tavola
+equalizzatore
+equatoriale
+attrezzatura
+gomma per cancellare
+erigendo prisma
+beuta
+scappamento
+scarpata
+espadrille
+spalliera
+macchina per caffè espresso
+negozio di caffè espresso
+istituzione
+estaminet
+etagere
+Etamine
+ethernet
+cavo Ethernet
+euphonium
+raffreddatore evaporativo
+borsa da sera
+esercizio di bicicletta
+scarico
+Ventola di scarico
+sala espositiva
+esprimere
+prolunga
+unità esterna
+estrattore
+matita per gli occhi
+eyeliner
+accortosi
+oculare
+ombretto
+tessuto
+facciata
+guardia faccia
+frontalino
+cipria
+velo faccia
+di fronte
+facsimile
+fabbrica
+porcellana
+luce fata
+falchion
+fallboard
+falsa faccia
+stanza di famiglia
+fan
+cinghia del ventilatore
+pala del ventilatore
+costume
+lunetta
+fanjet
+Borsa a marsupio
+ventilatore volteggio
+fattoria
+mercato degli agricoltori
+agriturismo
+macchina agricola
+farmplace
+affatica
+rubinetto
+boa di piume
+fedora
+felloe
+provato
+pennarello
+feluca
+recinto
+maschera scherma
+scherma spada
+ruota panoramica
+ghiera
+traghetto
+fez
+cavo in fibra ottica
+fibroscopio
+archetto del violino
+campo di artiglieria
+Microscopio emissione di campo
+vetro campo
+campo di palla hockey
+House field
+lente di campo
+campo tenda
+lavoro sul campo
+quinta ruota
+combattente
+figure skate
+filamento
+file
+cartella di file
+film
+avanzamento della pellicola
+filtro
+mirino
+dito
+tastiera
+vernice dito
+finger-painting
+piastra dito
+flauto fipple
+fuoco
+allarme antincendio
+arma
+allarme antincendio
+fireboat
+firebrick
+autopompa
+estintore
+Iron fire
+camino
+parafuoco
+torre di fuoco
+camera di cottura
+kit di pronto soccorso
+prima base
+prima classe
+acquario
+richiamo del pescatore
+attrezzi da pesca
+canna da pesca
+a rete
+fissativo
+fissatore-superiore
+bandiera
+bottiglione
+pennone
+flangia
+flanella
+flanella di cotone
+falda
+veloce
+veloce
+flash della fotocamera
+torcia elettrica
+batteria per il flash
+memoria flash
+pallone
+flatbed
+stampa flatbed
+panca piana
+Flatlet
+monitor a schermo piatto
+appartamenti
+fleur-de-lis
+simulatore di volo
+a pietra focaia
+a pietra focaia
+ciabatte infradito
+galleggiante
+idrovolante
+alluvione
+pavimento
+pavimento
+copertura del fondo
+travetto piano
+lampada da pavimento
+fioraio
+Floss
+letto di fiori
+flicorno
+lampada a fluorescenza
+sciacquone
+flauto
+flauto
+volare
+idrovolante
+arco rampante
+volo verga
+volare tenda
+volano
+fob
+fendinebbia
+Foglio
+piega
+cartella
+sedia pieghevole
+sega pieghevole
+food court
+robot da cucina
+casco da football
+stadio di calcio
+pediluvio
+passerella
+sgabello
+calzature
+calzature
+cortile esterno
+prua
+albero prodiero
+trinchetto
+carrello elevatore a forca
+vestito formale
+fortificazione
+fortezza
+pendolo di Foucault
+foulard
+ingranaggio fallo-tempo
+fonderia
+Fontana
+penna stilografica
+quattro-in-mano
+baldacchino
+quattro ruote motrici
+quattro ruote motrici
+quattro ruote
+buca
+Fraise
+telaio
+telaio
+macchina affrancatrice
+casa gratis
+ruota libera
+carro merci
+fodera di trasporto merci
+treno merci
+porta-finestra
+Corno francese
+finestra francese
+lente di Fresnel
+greca
+frizione
+fregio
+fregata
+fronzolo
+Frisbee
+tonaca
+redingote
+portico
+proiettore frontale
+macchina di frutta
+padella
+indicatore livello carburante
+iniezione di carburante
+alta uniforme
+Onoranze funebri
+imbuto
+pelliccia
+pelliccia
+cappello di pelliccia
+arredamento
+arredamento
+mobilia
+solco
+fusibile
+unità fusee
+fusoliera
+futon
+gabardina
+timpano
+tetto a capanna
+gaff topsail
+bavaglio
+ghetta
+ghetta
+galleria
+gambrel
+carniere
+attrezzature gioco
+tavolo da gioco
+GAMP
+plancia
+passerella
+cavalletto
+box auto
+box auto
+Garand fucile
+spazzatura
+camion della spazzatura
+torello
+giardino
+giardino
+rastrello da giardino
+vanga da giardino
+strumento di giardino
+cazzuola giardino
+doccione
+spremiaglio
+indumento
+porta abiti
+protezione di guarnigione
+reggicalze
+punto legaccio
+beone di benzina
+bruciatore
+gun gas
+stufa a gas
+gassometro
+guarnizione
+lampada a gas
+maschera antigas
+contatore del gas
+motore a gasolio
+indicatore benzina
+forno a gas
+forno a gas
+stazione di servizio
+a gas
+fornello a gas
+serbatoio di gas
+gat
+cancello
+Gatehouse
+tavolo gateleg
+gatepost
+gonna arricciata
+Gatling gun
+valutare
+guanto di sfida
+garza
+garza
+martelletto
+gazebo
+Ingranaggio
+Ingranaggio
+ingranaggio
+gearset
+Leva del cambio
+Generatore
+Generatore
+Generatore
+cupola geodetica
+crespo
+gharry
+Ghat
+ghetto blaster
+negozio di regali
+incartamento di regalo
+calesse
+dorato
+percalle
+girandole
+trave
+cintura
+bicchiere
+bicchiere
+cassa di vetro
+casa glebe
+aliante
+Global Positioning System
+glockenspiel
+guanto
+vano portaoggetti
+gnomone
+obbiettivo
+goalmouth
+palo
+calice
+occhiali
+Go kart
+piatto d'oro
+sacca da golf
+pallina da golf
+Golf cart
+club di golf
+testa di golf-club
+attrezzature da golf
+guanto da golf
+bambolotto negro
+gondola
+gong
+gorgiera
+arco gotico
+sgorbia
+zucca
+toga
+toga
+toga
+grab bag
+Maniglione
+cilindro graduato
+graffito
+grammofono
+granaio
+l'orologio del nonno
+pianoforte a coda
+graniteware
+pergolato d'uva
+grappino
+grappino
+gonna di erba
+grattugiare
+grattugiare
+grattugia
+pietra sepolcrale
+salsiera
+grigio
+Grasso-gun
+cerone
+cucchiaio di grasso
+cappotto
+grande sala
+greengrocery
+serra
+bomba a mano
+piastra
+griglia
+macinino
+Mola
+mola
+Borsa della spesa
+negozio di alimentari
+grosgrain
+piano terra
+groundsheet
+G-string
+gueridon
+Guarneri
+stanza degli ospiti
+incrociatore missile guidato
+fregata missile guidato
+Guildhall
+ghigliottina
+chitarra
+plettro
+pistola
+affusto
+valigetta
+recinzione pistola
+Gunlock
+sacco di iuta
+pistola
+gherone
+attrezzi ginnici
+giroscopio
+seghetto a mano
+manico
+spazzola per capelli
+parrucchiere
+parrucchino
+forcina
+fermacapelli
+lacca per capelli
+la metà di rilegatura
+la metà pista
+sala
+sala
+sala
+casa dello studente
+capestro
+capestro
+martello
+amaca
+ostacolare
+mano
+palla a mano
+handbell
+soffiatore mano
+calcolatrice mano
+carretto
+crema per le mani
+ammanettare
+vetro mano
+vetro mano
+computer portatile
+fazzoletto
+manubrio
+handloom
+lozione per le mani
+bagaglio a mano
+mano-me-down
+Taglia erba
+pompa a mano
+Sega a mano
+portatile
+strumento mano
+asciugamano
+camion di mano
+appendiabiti
+deltaplano
+porto
+disco rigido
+elmetto
+armonica
+armonio
+imbracatura
+imbracatura
+arpa
+arpa
+clavicembalo
+erpice
+mietitore
+fermaglio
+cappello
+Cappelliera
+hatchback
+hatchback
+accetta
+spillo
+usbergo
+chitarra hawaiana
+gomena
+balla di fieno
+falciatore
+capo
+testata
+copricapo
+copricapo
+Guarnizione della testa
+faro
+copricapo
+quartier generale
+poggiatesta
+vela di prua
+foulard
+cuffia
+headstall
+paletta
+centro benessere
+apparecchio acustico
+apparecchio acustico
+carro funebre
+focolare
+hearthrug
+motore termico
+riscaldatore
+lampada di calore
+pompa di calore
+radiatore
+siepe
+tagliasiepi
+elicottero
+casco
+casco
+emostatico
+hemstitch
+pollaio
+a spina di pesce
+avvio dell'Assia
+ricevitore eterodina
+nascondiglio
+hi-fi
+altare maggiore
+tumbler
+cassettoncino con le gambe lunghe
+seggiolone
+evidenziatore
+evidenziatore
+grattacielo
+hijab
+cerniera
+avvio anca
+fiaschetta
+tasca posteriore
+ippodromo
+tetto a padiglione
+hockey pattinare
+Mazza da hockey
+Zappa
+montacarichi
+titolare
+cavo
+fondina
+fondina
+elettrodomestico
+computer di casa
+piatto di casa
+stanza a casa
+fatto in casa
+fattoria
+Home theater
+cote
+Favo
+cappuccio
+cappuccio
+gancio
+gancio
+gancio
+narghilè
+hoopskirt
+Hoover
+Hope chest
+barra orizzontale
+stabilizzatore orizzontale
+corno
+pulsante del clacson
+cavallo
+horsebox
+carrello del cavallo
+veicolo trainato da cavalli
+ferro di cavallo
+ferro di cavallo
+cavallo-trail
+tubo flessibile
+calzetteria
+ospedale
+letto d'ospedale
+stanza d'ospedale
+nave ospedale
+ostello
+ostello
+mongolfiera
+Hotel
+hotel-casinò
+Camera d'albergo
+linea calda
+hot pants
+piatto caldo
+hot rod
+vasca idromassaggio
+bottiglia di acqua calda
+controllo pied de poule
+clessidra
+lancetta delle ore
+casa
+casa
+casa galleggiante
+Castello di carte
+vernice casa
+housetop
+alloggiamento
+tugurio
+hovercraft
+coprimozzo
+hula-hoop
+scafo
+Humvee
+coltello da caccia
+ostacolo
+ponte uragano
+lampada uragano
+capanna
+gabbia
+pressa idraulica
+aliscafo
+aliscafo
+bomba all'idrogeno
+igrometro
+camera iperbarica
+ipermercato
+ago ipodermico
+siringa ipodermica
+piccozza
+cucchiaio freddo-tè
+hockey pattinaggio
+macchina del ghiaccio
+macchina del ghiaccio
+pista di pattinaggio
+pattinaggio sul ghiaccio
+molla per ghiaccio
+vassoio di ghiaccio
+puleggia
+iglù
+chiave d'accensione
+stampante ad impatto
+girante
+impronta
+in-basket
+inceneritore
+inclinometro
+incubatrice
+indicatore
+inalatore
+bottiglia d'inchiostro
+stampante a getto d'inchiostro
+Inkle
+calamaio
+collo del piede
+istituzione
+strumento
+circuito integrato
+intercettatore
+sistema di intercomunicazione
+missile balistico intercontinentale
+interfaccia
+porta interna
+unità interna
+citofono
+intersezione
+inverter
+iPod
+iPod video
+ferro
+ferro
+ferri da stiro
+ferriera
+polmone d'acciaio
+ferramenta
+roggia
+Jack
+Jack
+giacca
+giacca
+jack-in-the-box
+jack-o'-lantern
+aereo jack
+prigione
+persiana
+stipite
+Jampot
+vaso
+giavellotto
+Ganasce della vita
+jean
+camionetta
+giustacuore
+bottiglione
+maglia
+maglia
+Jet
+motore a reazione
+jet di linea
+arpa di ebreo
+fiocco
+Jibboom
+giga
+gioco di pazienza
+jinrikisha
+jodhpurs
+jodhpur
+falegnameria
+jointer
+travetto
+barca jolly
+joystick
+palestra giungla
+giunca
+brocca
+juke-box
+Jumbo jet
+saltatore
+cavo di accoppiamento
+tuta
+giunzione
+rigattiere
+kachina
+Kalashnikov
+kameez
+kayak
+kazoo
+Mantieni
+bariletto
+canile
+chepì
+ketch
+bollitore
+bollitore
+chiave
+chiave
+tastiera
+strumento a tastiera
+buco della serratura
+khadi
+cachi
+cachi
+khimar
+Khukuri
+cavalletto
+kick starter
+guanto bambino
+forno
+gonnellino
+chimono
+re
+chiesa
+kirtle
+kirtle
+kit
+kit
+Kitbag
+cucina
+elettrodomestico da cucina
+tavolo della cucina
+utensile da cucina
+utensili da cucina
+clacson
+ginocchiera
+gambaletto
+ginocchiera
+pezzo ginocchio
+coltello
+coltello
+Lama del coltello
+maglia
+macchina per maglieria
+ago da maglia
+maglieria
+pomello
+battente
+nodo
+koto
+Cremlino
+Kurdistan
+kurta
+kylix
+banco di laboratorio
+Camice da laboratorio
+pizzo
+lacquerware
+ladder-back
+ladder-back
+autoscale
+mestolo
+vite lag
+monastero tibetano
+lambrequin
+zoppo
+laminato
+lampada
+lampada
+lampione
+paralume
+monofora
+carrello di atterraggio
+guadino
+linea di terra
+lanolina
+lanterna
+cordoncino
+risvolto
+il computer portatile
+laringoscopio
+laser
+bomba a guida laser
+stampante laser
+laccio
+chiavistello
+chiavistello
+latina
+vernice di lattice
+assicella
+tornio
+reticolo
+launcher
+cart lavanderia
+lavaliere
+sedia da giardino
+mobili da giardino
+taglia erba
+corredino da neonato
+batteria al piombo
+leader sfogo
+matita
+lean-to
+guinzaglio
+finta pelle
+striscia di cuoio
+leggio
+sala lettura
+lederhosen
+gamba
+gambale
+usura del tempo libero
+lente
+lente
+coperchio per obiettivo
+calzamaglia
+tagliacarte
+livello
+leva
+leva
+leva
+blocco della leva
+Levi
+biblioteca
+biblioteca
+coperchio
+scialuppa di salvataggio
+salvagente
+giubbotto di salvataggio
+salvagente
+legamento
+leggero
+lampadina
+diodo ad emissione luminosa
+accendino
+più leggeri dell'aria mestiere
+mitragliatrice leggera
+esposimetro
+microscopio ottico
+parafulmine
+penna ottica
+nave-faro
+Lilo
+limitatore
+limousine
+acceleratore lineare
+line printer
+nave di linea
+biancheria intima
+collegamento
+allenatore link
+linotipo
+lucidalabbra
+rossetto
+vetro liquore
+schermo a cristalli liquidi
+reattore metallo liquido
+Cestino
+piccolo teatro
+abitazione
+soggiorno
+mocassino
+in prestito
+lobo
+nassa
+Locale
+serratura
+serratura
+serratura
+lockage
+armadietto
+spogliatoio
+medaglione
+lock-porta
+pinze di bloccaggio
+punto annodato
+locomotiva
+casa alloggio
+soffitta
+log cabin
+loggia
+Longbow
+mutandoni
+manica lunga
+pantaloni lunghi
+attenzione
+telaio
+camion
+lozione
+altoparlante
+sala
+loungewear
+lente di ingrandimento
+nodo d'amore
+amore seduta
+coppa dell'amicizia
+Lowboy
+LP
+Luger
+compartimento bagagli
+portabagagli
+lugsail
+segheria
+sala da pranzo
+liuto
+transatlantico di lusso
+liceo
+Lychgate
+macete
+macchina
+macchina
+mitragliatrice
+macramé
+Madras
+cintura di salvataggio
+portariviste
+bussola magnetica
+disco magnetico
+nastro magnetico
+magnetometro
+lente d'ingrandimento
+bottiglione
+mailbag
+cassetta postale
+maillot
+maillot
+treno postale
+albero maestro
+rotore principale
+randa
+maiolica
+trucco
+telescopio Maksutov
+maglio
+maglio
+maglio
+mandola
+mandolino
+mangiatoia
+mangano
+tombino
+tombino
+uomo di guerra
+manometro
+proprietà terriera
+Hall Manor
+mansarda
+casa parrocchiale
+dimora
+mensola del camino
+mantiglia
+carta geografica
+Maraca
+marmo
+ordine di marcia
+marimba
+marina
+marcatore
+mercato
+intarsio
+Martello tower
+mascara
+passaverdure
+mashie
+mashie Niblick
+Masjid
+maschera
+maschera
+barattolo
+opere murarie
+albero
+albero
+mastaba
+camera da letto matrimoniale
+capolavoro
+stuoia
+stuoia
+incontro
+scatola di fiammiferi
+fiammifero
+materiale
+Neonatologia
+reparto di maternità
+stuoia
+zappa
+coprimaterasso
+maglio
+Mauser
+mausoleo
+Maxi
+albero di maggio
+labirinto
+misurare
+misurino
+strumento di misura
+metro
+banco della carne
+tritacarne
+carne termometro
+dispositivo meccanico
+pianoforte meccanico
+meccanismo
+medico costruzione
+palla medica
+armadietto dei medicinali
+megalito
+megafono
+memoriale
+memoria
+dispositivo di memoria
+serraglio
+menhir
+menorah
+Menorah
+abbigliamento uomo
+stanza degli uomini
+stabilimento mercantile
+termometro a mercurio
+giacca pasticcio
+gavetta
+metal detector
+vite di metallo
+metro
+metronomo
+soppalco
+microfilm
+micrometro
+microfono
+microprocessore
+microscopio
+microtome
+microonde
+midiron
+mihrab
+mihrab
+uniforme militare
+veicolo militare
+il latte può
+galleggiante del latte
+mulino
+mugnaio
+modisteria
+modisteria
+macina
+macina
+millwheel
+ciclostile
+minareto
+tritacarne
+mineshaft
+minibar
+pulmino
+minicar
+ministero
+mini-gonna
+minivan
+visone
+cattedrale
+menta
+mano minuta
+specchio
+missile
+casella di mitra
+giunto obliquo
+muffola
+miscelatore
+miscelatore
+terrina
+rubinetto miscelatore
+mezzana
+albero di mezzana
+casa mobile
+Modello T
+modem
+modulo
+mohair
+monastero
+cintura portadenaro
+tenere sotto controllo
+tenere sotto controllo
+tenere sotto controllo
+scimmia-chiave
+monocolo
+ostensorio
+arco moresco
+ciclomotore
+moquette
+morion
+abito mattina
+sala mattina
+sedia Morris
+mortaio
+mortaio
+sparviere
+giunto da infilare
+mosaico
+moschea
+zanzariera
+motel
+stanza di motel
+Mother Hubbard
+telecamera motion-picture
+il motore
+motoscafo
+motociclo
+motor hotel
+sedia a rotelle motorizzata
+motorino
+veicolo a motore
+tumulo
+tumulo
+montare
+Mountain bike
+tenda montagna
+topo
+pulsante del mouse
+trappola per topi
+mousse
+boccaglio
+boccaglio
+boccaglio
+movimento
+proiettore cinematografico
+furgone in movimento
+mattoni di fango
+parafango
+silenziatore
+mufti
+boccale
+pacciame
+mulo
+registratore multicanale
+letto Murphy
+strumento musicale
+scatola musicale
+sala della Musica
+scuola di Musica
+Leggio
+sgabello musica
+moschetto
+mussola
+museruola
+chiodo
+spazzolino per le unghie
+nailfile
+smalto per unghie
+velivoli narrowbody
+wale stretto
+monumento nazionale
+nautilo
+sistema di navigazione
+attrezzature navali
+cannone navale
+armamento navale
+navata
+neck brace
+fazzoletto da collo
+collana
+collana
+neckpiece
+cravatta
+cravatte
+ago
+pinze ago
+cucito
+negativo
+negligé
+lampada al neon
+nido
+nidiandolo
+netto
+netto
+netto
+Rete
+newel posta
+giornale
+redazione
+edicola
+telescopio newtoniano
+pennino
+Niblick
+nicad
+camicia da notte
+luce notturna
+indumenti da notte
+capezzolo
+niqab
+Nissen hut
+Rumoroso
+non fumatore
+noria
+noseband
+ruotino anteriore
+taccuino
+reattore nucleare
+nudo
+asilo nido
+dado e bullone
+nylon
+calze di nylon
+remo
+oast
+oast house
+obelisco
+obbiettivo
+oboe
+cupola di osservazione
+osservatorio
+ocarina
+ottante
+odometro
+ufficio
+edificio per uffici
+mobili per ufficio
+off-line attrezzature
+ohmmetro
+tela cerata
+filtro dell'olio
+lucerna
+pittura a olio
+raffineria d'olio
+tela cerata
+petroliera
+verde oliva
+verde oliva
+Zeus Olimpio
+pan frittata
+cupola a cipolla
+mercato all'aperto
+chiave aperta
+opener
+openwork
+musica lirica
+microscopio operatorio
+sala operatoria
+tavolo operatorio
+disco ottico
+strumento ottico
+telescopio ottico
+ordinario
+organo
+organza
+diodi emettitori di luce organici
+cantoria
+organo a canne
+organza
+finestra sporgente
+O-ring
+Orlon
+orfanotrofio
+planetario
+oscillografo
+oscilloscopio
+ossario
+otoscopio
+ottomano
+motore fuoribordo
+motoscafo fuoribordo
+dipendenza
+capispalla
+foce
+attrezzatura
+dipendenza
+bilanciere
+canoa outrigger
+specchio esterno
+forno
+termometro da forno
+complessivamente
+complessivamente
+overgarment
+sporgenza
+lavagna luminosa
+pernottamento
+cavalcavia
+soprascarpa
+overskirt
+oxcart
+Oxford
+ossimetro
+maschera d'ossigeno
+macchina di ritmo
+pacchetto
+pacchetto
+pacchetto
+archivio pacchetti
+imballaggio
+pacchetto
+confezione
+pagaia
+pagaia
+battello a vapore
+ruota a pale
+paddock
+lucchetto
+dipingere
+paintball
+pistola paintball
+pennello
+paisley
+pigiama
+pigiama
+palazzo
+palazzo
+palazzo
+palizzata
+pallette
+Pan
+Pan
+pannellatura
+manico di padella
+pulsante di panico
+borsa
+borsa
+siringa
+pantheon
+pantheon
+mutandine
+ansimante
+gamba dei pantaloni
+dispensa
+tuta pantaloni
+cintura di Panty
+collant
+panzer
+catena di carta
+graffetta per fogli
+chiusura di carta
+di alimentazione della carta
+tovagliolo di carta
+paracadute
+barre parallele
+parapetto
+andare sul paracadute
+parasole
+parer
+vetro parfait
+pari-mutuel machine
+eskimo
+panchina del parco
+parchimetro
+salotto
+parquet
+parquet
+canonica
+rivelatore di particelle
+partizione
+bidone di parti
+autovettura
+nave passeggeri
+treno passeggeri
+van passeggeri
+sopraaffondo
+toppa
+patchcord
+patchouli
+tasca
+patchwork
+terrazza
+pasticceria
+pavimentare
+padiglione
+selciatore
+pegno
+pay-phone
+pescheto
+giacca pisello
+pedale
+pedal pusher
+piedistallo
+tavolino
+attraversamento pedonale
+pedicab
+frontone
+pedometro
+pelapatate
+piolo
+pegboard
+Pelham
+penna
+matita
+astuccio
+temperamatita
+orecchino pendente
+pendolo
+pendola
+penitenziario
+temperino
+penlight
+bandierina
+Pennywhistle
+pentode
+peplo
+macinapepe
+Saliera del pepe
+spray al peperoncino
+percalle
+caffettiera a filtro
+strumento a percussione
+perforazione
+profumo
+profumeria
+periferica
+peristasi
+stampa permanente
+personal computer
+assistente digitale personale
+vettore personale
+pestello
+pestello
+piastra di Petri
+negozio di animali
+sottoveste
+banco
+fiala
+ago fonografo
+disco fonografico
+fotocopiatrice
+attrezzature fotografiche
+microfotografia
+copia fotostatica
+copia fotostatica
+pianoforte
+tastiera del pianoforte
+scegliere
+Pickelhaube
+staccionata
+Raccogliere
+cornice
+cappello foto
+molo
+molo
+arco molo
+specchiera
+tavolo molo
+pieta
+letto maiale
+allevamento di maiali
+salvadanaio
+battipalo
+bottiglia di pillola
+casamatta
+sellino posteriore
+berlina
+cuscino
+pillow block
+tombolo
+cuscino sham
+pilotina
+pilothouse
+luce pilota
+perno
+perno
+Pinata
+flipper
+tenaglia
+ping-pong palla
+capocchia di spillo
+pignone
+pinnacolo
+gessato
+pintle
+girandola
+girandola
+tagliatubi
+raccordo
+chiave giratubi
+puntiglio
+pirata
+pista
+pistola
+impugnatura a pistola
+pistone
+fascia elastica
+biella
+brocca
+pitching wedge
+cappello midollo
+pizzeria
+abbottonatura
+planchet
+aereo
+aereo
+sedile aereo
+planetario
+tavolato
+progettista
+pianta
+piantatore
+gesso
+cartongesso
+frattazzo
+sacchetto di plastica
+involucro di plastica
+plastron
+piatto
+piatto
+piatto
+scolapiatti
+piattaforma
+piattaforma letto
+piatto
+la riproduzione
+terreno di gioco
+box per bambini
+plaza
+piega
+plenum
+pinze
+plimsoll
+plotter
+aratro
+spina
+spina
+scarico
+Piombino
+pistone
+felpa
+compensato
+pocketcomb
+lembo tasca
+coltello tascabile
+orologio da tasca
+baccello
+pogo stick
+fotocamera compatta
+arco a sesto acuto
+cazzuola di puntamento
+pizzo punto
+Polaroid
+polo
+barca della polizia
+furgone della polizia
+cabina elettorale
+Bastone da polo
+Polo
+pomata
+cavallo con maniglie
+poncho
+pontificio
+pontone
+ponte di barche
+pony carrello
+palla da biliardo
+sala da biliardo
+tavolo da biliardo
+ponte di poppa
+bottiglia pop
+popeline
+porcellana
+veranda
+porkpie
+scodella
+portatile
+computer portatile
+sega circolare portatile
+saracinesca
+Portico
+portafoglio
+oblò
+portico
+valigia
+fotocamera ritratto
+obiettivo da ritratto
+positroni scanner tomografia ad emissione
+inviare
+scavatrice posthole
+pentola
+pentola
+potenziometro
+potenziometro
+pot-pourri
+frammento di vaso
+tornio da vasaio
+ceramica
+sede banale
+marsupio
+impiastro
+libbra
+polvere
+polvere di corno
+cavo di alimentazione
+trapano elettrico
+linea elettrica
+motofalciatrice
+sega elettrica
+scavatrice
+servosterzo
+tappeto da preghiera
+scialle di preghiera
+presbiterio
+stampa
+stampa
+tribuna stampa
+pentola a pressione
+manometro
+tuta pressurizzata
+stufa Primus
+stampare
+circuito stampato
+stampante
+stampante
+cavo della stampante
+prioria
+prigione
+linea di produzione
+proiettile
+proiettore
+proiettore
+elica
+aereo a elica
+propjet
+protesi
+goniometro
+potatore
+potatura sega
+cesoie
+salterio
+sistema di diffusione sonora
+Bagno pubblico
+trasporto pubblico
+disco
+Tirare
+puleggia
+pullman
+accostare
+pompa
+pompa
+punch bowl
+sacco
+punzonatrice
+cestino
+barchino
+pup tent
+depuratore
+punto a rovescio
+borsa
+Push-bike
+premi il bottone
+pusher
+putter
+Spatola
+puzzle
+pilone
+pilone
+pirometro
+pisside
+quadrilatero
+batteria al quarzo
+Regina
+penna
+trapunta
+copriletto trapuntato
+faretra
+concio d'angolo
+Tastiera QWERTY
+conigliera
+corridore
+canottaggio
+corsa concerto
+corsa skiff
+cremagliera
+cremagliera
+racchetta
+Racquetball
+radar
+radiale
+motore radiale
+termosifone
+termosifone
+tappo del radiatore
+tubo del radiatore
+Radio
+antenna radio
+radiogramma
+radio-fonografo
+ricevitore radio
+radiotelegrafico
+radiotelefono
+radiotelescopio
+radome
+zattera
+trave
+ragbag
+raglan
+manica raglan
+rotaia
+recinto ferroviario
+ringhiera
+tunnel ferroviario
+barile di pioggia
+impermeabile
+pluviometro
+bastone della pioggia
+rastrello
+manico rastrello
+ramekin
+rampa
+bastione
+ranch
+ranch
+memoria ad accesso casuale
+telemetro
+cappa
+stocco
+raspa
+malacca
+trappola per topi
+raion
+rasoio
+lampada da scrivania
+sala lettura
+memoria di sola lettura
+leggere ad alta voce
+pronto da indossare
+alesatore
+specchietto retrovisore
+ricevitore
+banco accettazione
+reception
+recesso
+poltrona
+record di cambio
+registratore
+registrazione
+giradischi
+copertina del disco
+sala di risveglio
+camper
+sala ricreativa
+cestino per raccolta differenziata
+tappeto rosso
+bobina
+bobina
+refettorio
+tavolo fratino
+raffineria
+telescopio riflettore
+riflettore
+reflex
+riformatore
+telescopio rifrattore
+rifrattometro
+frigorifero
+insegne reali
+regolatore
+briglia
+staffetta
+reliquiario
+telecomando
+terminale remoto
+interpretazione
+negozio di riparazioni
+arma da fuoco a ripetizione
+deposito
+serbatoio
+residenza
+resistore
+risonatore
+risonatore
+Hotel Resort
+respiratore
+ristorante
+casa di riposo
+servitore
+muro di contenimento
+reticolo
+reticolo
+divaricatore
+revers
+rivoltella
+porta girevole
+riband
+volta a vela
+costolatura
+corda cresta
+stivale equitazione
+frustino
+equitazione rasaerba
+fucile
+impianto
+sartiame
+pista di pattinaggio
+pistola rivolta
+alzata
+Ritz
+battello fluviale
+rivetto
+rivettatrice
+strada
+roadster
+torrefattore
+accappatoio
+sedia a dondolo
+bilanciere
+razzo
+razzo
+sedia a dondolo
+rodeo
+rullo
+pattini in linea
+Rollerblade
+avvolgibile
+montagne russe
+pattino a rotelle
+Molino a cilindri
+matterello
+materiale rotabile
+panciera
+panciera
+roll-on roll-off
+Rolodex
+arco romano
+edificio romano
+pagliaccetto
+tetto
+coperture
+camera
+la luce della stanza
+corda
+ponte di corda
+rosone
+meccanismo di rotazione
+albero rotante
+rosticceria
+rosticceria
+rotore
+rotore
+pala del rotore
+testa del rotore
+rotonda
+rotonda
+rossetto
+roulette
+pallina della roulette
+ruota della roulette
+il giro
+arco a tutto sesto
+router
+rotella
+casa a schiera
+barca a remi
+reale
+albero reale
+elastico
+stivali di gomma
+gomma da cancellare
+timone
+tappeto
+palla da rugby
+rovinare
+regola
+rombo
+posto della suocera
+rummer
+tavernetta
+Rundle
+scarpe da corsa
+pista di decollo
+RYA
+sciabola
+sega
+zibellino
+pelliccia di zibellino
+zoccolo
+bustina
+sacco
+sacco
+cappotto sacco
+licenziamento
+sella
+bisaccia
+coperta da sella
+sella oxford
+selleria
+sicuro
+deposito sicuro
+cintura di sicurezza
+bicicletta sicurezza
+PIN di sicurezza
+guida di sicurezza
+rasoio di sicurezza
+valvola di sicurezza
+vela
+vela
+barca a vela
+tela da vela
+barca a vela
+buffet di insalate
+insalatiera
+sallet
+salone
+saltbox
+saltshaker
+vassoio di metallo
+salwar
+Samisen
+samovar
+sandalo
+sacchetto di sabbia
+sandbox
+clessidra
+sand wedge
+cartello pubblicitario
+assorbente
+pellicola trasparente
+sarcofago
+sari
+sarong
+fusciacca
+chiusura a ghigliottina
+finestra a ghigliottina
+cartella
+rasatello
+satellitare
+ricevitore satellitare
+televisione satellitare
+raso
+casseruola
+saucepot
+sauna
+cassa di risparmio
+sega
+cavalletto
+sassofono
+saxhorn
+fodero
+impalcatura
+scala
+scala
+bisturi
+scanner
+scanner
+scanner
+sciarpa
+giunto sciarpa
+rug scatter
+telescopio Schmidt da
+scuola
+cartella
+scuola campana
+scuolabus
+nave scuola
+goletta
+scimitarra
+forbici
+candeliere
+candeliere
+notizia in anticipo
+tabellone segnapunti
+pagliette
+raschietto
+schermo
+porta sullo schermo
+vite
+vite
+vite
+Cacciavite
+filettatura
+screwtop
+spazzola
+palella
+scultura
+barca mare
+petto mare
+cucitura
+idrovolante
+faro
+sede
+sede
+sede
+cintura di sicurezza
+cesoie
+seconda base
+Seconda mano
+segretario
+sezionale
+berlina
+seminatrice
+Segway
+selettore
+veicolo semovente
+cimosa
+semaforo
+arma da fuoco semiautomatica
+pistola semiautomatica
+dispositivo a semiconduttore
+Porzione di casa
+semirimorchio
+garitta
+separato
+fossa settica
+sequencer
+poncho
+serger
+server
+server
+carrello di servizio
+piatto da portata
+servo
+set pistola
+divano
+risolvere
+casa insediamento
+settantotto
+Sette Meraviglie del mondo antico
+cestino del cucito
+kit da cucito
+macchina da cucire
+ago da cucire
+stanza del cucito
+sestante
+grillo
+grillo
+scatola di ombra
+albero
+tappeto shag
+shaker
+sciantung
+shaper
+pelle di squalo
+temperamatite
+Sharpie
+rasoio
+pennello da barba
+schiuma da barba
+schiuma da barba
+scialle
+cesoie
+guaina
+guaina
+capannone
+cappotto di montone
+foglio
+lenzuola
+palancole
+cartongesso
+mensola
+staffa di mensola
+conchiglia
+riparo
+riparo
+riparo
+scudo
+scudo
+tasto delle maiuscole
+parastinco
+nave
+spedizione
+naufragio
+camicia
+bottone della camicia
+manica della camicia
+lembo della camicia
+shirtwaist
+shiv
+ammortizzatore
+scarpa
+scarpa
+scatola da scarpe
+calzascarpe
+negozio di scarpe
+shofar
+Shoji
+shooting brake
+negozio
+sacchetto
+carrello
+carrello della spesa
+pantaloni corti
+manica corta
+bicchiere
+fucile da caccia
+shell fucile da caccia
+Shot tower
+spalla
+Borsa a tracolla
+arco spalle
+fondina ascellare
+protezione per spalle
+cerotto spalla
+pala
+pala
+showboat
+doccia
+cuffia da doccia
+tenda per doccia
+cabina doccia
+box doccia
+distruttore di documenti
+santuario
+locomotiva da manovra
+otturatore
+otturatore
+navetta
+navetta
+bus navetta
+volano
+elicottero navetta
+falce
+credenza
+sidecar
+sella da donna
+marciapiede
+setaccio
+setacciatore
+attrazioni
+cabina di manovra
+cartello
+silenziatore
+Silex
+seta
+silo
+simulatore
+letto singolo
+giacca monopetto
+abito monopetto
+singolo prop
+canottiera
+nave gemella
+sitar
+sede bagno
+pattinare
+skateboard
+matassa
+passe-partout
+schizzo
+spiedo
+sciare
+attacco degli sci
+scarpone da sci
+cappello da sci
+coperchio skid
+skiff
+baita
+maschera da sci
+palo da sci
+gonna
+gonna
+sciovia
+skivvies
+zucchetto
+lucernario
+grattacielo
+pantaloni
+stecca
+tetto in ardesia
+slitta
+sacco a pelo
+manica
+letto slitta
+slitta campana
+affettatrice
+diapositiva
+cerniera lampo
+proiettore per diapositive
+Regolo calcolatore
+porta scorrevole
+fionda
+sandalo
+fodera
+scivolare su
+slip ring
+sloop
+fessura
+slot-machine
+chiusa
+piccola barca
+piccoli negozi
+bottiglia odore
+smocking
+affumicatoio
+fumatore
+cortina fumogena
+piano liscio
+snack bar
+morso snodato
+tesa a scatto
+cappello a scatto all'orlo
+laccio
+tamburo rullante
+strappare blocco
+cicchetto
+fucile di precisione
+tagli
+snood
+boccaglio
+boccaglio
+cumulo di neve
+Snowboard
+gatto delle nevi
+spazzaneve
+racchetta da neve
+snowsuit
+spazzaneve
+Tabacchiera
+snuffer
+palco improvvisato
+detersivo per i piatti
+erogatore di sapone
+palla da calcio
+calzino
+presa di corrente
+lattina di soda
+casa SOD
+divano
+softball
+sordina
+tubo di terreno
+pannello solare
+celle a energia solare
+piatto solare
+riscaldamento solare
+casa solare
+telescopio solare
+impianto solare termico
+saldatore
+sombrero
+ecografia
+Souk
+fotocamera suono
+tavola armonica
+zuppiera
+mestolo
+Cucchiaio da zuppa
+barra spaziatrice
+capsula spaziale
+navicella spaziale
+stufetta
+razzo spaziale
+Space Shuttle
+stazione Spaziale
+tuta spaziale
+vanga
+giunzione degli spaghetti
+spanker
+candela
+battibecco
+spatola
+spatola
+vivavoce
+lancia
+negozio di specialità
+occhiali
+pompa spettatore
+spettrofotometro
+specchio
+motoscafo
+urto di velocità
+tachimetro
+Skate velocità
+sfigmomanometro
+portaspezie
+ragnatela
+spuntone
+mandrino
+mandrino
+centrifuga
+spinetta
+spinetta
+spinnaker
+filatoio
+spinning
+ruota girevole
+sputacchiera
+parafango
+stecca
+di guida spaccata
+Spode
+spoiler
+spoiler
+ha parlato
+spokeshave
+mop spugna
+cucchiaio
+cucchiaio
+Spork
+sporran
+Sport aquilone
+auto sportiva
+attrezzatura sportiva
+abbigliamento sportivo
+sport utility
+riflettore
+pistola a spruzzo
+vernice spray
+bilancio primaverile
+spruzzatore
+impianto antincendio
+spritsail
+rocchetto
+rocchetto
+filati
+sperone
+ingranaggio cilindrico
+sputnik
+racchetta da squash
+scatola squawk
+seccatoio
+spremiagrumi
+stabilizzatore
+barra stabilizzatrice
+stabile
+marcia stabile
+pile
+stadio
+palcoscenico
+diligenza
+finestra con vetro temperato
+scala-tappeto
+tromba delle scale
+stalla
+stalla
+francobollo
+puntello
+stare in piedi
+trasmissione standard
+pistola sparachiodi
+cucitrice
+antipasto
+cancelletto di partenza
+Statehouse
+una casa maestosa
+cabina
+stazione
+statore
+statua
+staysail
+coltello da bistecca
+aerei stealth
+stealth bomber
+caccia stealth
+motore a vapore
+piroscafo
+piroscafo
+ferro a vapore
+locomotiva a vapore
+travolgere
+acciaio
+ponte ad arco in acciaio
+tamburo d'acciaio
+acciaieria
+stadera
+campanile
+volante
+stele
+passo
+step-down trasformatore
+stereo
+stereoscopio
+sternwheeler
+stetoscopio
+pan stufatura
+bastone
+bastone
+bastone
+scaletta
+stiletto
+trampolo
+staffa
+stob
+azione
+macchina di serie
+calza
+stockpot
+magazzino
+la sella
+ha rubato
+muro di pietra
+gres
+pietra
+sgabello
+chinarsi
+rubinetto di arresto
+cronometro
+accumulatore
+spazio di archiviazione
+controporta
+controfinestra
+stufa
+stufa
+tubo da stufa
+Stradavarius
+sedia dritto
+raddrizzatore
+rasoio
+filtro
+camicia di forza
+cinghia
+cerniera cinturino
+senza spalline
+mosca streamer
+strada
+strada
+tram
+abiti civili
+lampione
+barella
+pantaloni stretch
+strumento a corda
+stringer
+illuminazione di striscia
+stroboscopio
+cassaforte
+roccaforte
+struttura
+cercatore perno
+monolocale
+divano letto
+studia
+sala studio
+stun gun
+stupa
+porcile
+utilitaria
+fucile mitragliatore
+sottomarino
+sommergibile
+metropolitana
+subwoofer
+panno in pelle scamosciata
+zuccheriera
+cucchiaio di zucchero
+completo da uomo
+adattandosi
+imbronciato
+casa estiva
+anello di sumo
+pompa di pozzetto
+sunbonnet
+sun deck
+meridiana
+prendisole
+occhiali da sole
+occhiali da sole
+cappello da sole
+salone di sole
+tetto apribile
+protezione solare
+prendisole
+supercomputer
+superstrada
+supermercato
+sovrastruttura
+armadio fornitura
+colonna di sostegno
+calze elastiche
+struttura di supporto
+torre di supporto
+sopravveste
+chirurgia
+soppressione
+strumento chirurgico
+sistema di sorveglianza
+sushi bar
+sospensione
+ponte sospeso
+pedale di risonanza
+suturare
+tampone
+tampone
+fasce
+cappotto a coda di rondine
+fascia
+swatter
+maglione
+pantaloni della tuta
+felpa
+tuta da ginnastica
+spazzata mano
+costume da bagno
+costume da bagno
+swing
+interruttore
+coltello a scarto
+motore interruttore
+sedia girevole
+bastone swizzle
+spada
+canna di spada
+sinagoga
+sincronizzato
+convertitore sincrono
+motore sincrono
+sintetizzatore
+siringa
+sistema
+tabi
+tavolo
+tavolo
+tablefork
+coltello da tavola
+lampada da tavolo
+sega
+cucchiaio
+tavolo da ping pong
+ping-pong racchetta
+tavolo
+vasellame
+taboret
+tachigrafo
+tachimetro
+tachimetro
+bordeggiare
+taffettà
+portellone
+fanale posteriore
+tubo di scappamento
+rotore di coda
+contropunta
+talaria
+talco
+tam
+tamburo
+tamburo
+tamburello
+pigiare
+Tampax
+carro armato
+carro armato
+boccale
+serbatoio auto
+cacciacarri
+tank Engine
+canotta
+tannoy
+rubinetto
+tapa
+nastro
+nastro
+piastra di registrazione
+unità a nastro
+lettore di cassette
+registratore
+arazzo
+punterie
+tarmacadam
+telone
+tartan
+tatuaggio
+bustina di the
+sfera di tè
+tè carrello
+tazza di tè
+abito tè
+bollitore
+teiera
+negozio di te
+cucchiaino
+tea-colino
+tavolo da tè
+tea urn
+tee
+cerniera tee
+sistema di telecomunicazione
+tasto telegrafico
+telefono
+bell Telephone
+cabina telefonica
+cavo telefonico
+presa telefonica
+linea telefonica
+palo del telefono
+ricevitore del telefono
+sistema telefonico
+filo del telefono
+teleobiettivo
+teleprompter
+telescopio
+mirino telescopico
+televisione
+antenna televisiva
+telecamera
+apparecchiature di televisione
+monitor televisivo
+ricevitore televisivo
+sala televisione
+telpherage
+tempio
+tempio
+collegamento temporaneo
+tenero
+tenero
+caseggiato
+palla da tennis
+campo da tennis
+racchetta da tennis
+tamburo tenore
+tenda
+tenda-fly
+tepee
+casa a schiera
+terrario
+terra sigillata
+terry
+bobina di Tesla
+Tessera
+Test razzo
+testudo
+tetrodo
+macchine tessili
+paglia
+Teatro
+teatro tenda
+teodolite
+theremin
+stampante termica
+termometro
+reattore termonucleare
+termos
+termostato
+ditale
+assottigliamento cesoie
+terza base
+laccio
+laccio
+abito in tre pezzi
+trebbiatrice
+negozio dell'usato
+trono
+cuscinetto assiale
+pollice
+foro del pollice
+puntina
+tiara
+ticchettio
+cravatta
+portacravatte
+tirante
+collant
+piastrella
+tetto di tegole
+tavolo tilt-top
+legname
+legname
+orologio
+Timer
+Timer
+lattina
+rebbio
+carta stagnola
+catena di pneumatici
+decima fienile
+titolatore
+tostapane
+tostapane
+toastrack
+borsa del tabacco
+tabaccheria
+Toby
+puntale
+toga
+virilis toga
+Toggle
+interruttore a levetta
+gabinetto
+borsa toilette
+Water
+polvere toilette
+toilette
+sedile del water
+l'acqua di gabinetto
+gettone
+casello
+tomahawk
+Tommy gun
+tomografo
+tonico
+tenaglie
+lingua
+abbassalingua
+strumento
+Borsa degli attrezzi
+cassetta degli attrezzi
+capanno degli attrezzi
+dente
+spazzolino da denti
+stuzzicadenti
+superiore
+arte topiaria
+topmast
+vela di gabbia
+torcia
+cacciatorpediniere
+convertitore di coppia
+chiavi dinamometriche
+totem
+touch screen
+toupet
+asciugamano
+spugna
+portasciugamano
+portasciugamani
+Torre
+Municipio
+alzaia
+carro attrezzi
+giocattolo
+scatola dei giocattoli
+negozio di giocattoli
+traccia
+trackball
+veicolo cingolato
+casa del tratto
+motore di trazione
+trattore
+trattore
+pista ciclabile
+trailer
+trailer
+autotreno
+treno
+linea tranviaria
+trampolino
+tranvia
+transetto
+transistor
+albero di trasmissione
+specchio di poppa
+trasportatore
+nave da trasporto
+trappola
+trapezio
+ferro viaggio
+trawler
+vassoio
+Filo
+Filo
+routine
+routine
+baule del tesoro
+traliccio
+impermeabile
+cavalletto
+ponte cavalletto
+tavolo da disegno
+triangolo
+tricorno
+tricot
+triciclo
+grilletto
+trimarano
+trimmer
+triodo
+treppiedi
+trittico
+triskelion
+arco di Trionfo
+treppiede
+troll
+filobus
+trombone
+trasporto truppe
+caso trofeo
+depressione
+pantaloni
+polsino pantaloni
+Stirapantaloni
+pantaloni
+corredo da sposa
+cazzuola
+camion
+sfollagente
+letto a rotelle
+tronco
+cofano del bagagliaio
+travatura
+ponte di travatura reticolare
+vasca
+tubo
+tudung
+rimorchiatore
+tulle
+asciugatrice
+acrobata
+botte
+tunica
+Diapason
+turbante
+zuppiera
+asciugamano turco
+tornitore
+tornello
+piatto
+torretta
+orologio della torretta
+dolcevita
+tweed
+tweeter
+ventidue
+letti gemelli
+po torsione
+due pezzi
+macchina da scrivere
+tastiera della macchina da scrivere
+uke
+ultracentrifuge
+ultramicroscope
+ombrello
+indumento intimo
+mutande
+biancheria intima
+biancheria intima
+parallele irregolari
+monociclo
+giunto cardanico
+Università
+tappezzeria
+materiale tappezzeria
+sollevamento
+montante
+urna
+urna
+auto usata
+utensile
+Uzi
+casa di vacanze
+vuoto
+boccetta di vuoto
+vacuometro
+Valenciennes
+valigetta
+valvola
+furgone
+furgone
+paletta
+variometro
+vaso
+volta
+volta
+cavallo volteggio
+veicolo
+velour
+velluto
+vellutino
+distributore automatico
+impiallacciatura
+veneziana
+diagramma di Venn
+ventilatore
+veranda
+verderame
+nonio
+nonio
+Vertical File
+stabilizzatore verticale
+coda verticale
+nave
+nave
+veste
+paramento
+giubbotto tasca
+viadotto
+vibrafono
+vibratore
+Victrola
+vigogna
+video cassette
+video registratore
+videodisk
+registrazione video
+videocassetta
+videocassetta
+luce veglia
+villa
+villa
+viol
+viola
+viola da gamba
+violino
+morsa
+vivaio
+voile
+pallavolo
+rete da pallavolo
+voltometro
+cabina elettorale
+trampolieri
+piscina per bambini
+cialde
+carro
+pneumatici wagon
+ruota del carro
+rivestimento di legno
+boiserie
+marsupio
+camminatore
+camminatore
+Ricetrasmittente
+bastone da passeggio
+Walkman
+parete
+orologio da parete
+portafoglio
+tenda muro
+pensile
+bacchetta magica
+reparto
+armadio
+magazzino
+aereo da guerra
+nave da guerra
+lava e indossa
+lavabo
+washboard
+washboard
+rondella
+rondella
+bagno
+lavabo
+mastello
+cestino della carta
+orologio
+berretto
+guarda caso
+torre di osservazione
+bottiglia d'acqua
+mozzicone di acqua
+water closet
+radiatore acqua
+rubinetto dell'acqua
+colonna d'acqua
+bicchiere d'acqua
+scaldabagno
+annaffiatoio
+brocca d'acqua
+salto d'acqua
+contatore dell'acqua
+Mulino ad acqua
+impermeabile
+sci d'acqua
+pluviale
+Torre dell'acqua
+ruota d'acqua
+ruota d'acqua
+wattmetro
+statua di cera
+arma
+armi
+carrier armi
+banderuola
+banderuola
+web
+tessitura
+webcam
+cuneo
+Wedgwood
+weekender
+peso
+sbarramento
+sbarramento
+saldare
+guardolo
+wet bar
+fly bagnato
+muta
+ruota
+ruota
+ruota e asse
+sedia a rotelle
+veicolo a ruote
+frusta
+frusta
+bottiglia di whisky
+whiskey brocca
+Whispering gallery
+fischio
+fischio
+bianca
+elettrodomestici
+imbiancare
+stoppino
+di vimini
+cesto di vimini
+portello
+portello
+obiettivo grandangolare
+velivoli widebody
+parrucca
+Wigwam
+Wilton
+verricello
+Winchester
+frangivento
+avvolgitore
+strumento a fiato
+windjammer
+mulino a vento
+mulino a vento
+finestra
+finestra
+finestra cieca
+scatola di finestra
+telaio della finestra
+schermo della finestra
+posto al finestrino
+finestra ombra
+davanzale
+parabrezza
+tergicristallo
+sedia Windsor
+Windsor cravatta
+turbina eolica
+Bottiglia di vino
+benna di vino
+botte di vino
+bicchiere di vino
+azienda vinicola
+ala
+poltrona
+Galletto
+punta dell'ala
+punta dell'ala
+tergicristallo
+filo
+filo
+tronchese
+wireless local area network
+stampante a matrice di fili
+cablaggio
+wok
+abbigliamento donna
+sculture in legno
+legno scalpello
+woodenware
+cucchiaio di legno
+legnaia
+legni
+trama
+woofer
+lana
+cestino da lavoro
+lavoro-abbigliamento
+laboratorio
+lavoro-shirt
+stazione di lavoro
+tavolo da lavoro
+abbigliamento da lavoro
+verme recinzione
+pettinata
+pettinata
+arrotolare
+involucro
+relitto
+chiave inglese
+mat wrestling
+strizzatoio
+orologio da polso
+scrivania
+scrivania
+scrittura implementare
+fotocopiare
+pellicola a raggi X
+macchina a raggi X
+yacht
+Yagi
+cortile
+cortile
+yarmulke
+scialuppa
+scialuppa
+giogo
+yurta
+Zamboni
+ziggurat
+zither
+zoot suit
+venatura del legno
+graining
+marbleization
+luccicare
+polacco
+colore cromatico
+nero
+nero carbone
+alabastro
+osso
+grigio
+grigio cenere
+carbone
+Turchia rosso
+cremisi
+rosso scuro
+chiaretto
+fuschia
+marrone
+arancia
+arancio rossastro
+giallo
+gommagutta
+giallo pallido
+verde
+mare verde
+verde salvia
+verde bottiglia
+Smeraldo
+verde oliva
+verde giada
+blu
+azzurro
+Blu acciaio
+blu verdastro
+blu violaceo
+viola
+indaco
+lavanda
+rosa
+garofano
+rosa
+Castagna
+cioccolato
+Marrone chiaro
+beige
+Marrone rossastro
+mattone rosso
+pellerossa
+blu oltremare
+pigmentazione
+carnagione
+ruddiness
+colorazione aposematiche
+anello
+cadavere
+pelle
+innesto di pelle
+a cellule squamose
+macule
+lentiggine
+coppiglia
+treccia
+paggio
+pompadour
+paglia
+zuppa-colino
+Mustachio
+stoppia
+pizzetto
+diastema
+bocca
+latte
+latte materno
+vena
+histiocyte
+Linfocita
+neutrofili
+corteccia cerebrale
+prepuzio
+capo
+tacco
+cuticola
+esoscheletro
+Limone
+veicolo
+la stampa
+Fleet Street
+rotocalco
+giornale
+quotidiano
+gazzetta
+giornale scolastico
+tabloid
+yellow journalism
+telecomunicazione
+telefono
+segreteria telefonica
+chiamata
+inoltro chiamata
+chiamare
+chiamata in attesa
+chiamata locale
+chiamata a tre vie
+cavo
+senza fili
+radiotelegrafico
+radiotelefono
+emittente
+Radio
+televisione
+tv via cavo
+televisione ad alta definizione
+ricezione
+Sito web
+chat room
+jotter
+breviario
+documento
+opera rock
+rivista
+fumetto
+rivista
+polpa
+chiazza di petrolio
+parole crociate
+segno
+segnale stradale
+semaforo
+svastica
+concerto
+opera d'arte
+lobo
+copertina del libro
+tumulo
+evento di tre giorni
+comfort food
+commestibile
+corso
+piatto
+Fast food
+cibo da mangiare con le mani
+kosher
+tariffa
+dieta
+dieta
+dietetico
+dieta bilanciata
+supplemento dietetico
+dieta ricca di proteine
+vegetarianismo
+menu
+rancio
+tavola
+derrata alimentare
+pasto
+fiocchi d'avena
+fibre
+Farina
+Farina integrale
+nutrimento
+dispensa
+cibo in scatola
+Spam
+pasto
+pasto alla buona
+refezione
+rinfresco
+colazione
+colazione continentale
+brunch
+pranzo
+high tea
+tè
+cena
+cena
+buffet
+picnic
+barbecue
+frittura di pesce
+morso
+fare uno spuntino
+banchetto
+entrata
+cavallo di battaglia
+piatto
+addobbo
+contorno
+speciale
+casseruola
+casseruola di pollo
+pollo alla cacciatora
+antipasto
+aperitivo
+cocktail
+cocktail di frutta
+cocktail di gamberi
+antipasto
+tuffo
+salsa al formaggio
+guacamole
+consommé
+biscotto
+borsch
+brodo
+Brodo di pollo
+brodo
+zuppa di pollo
+Gazpacho
+Gumbo
+marmite
+mulligatawny
+zuppa di piselli
+pentola pepe
+petite marmite
+potage
+zuppa di verdure
+zuppa con uovo
+zuppa di pesce
+zuppa di pesce e granoturco
+zuppa di molluschi nel latte
+Zuppa di granchio alla "New England
+zuppa di pesce
+ton vinto
+zuppa di piselli
+zuppa di piselli verde
+zuppa di lenticchie
+vichyssoise
+stufato
+gulasch
+guazzabuglio
+pentola calda
+goulash di manzo
+stufato irlandese
+Stufato di pesce
+bouillabaisse
+paella
+fricassea
+stufato di manzo
+Ratatouille
+pot-au-feu
+smorgasbord
+provvista
+miscela di torta
+zucchero di canna
+zucchero a velo
+dolce
+confetteria
+confiture
+caramella
+Barretta di cioccolato
+caramella
+croccante
+gomma da masticare
+palla gomma
+gomma da masticare
+mela candita
+scorza
+bastoncino di zucchero
+candy corn
+caramello
+confetto
+zucchero filato
+fondente
+caramella fondente
+fondente di cioccolato
+penuche
+gumdrop
+menta piperita
+Jelly Bean
+bacio
+bacio al cioccolato
+lecca-lecca
+goccia tosse
+marshmallow
+torrone
+bar torrone
+pralina
+caramella
+caramella mou
+tartufo
+dolce
+Baked Alaska
+composta
+gnocco
+flan
+dessert surgelati
+mousse
+mousse
+Pavlova
+frusta
+budino
+budino
+Tiramisù
+tartufo
+gelatina
+ghiaccio
+gelato
+cono gelato
+gelato al cioccolato
+gelato di pesche
+sherbert
+gelato alla fragola
+tutti Frutti
+gelato alla vaniglia
+ghiacciolo
+yogurt gelato
+parfait
+gelato sundae
+Diviso
+banana split
+crema pasticcera frozen
+mousse al cioccolato
+budino di prugne
+budino di mais
+Duff
+budino di cioccolato
+crema pasticciera
+creme caramel
+creme brulee
+maraschino
+contorno
+Pasticcino
+turnover
+samosa
+pasta sfoglia
+fillo
+torta gelato
+ciambella
+torta di pesce
+bastone di pesce
+conservare
+Burro di mele
+marmellata
+Lemon curd
+marmellata di fragole
+gelatina
+marmellata di arance
+gelatina
+ala bufala
+ala brace
+tritare
+puré
+barbecue
+biryani
+saute
+Vitello al parmigiano
+cordon bleu di vitello
+ripieno
+ripieno di ostrica
+pane
+bap
+grissino
+pane integrale
+ciambella
+challah
+pane alla cannella
+crostino
+pane scuro
+muffin inglese
+piadina
+pane all'aglio
+pane senza glutine
+pane graham
+bannock
+chapati
+Pita
+pagnotta di pane
+pagnotta francese
+pane azzimo
+nan
+pane di uva passa
+pane rapido
+Pane alla banana
+data pane
+pane alle noci
+soda bread irlandese
+pane padella
+pane di segale
+pane nero
+pane di segale ebraica
+limpa
+pane acida
+crostini
+wafer
+pane bianco
+baguet
+pane francese
+Pane italiano
+pane di mais
+cornpone
+A cuccia
+Johnnycake
+pane abbrustolito
+wurstel bun
+Hamburger bun
+focaccina
+focaccina di crusca
+mais focaccina
+Yorkshire pudding
+popover
+focaccina da tè
+cadere Scone
+cross bun
+brioche
+rotolo mezzaluna
+rotolo difficile
+rotolo kaiser
+rotolo dolce
+Rotolo alla cannella
+miele bun
+danese
+bagel
+biscotto
+lievito in polvere di biscotto
+latticello
+frollino
+gallette
+cracker di Graham
+salatino
+pretzel morbido
+Sandwich
+piastra intermedia
+butty
+Sandwich al prosciutto
+panino al pollo
+club sandwich
+panino aperto-face
+Hamburger
+hamburger al formaggio
+hot dog
+Sloppy Joe
+bombardiere
+giroscopio
+panino-lattuga-pomodori pancetta
+Reuben
+occidentale
+avvolgere
+spaghetti
+farinata
+congee
+frutto commestibile
+verdura
+Julienne
+verdure crude
+gambo di sedano
+impulso
+potherb
+verdura
+radice vegetale
+Patata
+patate al forno
+patatine fritte
+patatine fritte
+jacket potato
+purè
+patata dolce
+patata dolce
+spuntino
+patata fritta
+chip di mais
+tortilla chip
+nacho
+melanzana
+pieplant
+verdure crocifere
+mostarda
+cavolo
+cavolo
+cavoli
+cavolo cinese
+cavolo cinese
+cavolo cappuccio
+cavolo rosso
+verza
+broccoli
+cavolfiore
+cavoletti di Bruxelles
+cime di rapa
+schiacciare
+zucca di estate
+zucca gialla
+crookneck
+zucchine
+zucca spaghetti
+zucca
+zucca Acorn
+zucca
+cetriolo
+carciofo
+asparago
+germoglio di fagiolo
+barbabietola
+bietola
+Pepe
+peperone
+peperone
+Pepe verde
+pimento
+peperoncino
+chili
+jalapeno
+peperoncino di Cayenna
+Tabasco
+cipolla
+cipolla verde
+cipolla viola
+Porro
+scalogno
+insalata verde
+lattuga
+Buttercrunch
+Crisphead lattuga
+cos
+foglia di lattuga
+fagiolo
+lenticchia
+pisello
+verde pisello
+piselli neve
+Pisello Sugar snap
+cece
+piselli molli
+Fagiolino dall'occhio
+fagiolo comune
+fagiolone
+fagiolo nero
+fagioli freschi
+fagiolo verde
+fagioli a scatto
+fagiolino
+Fagiolino
+fagioli di cera
+di fave
+soia
+soia verde
+campo di soia
+cardone
+carota
+bastone carota
+sedano
+sedano rapa
+cicoria
+radicchio
+cicoria
+scarola cicoria
+Indivia Belga
+Mais
+mais dolce
+Popcorn
+crescione
+crescione
+Gumbo
+cavolo rapa
+farinaccio
+pomodoro
+pomodoro cuore di bue
+pomodoro ciliegino
+pomodoro prugna
+tomatillo
+fungo
+funghi ripieni
+pastinaca
+zucca
+ravanello
+rapa
+rapa svedese
+cime di rapa
+Acetosa
+spinaci
+Taro
+arachide
+Mela
+crab apple
+mangia mela
+Cortland
+Delizioso
+golden Delicious
+Red Delicious
+Impero
+McIntosh
+Macoun
+Renetta
+cucinare una mela
+Granny Smith
+bacca
+mirtillo
+mirtillo
+mirtillo rosso
+mirtilli rossi
+ribes
+uva spina
+ribes rosso
+mora
+boysenberry
+lampone
+fragola
+cachi
+acerola
+carambole
+agrume
+arancia
+mandarino
+Clementina
+satsuma
+mandarino
+Tangelo
+arancia amara
+arancio dolce
+arancia Navelina
+Valencia arancione
+kumquat
+Limone
+lime
+Uva
+pomelo
+cedro
+Jordan mandorle
+albicocca
+pesca
+Nettarina
+pitahaya
+prugna
+prugnola
+frutta secca
+albicocche secche
+ribes
+Figura
+ananas
+Banana
+frutto della passione
+Granadilla
+albero del pane
+jackfruit
+chicco di cacao
+cacao
+melone
+melone
+cantalupo
+melata
+anguria
+ciliegia
+ciliegia dolce
+bing ciliegia
+visciola
+uva
+uva Concord
+uva vinifera
+moscato
+crema di mele
+cherimoya
+soursop
+papaw
+papaia
+ackee
+durian
+feijoa
+Kiwi
+nespolo
+mangostano
+Mango
+sapodilla
+tamarindo
+avocado
+Data
+sambuco
+guaiava
+jaboticaba
+giuggiola
+litchi
+nespola
+nespola
+gelso
+oliva
+olive nere
+verde oliva
+Pera
+bosc
+Bartlett
+piantaggine
+Melograno
+Fico d'India
+Mela cotogna
+rambutan
+Mela rosa
+seme di zucca
+noce
+Noce brasiliana
+anacardio
+Castagna
+nocciola
+noce di cocco
+Noce di macadamia
+pecan
+pinoli
+pistacchio
+semi di girasole
+foraggio
+eatage
+silaggio
+torta di petrolio
+erba medica
+Fava
+fieno
+grano
+semole
+miglio
+orzo
+Grano
+riso
+riso integrale
+riso bianco
+riso selvatico
+risaia
+mangime per uccelli
+cibo per animali
+scagliola
+insalata
+insalata gettato
+insalata verde
+salmagundi
+insalta di Nicoise
+insalata dello chef
+insalata di patate
+insalata di pasta
+Insalata di pasta
+Macedonia
+insalata di cavolo
+tabbouleh
+ingrediente
+condimento
+Spezia
+cannella
+Bastoncini di cannella
+Chiodo di garofano
+cumino
+Noce moscata
+Pepe
+Sassafras
+basilico
+foglia d'alloro
+borragine
+issopo
+cerfoglio
+erba cipollina
+consolida
+coriandolo
+finocchio
+aglio
+erba cipollina aglio
+melissa
+levistico
+Maggiorana
+menta
+nasturzio
+prezzemolo
+rosmarino
+saggio
+salvia sclarea
+asperula
+timo
+Curcuma
+catchup
+cardamomo
+peperoncino di Cayenna
+salsa chili
+chutney
+salsa di bistecca
+salsa
+salsa di mirtilli
+curry
+Curry di agnello
+paprica
+aneto sottaceto
+salsa di soia
+Tabasco
+angelica
+anice cinese
+bacche di ginepro
+zafferano
+seme di sesamo
+seme di papavero
+baccello di vaniglia
+aceto di mele
+aceto di vino
+salsa
+salsa piccante
+carbonara
+salsa di pomodoro
+pesto
+condimento
+salsa di acciughe
+Maionese
+maionese verde
+condimento per l'insalata russa
+salsa barbecue
+Olandese
+bourguignon
+salsa al cioccolato
+salsa calda-fondente
+salsa bianca
+sugo
+sugo
+salsa per gli spaghetti
+marinara
+Talpa
+veloute
+uovo
+tuorlo d'uovo
+uovo sodo
+uovo sodo
+uovo di Pasqua
+uovo di Pasqua
+uovo di cioccolato
+caramelle uovo
+uovo in camicia
+uova strapazzate
+uova ripiene
+uovo arricciato
+frittata
+soffio
+uovo fritto
+latticini
+latte
+latte di soia
+formula
+latte grezzo
+latte in polvere
+crema
+panna rappresa
+crema pesante
+crema leggera
+panna acida
+panna montata
+burro
+Yogurt
+raita
+siero
+cagliata
+cagliata
+formaggio
+crema di formaggio
+doppia crema
+mascarpone
+crema tripla
+fiocchi di latte
+Stilton
+Brie
+Camembert
+Mozzarella
+emmenthal
+burro di arachidi
+burro di gamberetti
+miso
+hummus
+miele
+zucchero
+sciroppo
+sciroppo di zucchero
+saggina
+Granatina
+sciroppo d'acero
+pastella
+Impasto
+pasta di pane
+Coq au Vin
+pollo e riso
+Riso con pollo
+pancetta e uova
+costine alla brace
+Bourguignonne manzo
+manzo Wellington
+pasta
+cannelloni
+soufflé di formaggio
+pollo Kiev
+chili
+cane peperoncino
+chop suey
+chow mein
+crocchetta
+cottage pie
+polpetta
+dolmas
+rotolo di uova
+uova benedette
+enchilada
+Falafel
+pesce e patatine
+fonduta
+fonduta di formaggio
+Fonduta di cioccolato
+toast francese
+riso fritto
+frittata
+galantina
+pesce gefilte
+hash carne in scatola
+Jambalaya
+kabob
+souvlaki
+Lasagna
+pesce Newburg
+maccheroni e formaggio
+polpetta
+polpetta svedese
+polpettone
+moussaka
+midollo
+suini in coperte
+pilaf
+Pizza
+pizza con salsiccia
+pizza al salame piccante
+pizza al formaggio
+la pizza acciughe
+pizza siciliana
+porridge
+potpie
+risotto
+pagnotta di pesce
+Scotch uovo
+spaghetti e polpette
+Riso spagnolo
+steak tartare
+bistecca al pepe
+Bistecca al pepe
+peperoni ripieni
+pomodoro farcito
+pomodoro farcito
+succotash
+Sukiyaki
+sashimi
+Sushi
+Tamale
+tempura
+teriyaki
+terrina
+rarebit gallese
+cotoletta
+taco
+taco di pollo
+burrito
+Quesadilla
+arrosto
+bevanda
+miscuglio
+Riempimento
+pozione
+alcol
+spirito prova
+birra fatta in casa
+hooch
+aperitivo
+infuso
+birra
+birra draft
+schiuma
+birra di Monaco
+bock
+birra chiara
+birra leggera
+Pilsner
+Weissbier
+Weizenbock
+malto
+ale
+amaro
+birra chiara
+facchino
+corpulento
+Guinness
+prateria
+birra vicino
+birra allo zenzero
+amor
+vino
+annata
+vino rosso
+vino bianco
+vino blush
+vino frizzante
+Champagne
+Borgogna
+Beaujolais
+Medoc
+vino delle Canarie
+Chablis
+montrachet
+Chardonnay
+Pinot Nero
+Pinot bianco
+bordò
+chiaretto
+Chianti
+Cabernet
+Merlot
+Sauvignon Blanc
+vino della California
+Cotes de Provence
+vino da dessert
+macon
+Muscadet
+vino ordinario
+Retsina
+Riesling
+Liebfraumilch
+vino Rhone
+Rioja
+sacco
+saint Emilion
+Soave
+zinfandel
+Sauterne
+vino di paglia
+vino da tavola
+vin ordinaire
+vermut
+Vermouth dolce
+vermouth secco
+Chenin Blanc
+Verdicchio
+vouvray
+Yquem
+varietale
+vino liquoroso
+Madera
+malvasia
+porta
+Sherry
+Marsala
+moscato
+liquore
+alcole neutro
+aqua vitae
+eau de vie
+Aquavit
+arak
+amaro
+Brandy
+Applejack
+Calvados
+Armagnac
+Cognac
+grappa
+Gin
+sloe gin
+Ginevra
+grog
+ouzo
+Rum
+Demerara
+Jamaica rum
+grappa
+Tequila
+Vodka
+whisky
+blended whisky
+Bourbon
+mais whisky
+firewater
+irlandese
+poteen
+segale
+scotch
+sour Mash
+liquore
+assenzio
+Amaretto
+anisetta
+benedettino
+liquore al caffè
+Drambuie
+triple sec
+Grand Marnier
+maraschino
+pastis
+Pernod
+Sambuca
+bere miscelato
+cocktail
+tumbler
+Bloody Mary
+Collins
+più fresco
+aggiornamento
+frullato
+daiquiri
+daiquiri alla fragola
+spritz
+succhiello
+gin tonic
+giulebbe
+Manhattan
+Margherita
+Martini
+gin e si
+martini vodka
+Sazerac
+Cacciavite
+sidecar
+Scotch e soda
+fionda
+aspro
+whiskey Sour
+Toddy caldo
+effervescenza
+caffé irlandese
+caffellatte
+caffè espresso
+caffe Latte
+cappuccino
+caffè ghiacciato
+caffè istantaneo
+moca
+moca
+caffè turco
+Cedro
+sidro duro
+rotgut
+cacao
+succo
+succo di frutta
+nettare
+succo di mirtillo
+succo d'uva
+succo di pompelmo
+succo d'arancia
+succo d'arancia congelato
+succo di ananas
+succo di limone
+succo di pomodoro
+succo di carota
+succo di frutta
+limonata
+vin brulè
+bibita analcolica
+pop
+Coca Cola
+cream soda
+bibita allo zenzero
+aranciata
+Coca Cola
+Pepsi
+root beer
+Tonico
+Chicco di caffe
+caffè
+punch di frutta
+mimosa
+Pina Colada
+punch
+tazza
+pugno di fioriera
+white Russian
+vino può
+zabaione
+tè
+bustina di the
+tè
+cuppa
+tè freddo
+souchong
+oolong
+acqua
+acqua in bottiglia
+acqua ramo
+bevendo acqua
+acqua di seltz
+acqua minerale
+couscous
+multivitaminico
+pillola di vitamina
+cibo dell'anima
+persone
+collezione
+libro
+biblioteca
+folla
+nucleo
+banda concerto
+nozze
+catena
+agora
+Parco divertimenti
+afelio
+cespuglio
+fermata dell'autobus
+campeggio
+cimitero
+città
+quartiere degli affari
+pascolo di mucche
+cresta
+eparchia
+vespaio
+ranch
+mercato delle pulci
+mucchio di spazzatura
+benthos
+grainfield
+mezz'asta
+orlo
+garzaia
+buco nel muro
+litorale
+prateria
+mecca
+nombril
+area fieristica
+pascolo
+kasbah
+lungomare
+ricorrere
+zona di villeggiatura
+ruvido
+macchia
+Weald
+capezzale
+orizzonte terreno
+campo
+giacimento petrolifero
+tavolo
+kampong
+Veld
+nido di aquila
+bolla d'aria
+alp
+ghiacciaio alpino
+formicaio
+arete
+Arroyo
+salita
+asterismo
+atollo
+spiaggia
+Favo
+assicurare
+Ben
+berm
+bluff
+brae
+bolla
+tana
+butte
+canyon
+grotta
+caverna
+abisso
+circo glaciale
+scogliera
+nube
+col
+cometa
+barriera corallina
+baia
+balza
+cratere
+terra coltivata
+profanare
+discesa
+divot
+giù
+discesa
+duna
+scarpata
+bolide
+pavimento
+fomite
+Foothill
+promontorio
+battigia
+formazione geologica
+scaldabagno
+ghiacciaio
+gola
+grotta
+burrone
+grandinare
+montanaro
+collina
+pendio
+buco
+primavera calda
+iceberg
+calotta di ghiaccio
+lastrone di ghiaccio
+massa di ghiaccio
+poggio
+lungolago
+in riva al lago
+discarica
+ripiano
+cratere lunare
+massiccio
+meandro
+montagna
+versante
+pasticciare
+elevazione naturale
+oceano
+fondale marino
+di fronte all'oceano
+affioramento
+lanca
+pallasite
+Pinetum
+pianura
+punto
+buca
+precipizio
+promontorio
+pulsar
+termosifone
+arcobaleno
+gamma
+rangeland
+scogliera
+cresta
+cresta
+bosco ripariale
+Riva del fiume
+alveo
+roccia
+tetto
+banco di sabbia
+barra di sabbia
+riva del mare
+mare
+conchiglia
+puntellare
+litorale
+dolina
+pista da sci
+cielo
+pendenza
+snowcap
+cumulo di neve
+soapsuds
+sputare
+traccia
+spuma
+stella
+ripido
+steppa
+filo
+streambed
+sole
+supernova
+palude
+rigonfiamento
+altopiano
+talus
+groviglio
+bacino di marea
+tor
+Trapezio
+salita
+valle
+cratere vulcanico
+vulcano
+Nido di vespe
+alveo
+Waterside
+Xenolith
+leader spirituale
+anomalia
+incaricato
+Ashkenazi
+cittadino comune
+intrattenitore
+esponente
+ex presidente
+viso
+femmina
+abitante
+nativo
+nativo
+amante
+maschio
+mediatore
+pari
+destinatario
+viaggiatore
+lavoratore
+nero africano
+Nero
+Donna di colore
+mulatto
+bianca
+semitico
+uomo bianco
+gook
+mongolo
+Biloxi
+Caddo
+Chickasaw
+Delaware
+Kickapoo
+Kiliwa
+Mohican
+kachina
+Tarahumara
+Gujarati
+Kashmiri
+punjabi
+slavo
+cristiano
+copto
+buddista
+buddista Zen
+swami
+eurasiatico
+Franco
+afgano
+albanese
+dell'Angola
+Bahamas
+Herero
+Barbados
+boliviano
+Borneo
+bulgaro
+Bielorusso
+camerunese
+canadese
+canadese francese
+Centro America
+congolese
+Britisher
+persona inglese
+inglese
+marinaio inglese
+etiope
+eritrean
+Komi
+lituano
+parigino
+Parisienne
+Laconia
+Guyana
+Haiti
+malese
+olandese
+iracheno
+Dubliner
+Sabine
+giapponese
+giordano
+coreano
+keniano
+Lao
+lappone
+latino americano
+libanese
+liberiano
+messicano
+Messicano americano
+Neozelandese
+Nicaragua
+nigeriano
+Hausa
+dell'Oman
+pakistano
+filippina
+polinesiano
+Qatar
+rumeno
+Sarawakian
+scandinavo
+senegalese
+sloveno
+sudafricano
+sudanese
+tahitiano
+Tanzania
+tibetano
+Togo
+Tuareg
+ugandese
+Igbo
+Anglo-americano
+Florida
+americano tedesco
+Mainer
+Minnesotan
+Nebraskan
+Nord Carolinian
+vietnamita
+Gambia
+Guinea
+Papua
+yemenita
+jugoslava
+Xhosa
+dello Zimbabwe
+zulù
+Gemelli
+Pesci
+favoreggiatore
+abseiler
+amministratore accademico
+accademico
+compagno
+conoscenza
+Aerialist
+attivo
+attore
+aiutante
+generale aiutante di campo
+adultera
+avvocato
+affiliazione
+agricoltore
+alcolico
+assessore
+alpinista
+chirichetto
+ambasciatore
+ambasciatore
+amputato
+analista del settore
+strategist di mercato
+anarchico
+antenato
+ancora
+antico
+anti
+Anzac
+incaricato
+aspirante
+arcivescovo
+arciere
+ufficiale dell'esercito
+Arrangiatore
+artigliere
+Modella per artisti
+assertore
+socio
+astronauta
+atleta
+procuratore generale
+zia
+ragazza alla pari
+autoritario
+autorità
+Babu
+bambino
+bambino
+indietro
+backbencher
+zaino in spalla
+Bagaglio
+bairn
+panettiere
+portatore di palla
+ballerino classico
+falco palla
+aeronauta
+giocatore di baseball
+torero
+banderillero
+matador
+picador
+peso gallo
+barista
+barone
+barone
+barista
+corridore di base
+giocatore di basket
+Basket Maker
+basso
+bat boy
+testimone twirler
+bavarese
+barba
+beduino
+apicoltore
+bevitore di birra
+vecchiaccia
+migliore
+grande sorella
+giocatore di biliardo
+biografo
+nascita
+cintura nera
+maniscalco
+intellettuale
+boatbuilder
+barcaiolo
+poliziotto
+guardia del corpo
+lustrascarpe
+cucciolo
+Boy Scout
+scout
+bragger
+attaccabrighe
+sostegno della famiglia
+allevatore
+mattone
+sposa
+damigella d'onore
+cognato
+di Birmingham
+compagno
+economo
+editor di affari
+barattolo
+ragazza chiamata
+calligrafo
+camper
+candidato
+Capitano
+Capitano
+prigioniero
+cardinale
+cardiologo
+carrierista
+badante
+caricaturista
+caroler
+falegname
+vittima
+vittima
+casista
+catechista
+celebrante
+celebrità
+violoncellista
+centenario
+centrista
+ragioniere pubblico certificato
+camaleonte
+donna di servizio a ore
+cheerleader
+cheerleader
+Cheops
+maestro di scacchi
+amministratore delegato
+capo del personale
+bambino
+bambino
+bambino
+coreografo
+fumatore di sigaro
+cifra
+acrobata da circo
+cittadino
+padre città
+leader dei diritti civili
+ecclesiastico
+chierico
+scalatore
+clinico
+più vicino
+clown
+clown
+pitching coach
+cocchiere
+minatore di carbone
+ciabattino
+ingranaggio
+coiffeur
+Colleen
+guardia di colore
+comandante in capo
+comandante in capo
+commissioned officer
+ufficiale militare incaricato
+commissario
+commissario
+committeewoman
+pendolare
+presentatore
+utente del computer
+concerto frequentatore
+pasticciere
+confidente
+secondo pilota
+co-protagonista
+compatriota
+cugino
+ragazza copertina
+artigiano
+artigiano
+pazzo
+creatura
+crown princess
+cryptanalyst
+Cub Scout
+papà
+Dalai Lama
+dallier
+ballerino
+ballerino
+ballerino intasare
+maestro di ballo
+tesoro
+bighellone
+demagogo
+dimostratore
+capo dipartimento
+vice
+battitore designato
+investigatore
+diocesano
+direttore
+disk jockey
+procuratore distrettuale
+tuffatore
+medico
+convivente
+donna
+dosser
+raddoppiare
+sarta
+palleggiatore
+bevitore
+bevitore
+majorette
+batterista
+ubriacone
+asciutto
+duchessa
+schiappa
+eager beaver
+eccentrico
+econometrico
+economista
+anziano statista
+elettricista
+dipendente
+datore di lavoro
+maga
+donna arruolato
+imprenditore
+esecutore
+vice presidente esecutivo
+esibizionista
+facilitatore
+Fata Madrina
+falconiere
+falsificatore
+fan
+amatore
+ragazzo di fattoria
+contadino
+bracciante
+padre
+Padre
+suocero
+peso piuma
+federalista
+bambina
+fidanzato
+fielder
+pilota combattente
+mangiafuoco
+mangiafuoco
+vigile del fuoco
+primo baseman
+primogenito
+first lady
+primo tenente
+sergente maggiore
+pescivendolo
+coinquilino
+flautista
+peso mosca
+peso mosca
+nemico
+Danzatore di piega
+antenato
+capo
+inoltrare
+fondatore
+monaco
+terzino
+futurista
+gainer
+ragazza
+spazzino
+giardiniere
+gendarme
+generale
+geologo
+ragazza
+wonder Girl
+Gladiatore
+soffiatore di vetro
+pastore di capre
+godparent
+figlioccio
+gondoliere
+governatore generale
+infermiere laureato
+grammatico
+nipotina
+nonno
+nonna
+nonno
+erba vedovo
+prozia
+pronipote
+pronipote
+bisnonna
+bisnonni
+pronipote
+pronipote
+pronipote
+Berretto verde
+gringo
+sposo
+sposo
+guardia
+ospite
+chitarrista
+guru
+tipo
+ginnasta
+parrucchiere
+mediano
+allenatore di animali
+deltaplano
+arlecchino
+preside
+capo infermiera
+ascoltatore
+pesi massimi
+hedger
+erede
+erede
+eroina
+Herr
+intellettuale
+alto Commissario
+sommo sacerdote
+hitter
+senza casa
+guardia d'onore
+cornista
+cavaliere
+wrangler di cavallo
+albergatore
+coinquilino
+casa medico
+Hugger
+pezzo
+ipocrita
+persona importante
+incombente
+inductee
+inferiore
+infielder
+legalmente
+ispettore generale
+istigatore
+mediatore assicurativo
+interlocutore
+interprete
+investigatore
+investitore
+giullare
+fantino
+giudice
+giocoliere
+tastierista
+kingmaker
+re
+Counsel alla Corona
+parenti
+congiunta
+Kisser
+Klansman
+lavoratore
+laburista
+signora
+lama
+ragazza
+latino
+legislatore
+Lawman
+lector
+mancino
+rappresentante legale
+diplomato
+tenente
+tenente colonnello
+tenente comandante
+vita
+Bagnino
+pesi massimi leggeri
+leggero
+leggero
+leggero
+guardafili
+ufficiale di linea
+fratellino
+sorellina
+lowerclassman
+lealista
+lumper
+piromane
+macchinista
+mago
+domestica
+domestica
+maggiore
+Adone
+uomo
+direttrice
+manicure
+marcher
+maresciallo
+severo
+portafortuna
+muratore
+Masquerader
+maestro
+maestro
+maestro di cerimonia
+compagno
+compagno
+mater
+Sindaco
+moglie di un sindaco
+medaglia d'
+medico
+membro di bordo
+riparatore
+Metis
+metropolitano
+microeconomista
+uomo di mezza età
+peso medio
+ostetrica
+milanese
+miler
+addetto militare
+ufficiale militare
+poliziotto militare
+mulino a mano
+milionaria
+ministro
+leaguer minore
+padrona
+modello
+modellatore
+monegasco
+monetarista
+morris ballerino
+madre
+madre
+figlio di madre
+La figlia di madre
+moto cop
+motociclista
+musher
+musicista
+Muslimah
+Mycenaen
+miope
+nan
+nazionalista
+comandante navale
+Navy SEAL
+neonato
+neutro
+nuovo venuto
+commentatore
+nipote
+premio Nobel
+sottufficiale
+non fumatore
+Battista del Nord
+noviziato
+infermiera
+ninfa
+ninfetta
+oboista
+amante del vino
+ufficiante
+vecchio ragazzo
+vecchia Signora
+vecchio uomo
+vecchio
+vecchia
+oligarca
+spettatore
+oratore
+suonatore di organetto
+organista
+orfano
+orfano
+osteopata
+outfielder
+fielder destra
+lanciatore di mano destra
+pittore
+Panchen Lama
+Membro della giuria
+parrocchiano
+Parlamentare
+agente parlamentare
+pappagallo
+partecipe
+passeggeri
+paziente
+patriarca
+patriarca
+patriarca
+patriota
+patrono
+pacificatore
+venditore ambulante
+percussionista
+pessimista
+Peter Pan
+badante di animali domestici
+Faraone
+farmacista
+filantropo
+filatelico
+fisioterapista
+picker
+pellegrino
+fumatore di pipa
+brocca
+biondo platino
+giocatore
+plenipotenziario
+assicurato
+politologo
+politico
+politico
+giocatore di biliardo
+poultryman
+preghiera
+bambino prematuro
+presbitero
+Presidente
+Presidente degli Stati Uniti
+fotoreporter
+sacerdote
+primigravida
+Pricipe del Galles
+principale
+privato
+persona in prova
+programmatore
+promotore
+propagatore
+protezionista
+protetta
+potatore
+psicolinguista
+burattinaio
+pusher
+terzino
+furiere
+Quebecois
+Regina
+Regina
+regina consorte
+regina madre
+rabbino
+radiologo
+raiser
+Ranker
+ratepayer
+lettore
+insegnante di lettura
+contrammiraglio
+reclutare
+testa Rossa
+arbitro
+riparatore
+reporter
+rappresentante
+soccorritore
+riservista
+commissario residente
+rivenditore
+pensionato
+reumatologo
+persona ricca
+ciclista
+chi usa la destra
+stella del rock
+Mountie
+corridore
+corridore
+corridore
+venditore
+venditore
+sangoma
+saunterer
+scolaro
+Amico di scuola
+maestro
+compagno di scuola
+segnapunti
+marcatore
+capogruppo di boyscout
+scrambler
+sommozzatore
+scultore
+cugino di secondo grado
+secondo violino
+di seconda categoria
+segretario di Stato
+Segretario degli Interni
+laicista
+consulente per la sicurezza
+testa di serie
+venditore
+semifinalista
+senatore
+serjeant-in-law
+tecnico addetto alla manutenzione
+colonizzatore
+colonizzatore
+sex symbol
+pecora
+sceicco
+pastore
+fratello
+persona malata
+signorina
+cantante
+Sorella
+sorella
+suonatore di sitar
+skateboarder
+Trattore
+apneista
+skinhead
+traversina
+traversina
+la bella addormentata
+bloodhound
+fracasso
+giocatore di calcio
+sociolinguista
+sociologo
+soldato
+figlio
+cantante
+songstress
+compositore di canzoni
+anima gemella
+sovrano
+sparring partner
+altoparlante
+altoparlante
+spettatore
+Speedskater
+sfinge
+sport
+uomo sportivo
+annunciatore sportivo
+ballerino piazza
+membro del personale
+sergente
+stellina
+tesoriere di stato
+steward
+agente di borsa
+stratega
+perno
+alunno
+stilista
+subappaltatore
+successore
+successore
+Sufi
+lottatore di sumo
+sunbather
+supremo
+chirurgo
+perito
+perito
+Tesoro
+silfo
+simpatizzante
+sindaco
+tattico
+incolonnamento
+petroliera
+degustatore
+insegnante
+tecnico
+giornalista televisivo
+giocatore di tennis
+tennis pro
+sassofonista tenore
+teosofo
+terapista
+lanciatore
+timoresi
+turista
+banditore cittadino
+vigile urbano
+travestito
+trawler
+tesoreria
+tribù
+poliziotto
+trombettista
+gemello
+cane bastardo
+understudy
+unicyclist
+Milite Ignoto
+parvenu
+valedictorian
+saltatore
+vegetariano
+persona molto importante
+vicario
+vicario generale
+abitante del villaggio
+vinaio
+violista
+visconte
+visiting professor
+bambino abbandonato
+Cameriere
+cameriera
+vagabondo
+Meteorologo
+saldatore
+vedova
+moglie
+ala
+donna
+ragazza lavoratrice
+operaio
+adoratore
+wright
+uccello cantiere
+young Buck
+Zoo keeper
+tempesta di sabbia
+parelio
+la neve
+onda
+volva
+basidiocarp
+acquatico
+bryophyte
+sfagno
+liverwort
+hepatica
+felce
+spora
+crittogama
+annuale
+welwitschia
+cycad
+sago palm
+falso sago
+Zamia
+Dioon
+Encephalartos
+Macrozamia
+pino
+pinon
+pinon pine
+singola anta
+pino e abete rosso
+pino nero
+pitch pine
+laghetto di pino
+pino domestico
+cirmolo
+pino mugo
+antica del pino
+pino bianco americano
+pino bianco occidentale
+whitebark pino
+pino giallo
+ponderosa
+pino di Jeffrey
+riva del pino
+loblolly pino
+Jack pine
+longleaf pino
+pino rosso
+pino silvestre
+Monterey pino
+pini
+pine table-montagna
+pino nero giapponese
+Torrey pini
+larice
+larice americano
+larice occidentale
+abete
+abete bianco
+amabilis fir
+abete bianco
+abete bianco
+balsamo di abete
+abete di Fraser
+pianura abete
+abete alpino
+Santa Lucia abete
+cedro
+cedro del Libano
+deodar
+Atlas cedro
+abete rosso
+abete rosso
+pianto di abete rosso
+abete bianco
+abete rosso nero
+abete Sitka
+abete rosso orientale
+Colorado abete rosso
+abete rosso
+cicuta
+hemlock orientale
+Hemlock montagna
+Hemlock occidentale
+Abete di Douglas
+verde abete Douglas
+cedro
+cipresso
+cipresso di Monterey
+cipresso italiano
+incenso cedro
+cedro bianco del sud
+Oregon cedro
+cipresso giallo
+cedro giapponese
+bacca di ginepro
+pahautea
+metasequoia
+arborvitae
+cedro rosso occidentale
+arborvitae americano
+arborvitae orientale
+Wollemi pine
+araucaria
+monkey Puzzle
+Norfolk Island pino
+bunya bunya
+Kauri pino
+Kauri
+yellowwood
+pino marrone
+Kahikatea
+Westland pino
+miro
+Matai
+ombrello pino giapponese
+tasso
+tasso Vecchio Mondo
+tasso giapponese
+ginkgo
+angiosperme
+dicot
+fiorellino
+fiore
+Bloomer
+Fiore di campo
+bocciolo di rosa
+pistillo
+cornstalk
+tubetto pollinico
+gemma
+sporophyte
+hypanthium
+petalo
+corolla
+labbro
+perianzio
+cardo
+crema di mele
+soursop
+pawpaw
+ilang-ilang
+crespino comune
+Oregon uva
+Mayapple
+Carolina pimento
+alloro
+vero alloro
+albero di canfora
+Cassia
+Corteccia di cassio
+corteccia di cannella
+avocado
+Sassafras
+anice stellato
+magnolia
+magnolia del sud
+albero ombrello
+albero cetriolo
+magnolia stellata
+sweet Bay
+tulipano albero
+Noce moscata
+ninfa
+giglio bianco europeo
+chinquapin acqua
+peonia
+ranuncolo
+ranuncolo prato
+ranuncolo d'acqua
+Ranunculus ficaria
+strisciante ranuncolo
+aconito
+monkshood
+baneberry
+baneberry rosso
+anemone
+anemone alpino
+Canada anemone
+legno anemone
+legno anemone
+bucaneve anemone
+anemone rue
+Colombina
+casa incontro
+Columbine blu
+cofani della nonna
+palude calendula
+cohosh nero
+clematis scarlatto
+clematis viola
+razzo larkspur
+delfinio
+larkspur
+inverno Aconitum
+hepatica
+Nigella
+Love-in-a-mist
+pasqueflower
+arachide
+hop trifoglio
+trifoglio incarnato
+trifoglio rosso
+trifoglio bianco
+mimosa
+acacia
+canniccio
+canniccio nero
+canniccio d'argento
+Huisache
+Legna leggera
+mimosa
+febbre albero
+Coralwood
+albizzia
+albero di seta
+albero pioggia
+Calliandra
+conacaste
+albero di piombo
+giglio impala
+allamanda
+allamanda comune
+Dita
+pervinca
+albero avorio
+oleandro
+frangipani
+oleandro giallo
+grandi pervinca
+Arum
+cuckoopint
+calamo
+alocasia
+Amorphophallus
+anthurium
+fiore fenicottero
+jack-in-the-pulpito
+caladium
+calla selvaggio
+Taro
+Pothos d'oro
+Skunk cavolo
+ceriman
+filodendro
+Pistia
+Pothos
+Spathiphyllum
+Skunk cavolo
+Calla lily
+rosa calla
+lemna
+lenticchia d'acqua comune
+aralia
+ginseng
+Virginia snakeroot
+Heartleaf
+Heartleaf
+mais zizzania
+sandwort
+sandwort montagna
+il mouse-ear chickweed
+snow-in-summer
+rosa
+sweet William
+garofano
+Cina rosa
+rosa giapponese
+rosa maiden
+cheddar colore rosa
+pulsante rosa
+casetta rosa
+il respiro del bambino
+lychnis
+robin lacero
+lychnis scarlatto
+verbasco rosa
+sandwort
+sandwort
+saponaria
+silene
+moss campion
+garofano selvatico
+campion rosso
+campion bianco
+rosa, fuoco
+campion vescica
+chickweed
+cerastio comune
+hottentot fig
+Livingstone daisy
+Fig calendula
+impianto di ghiaccio
+tumbleweed
+pigweed
+cresta di gallo
+globo amaranto
+Saltbush
+barbabietola
+barbabietola
+Saltwort
+verbena sabbia
+sabbia del deserto verbena
+bouganville
+le quattro
+comune a quattro ore
+California alle quattro
+saguaro
+cereus notte fioritura
+echinocactus
+riccio cactus
+cactus barile d'oro
+epiphyllum
+barrel cactus
+cereus notte fioritura
+pulsante mescal
+mammillaria
+palla di piume
+garambulla
+nopal
+Fico d'India
+Cholla
+nopal
+cactus di Natale
+cereus notte fioritura
+granchio cactus
+pokeweed
+colpire
+rose muschio
+bellezza primavera
+Virginia primavera bellezza
+Bitterroot
+giglio rospo
+portulaca invernale
+fiore di fiamma
+cappero comune
+spiderflower
+senape aglio
+alyssum
+roccia crescione
+razzo giallo
+cavolo selvatico
+cavolo
+cavolo cappuccio
+verza
+cavolini di Bruxelles
+cavolfiore
+broccoli
+Collard
+cavolo rapa
+rapa
+cime di rapa
+cavolo cinese
+stupro
+colza
+grembiule della signora
+crinkleroot
+violacciocca
+violacciocca
+damasco viola
+candytuft
+guado del tintore
+dolce alyssum
+Malcolm magazzino
+azione
+Brompton magazzino
+bladderpod
+impianto di ravanello
+charlock snodato
+ravanello
+ravanello
+campo di senape
+siepe senape
+campo pennycress
+papavero
+Islanda papavero
+papavero spinoso
+Islanda papavero
+papavero orientale
+papavero
+papavero da oppio
+papavero spinoso
+papavero messicano
+celandine
+Corydalis
+California poppy
+corno papavero
+blue poppy
+papavero Welsh
+Matilija papavero
+papavero vento
+papavero celandine
+cuore sanguinante
+brache di Dutchman
+composito
+impianto bussola
+eterno
+achillea
+millefoglie
+ageratum
+ageratum comune
+perlaceo eterno
+mayweed
+giallo camomilla
+mais camomilla
+bardana
+grande bardana
+margherita africana
+margherita
+Silversword
+arnica
+Arnica montana
+artemisia
+artemisia
+assenzio dolce
+artemisia comune
+astro
+aster folta
+Heath aster
+New England aster
+Michaelmas daisy
+prateria aster
+Balsamorhiza
+margherita
+margherita comune
+bur calendula
+tickseed girasole
+Swan River margherita
+calendola
+calendula comune
+Aster di Cina
+cardo
+cardo muschio
+stemless cardo Carline
+cardo carline comune
+catananche
+dusty Miller
+fiordaliso
+knapweed
+grande knapweed
+cardo di Barnaby
+camomilla
+crisantemo
+mais calendula
+corona margherita
+cicoria
+cicoria
+cardo pennacchio
+Canada cardo
+cardo di campo
+cardo lanosi europee
+cardo Bull
+mistflower
+horseweed
+coreopsis
+Calliopsis
+cosmo
+carciofo
+cardone
+dalia
+crisantemo del fioraio
+Capo calendula
+coneflower
+globo cardo
+Brittlebush
+fireweed
+fleabane
+margherita fleabane
+margherita arancia
+mare margherita
+Philadelphia fleabane
+erbaccia Joe-Pye
+Boneset
+erbaccia Joe-Pye
+margherita blu
+gaillardia
+gazania
+fiore tesoro
+margherita africana
+Gerbera
+deserto di girasole
+Cudweed
+Gumweed
+Helenium autumnale
+girasole
+palude di semi di girasole
+girasole comune
+girasole gigante
+Prairie girasole
+topinambur
+topinambur
+strawflower
+Heliopsis
+strawflower
+hawkweed
+di gatto orecchio
+Inula
+giardino lattuga
+foglia di lattuga
+tidytips
+stella alpina
+margherita comune
+margherita comune
+Shasta margherita
+blazing Star
+margherita africana
+dolce falsa camomilla
+cardo cotone
+cineraria
+butterbur
+Oxtongue
+hawkweed
+Stevia
+fleabane
+coneflower
+cappello messicano
+echinacea lungo testa
+prateria coneflower
+coneflower
+Rudbeckia
+coneflower cutleaved
+cotone lavanda
+dusty Miller
+Butterweed
+salvia argento
+Rosinweed
+cardo mariano
+verga d'oro
+goldenrod prato
+sonchus
+Stevia
+aster Stokes '
+calendula
+tagete africano
+calendula francese
+margherita verniciata
+Partenio
+dusty Miller
+tanaceto
+il dente di leone comune
+il dente di leone verde
+girasole messicano
+Pasqua margherita
+salsify gialla
+salsify
+salsify prato
+farfara
+wingstem
+margherita Cowpen
+Ironweed
+perpetuino
+zinnia
+zinnia bianco
+campanula
+strisciante campanula
+campana di Canterbury
+campanula cluster
+campane di pesco
+rampion
+tussock campanula
+orchidea
+orchis
+orchis maschi
+farfalla orchidea
+Aerides
+palude rosa
+bletia
+bletilla striata
+Brassavola
+orchidea ragno
+orchidea ragno
+Caladenia
+erba rosa
+Calipso
+cattleya
+helleborine
+helleborine rosso
+rana orchidea
+Coelogyne
+radice di corallo
+radice di corallo macchiato
+cymbid
+Scarpetta di Venere
+fiore mocassino
+comuni della signora-pistone
+pantofola della signora di colore giallo
+pantofola grande della signora gialla
+pantofola della California signora
+pantofola della signora di montagna
+palude orchidea
+orchidea maculata comune
+dendrobium
+disa
+farfalla orchidea
+farfalla orchidea
+helleborine
+Epipactis helleborine
+flusso di orchidea
+serpente a sonagli piantaggine
+orchidea fragrante
+a breve spronato orchidee fragranti
+orchis frange
+rein orchidea
+palude orchidea sfogo
+Orchis bianco frange
+orchidea viola frange
+orchidea lacero
+orchidea viola frange
+Texas picco viola
+orchidea lucertola
+Laelia
+Liparis
+twayblade
+fen orchidea
+twayblade
+Masdevallia
+orchidea viola del pensiero
+odontoglossum
+oncidium
+ape orchidea
+volare orchidea
+orchidea ragno
+orchidea ragno presto
+scarpetta di Venere '
+Phaius
+falena orchidea
+impianto di farfalla
+minore orchidea farfalla
+maggiore orchidea farfalla
+croco indiano
+Pogonia
+farfalla orchidea
+Psychopsis Papilio
+casco orchidea
+Sobralia
+trecce da donna
+vite Augur
+trecce signore europee
+Stanhopea
+Stelis
+volare orchidea
+vanda
+blu orchidea
+vaniglia
+orchidea vaniglia
+patata dolce
+primula
+Inglese primula
+primula
+oxlip
+polianto
+mordigallina
+pimpernel scarlatto
+ciclamino
+ciclamino
+viola acqua
+loosestrife
+moneywort
+piombaggine
+lavanda mare
+graminacea
+erba
+erba alta
+erbe
+erba di capra
+wheatgrass
+coda di volpe prato
+coda di volpe
+erba alta di avena
+toetoe
+cereali di avena
+bromo
+Grama
+erba di bufalo
+canna di erba
+piuma canna di erba
+erba della pampa
+erba frutteto
+segale selvatica
+festuca
+erba velluto
+erba d'orzo
+loglio perenne
+loglio perenne
+erba interruttore
+erba oca
+dallisgrass
+erba fontana
+erba barba scopa
+Bluestem
+segale
+bristlegrass verde
+malacca
+saggina
+sorgo
+cordgrass
+erba Sant'Agostino
+Grano
+mealie
+Mais
+Popcorn
+zoysia
+bambù gigante
+impianto ombrello
+nutgrass
+erba di cotone
+comune erba di cotone
+pandanus
+pino di vite tessile
+nocciolo
+zucca
+zucca
+zucca di estate
+zucca gialla
+zucca spaghetti
+zucca
+zucca Acorn
+Hubbard zucca
+crookneck inverno
+Cushaw
+prateria zucca
+Melone dolce
+Cantalupo
+melone d'inverno
+melone rete
+zucca bottiglia
+luffa
+luffa
+loofa
+balsamo mela
+pera di balsamo
+lobelia
+malva muschio
+malva comune
+ocra
+ocra
+abelmosk
+acero fioritura
+velvetleaf
+altea rosata
+rosa malva
+althea
+marshmallow
+rosa malva
+rosa di cotone
+Mahoe
+lacebark
+Pavonia
+cespuglio di ibisco
+checkerbloom
+albero di seta-cotone rosso
+baobab
+capoc
+durian
+ciliegio giamaicano
+albero di Panama
+albero di fiamma
+albero di fiamma
+Kurrajong
+albero parasole cinese
+faggio rosso
+impianto specchio
+albero d'argento
+cacao
+tiglio
+tiglio americano
+Linden giapponese
+calce argento
+erba
+protea
+vaso di miele
+banksia
+grevillea
+Waratah
+Waratah
+casuarina
+pino australiano
+erica arborea
+Heath inverno
+campana erica
+corbezzolo
+Kalmia
+mountain Laurel
+azalea alpina
+albero acetosa
+erica viola
+rododendro
+rosebay
+palude azalee
+azalea
+mirtillo
+cowberry
+Shortia
+pipsissewa
+pipe indiano
+faggio
+faggio rosso
+faggio americano
+pianto di faggio
+faggio giapponese
+castagno americano
+Allegheny chinkapin
+Ozark chinkapin
+quercia castagno
+quercia giapponese
+faggio australe
+Nuova Zelanda faggio
+faggio nero
+ghianda
+quercia
+quercia dal vivo
+costa quercia dal vivo
+quercia bianca americana
+cerro europea
+quercia canyon
+quercia rossa del sud
+quercia bianca Oregon
+quercia ghiaia
+quercia BlueJack
+California rovere nero
+quercia di alloro
+quercia bianca California
+fresa quercia
+quercia blackjack
+castagno rovere palude
+quercia chinquapin
+quercia mirto
+quercia acqua
+rovere
+cesto di quercia
+quercia pin
+quercia salice
+farnia
+quercia rossa nord
+quercia Shumard
+Post oak
+quercia da sughero
+rovere nero
+quercia dal vivo del sud
+interni in rovere dal vivo
+betulla
+betulla gialla
+betulla bianca americana
+betulla grigio
+Betulla bianca
+peronospora betulla
+betulla nera
+palude betulla
+ontano
+Common alder
+ontano bianco
+ontano liscia
+carpine
+carpino bianco
+Vecchio Mondo carpino nero
+carpino nero orientale
+nocciola
+centaurea
+minore centaury
+prateria genziana
+Genziana
+Gentianella
+genziana chiusi
+genziana chiusi
+grande genziana gialla
+Marsh genziana
+agueweed
+genziana frange
+Ulivo
+oliva
+oliva
+albero frangia
+cespuglio frangia
+forsizia
+cenere
+frassino bianco
+frassino maggiore
+Oregon cenere
+frassino nero
+orniello
+cenere rosso
+cenere blu
+montagna di cenere
+cenere zucca
+gelsomino
+gelsomino d'inverno
+gelsomino comune
+ligustro comune
+lilla comune
+zampa di canguro
+Hazel inverno
+Fothergilla
+Liquidambar
+dolce gum
+albero di ferro
+noce
+Noce nera
+noce inglese
+hickory
+bitternut
+mockernut
+Galletto
+noce caucasico
+mangrovia bianco
+loosestrife
+salcerella
+crape mirto
+Regina di crape mirto
+mirto
+mirto comune
+bayberry
+visciola
+Suriname ciliegia
+feijoa
+jaboticaba
+guaiava
+guaiava
+albero della gomma
+gomma rossa
+gomma rossa
+fiume gomma rossa
+neve gomma
+cenere alpino
+gomma blu
+gomma al profumo di limone
+Mallee nero
+foresta gomma rossa
+montagna di cenere
+Chiodo di garofano
+Tupelo
+gum acida
+willowherb
+fireweed
+California fuchsia
+fucsia
+enotera
+primula comuni sera
+sundrops
+Missouri primula
+Melograno
+mangrovia
+mezereon
+canna
+Banana
+banane nano
+banane giapponese
+piantaggine
+banane commestibili
+banane abissino
+zenzero comune
+galangal
+shellflower
+begonia
+begonia tuberosa
+angelo ala begonia
+rex begonia
+cera begonia
+ibrido begonia tuberosa
+Erba di San Giovanni
+comune erba di San Giovanni
+grande erba di San Giovanni
+strisciante erba di San Giovanni
+erbaccia klammath
+uva spina cinese
+papaia
+cisto
+Granadilla
+Granadilla
+maypop
+Love-in-a-mist
+reseda
+Mignonette
+viola
+viola
+campo viola del pensiero
+cane viola
+viola cornuta
+due occhi viola
+viola a volo d'piedi
+viola pallido
+siepe viola
+ortica
+ramiè
+canapa indiana
+gelso
+gelso bianco
+albero del pane
+jackfruit
+Figura
+Fig d'oro
+banyan
+pipal
+albero India-gomma
+carta di gelso
+olmo
+olmo americano
+olmo campestre
+cedro olmo
+strega olmo
+dell'olmo olandese
+olmo inglese
+olmo siberiano
+Elm settembre
+hackberry
+hackberry europea
+Sugarberry
+iris barbuto
+iris imberbi
+iris nano
+olandese Iris
+iris fiorentino
+iris tedeschi
+iris giapponesi
+iris persiani
+olandese Iris
+iris nano
+iris spagnoli
+blackberry-giglio
+occhi azzurri erba
+hippeastrum
+narciso
+giunchiglia
+giunchiglia
+giglio montagna
+Canada giglio
+Giglio di tigre
+Columbia giglio di tigre
+Giglio di tigre
+giglio di pasqua
+Turk's-cap
+giglio di leopardo
+Turk's-cap
+giglio africano
+porro selvatico
+cipolla
+scalogno
+cipolla annuendo
+erba cipollina
+aglio selvatico
+erba cipollina aglio
+Kniphofia
+impianto di poker
+mazza rovente
+asparago
+asparagi felce
+asfodelo
+aspidistra
+globo giglio
+sego giglio
+camas
+camas comuni
+dogtooth viola
+lingua di vipera gialla
+fulvo giglio
+ghiacciaio giglio
+fritillary
+corona imperiale
+fritillary testa di serpente
+tulipano
+tulipano nano
+Tulipa gesneriana
+Darwin tulipano
+Gloriosa
+limone giglio
+Giacinto comune
+star-di-Bethlehem
+Muscari
+Giacinto uva comune
+Giacinto nappa
+scilla
+scilla primavera
+scilla
+pungitopo
+erba squaw
+camas morte
+erba Paris
+Clintonia
+falso mughetto
+falso mughetto
+Di Salomone-seal
+bellwort
+strawflower
+Agave
+agave americana
+maguey
+maguey
+albero di cavolo
+dracaena
+tuberosa
+Sansevieria
+mother-in-law lingua di
+baionetta Spagnolo
+baionetta Spagnolo
+Joshua tree
+Ago di Adam
+erba orso
+pugnale Spagnolo
+trifoglio acqua
+cespuglio di farfalla
+gelsomino giallo
+lino
+uccello del paradiso
+ebano montagna
+Cassia
+Albero di pioggia dorata
+carruba
+poinciana reale
+robinia
+miele di robinia
+pianta del caffè Kentucky
+Logwood
+Palo Verde
+tamarindo
+falso indaco
+falso indaco
+corteccia cavolo
+antillide
+veccia di latte
+indaco selvaggio
+blu indaco falso
+farfalla pisello
+albero di Giuda
+redbud
+redbud occidentale
+cece
+cece
+desert pea
+farfalla pisello
+pisello blu
+axseed
+crotalaria
+ginestra comune
+palissandro brasiliano
+albero di corallo
+Ceibo
+albero di corallo indiano
+albero di sughero
+ginestra
+woodwaxen
+soia
+pisello selvaggio
+spiaggia pisello
+lenticchia
+trifoglio piede d'uccello
+lupino
+albero lupin
+lupino selvatico
+Bluebonnet
+Texas Bluebonnet
+medico
+luppolina
+fieno santo
+tumbleweed
+palo di fagioli
+fagiolino
+fagioli di cera
+corridore scarlatto
+fagiolo di Lima
+fagiolo Sieve
+pisello
+giardino pisello
+commestibili-pisello
+Pisello Sugar snap
+roble
+fagiolo alato
+kudzu
+robinia
+albero pagoda giapponese
+fagioli mescal
+Kowhai
+giada vite
+falso lupino
+trifoglio piede d'uccello
+ginestra
+veccia
+veccia trapuntata
+Fava
+snailflower
+fagiolo dall'occhio
+fagiolo dall'occhio
+fagiolo asparago
+glicine giapponese
+glicine americani
+palma
+sago palm
+Palm piuma
+palma
+palma nana
+Areca
+zucchero di palma
+palmyra
+Palm vino
+noce di cocco
+carnauba
+Caranday
+olio di palma
+olio di palma africana
+cavolo di palma
+cavolo di palma
+dattero
+palma di bambù
+signora di palma
+palma a ventaglio in miniatura
+Palm royal
+cavolo di palma
+cavolo palmetto
+saw palmetto
+paglia di palma
+Palm Key
+piantaggine a foglia larga
+Eriogonum
+rabarbaro
+impianto di torta
+dock acida
+Commelina
+spiderwort
+ananas
+Giacinto d'acqua
+waterweed
+erba nastro
+rosa
+anca
+banksia rosa
+rosa damascena
+Rosa Mosqueta
+Agrimonia
+raccolta-pidocchi
+fioritura di mele cotogne
+japonica
+cotoneaster
+pruno
+Mela cotogna
+camedrio alpino
+nespolo
+spiaggia di fragola
+avens
+fumo prateria
+albero di mele
+Mela
+mela selvatica
+crab apple
+granchio siberiano
+granchio selvaggio
+mela granchio del Sud
+Iowa granchio
+Bechtel granchio
+nespola
+prugna
+Allegheny prugna
+prugna comune
+albicocca giapponese
+albicocca comune
+ciliegia
+ciliegia selvatica
+ciliegia dolce
+cherry plum
+visciola
+mandorlo
+mandorla
+fuji
+fioritura di mandorle
+albero hagberry
+pin ciliegio
+pesca
+amarena
+fiori di ciliegio
+ciliegio orientale
+Ciliegio giapponese fioritura
+fioritura di mandorle
+chokecherry
+pyracantha
+Pera
+albero da frutta
+lampone
+lampone selvatico
+lampone nero
+Salmonberry
+montagna di cenere
+Rowan
+sorbe
+ciavardello
+spirea
+corona da sposa
+caffè
+caffè arabica
+bedstraw
+asperula
+bedstraw gialla
+Cape gelsomino
+nespolo selvaggio
+abelia
+caprifoglio giallo
+caprifoglio giapponese
+caprifoglio
+tromba caprifoglio
+cespuglio di mirtilli
+guelder rose
+Weigela
+cardo
+cardo comune
+scabious
+dolce scabious
+campo scabious
+jewelweed
+geranio
+cranesbill
+geranio selvatico
+cranesbill prato
+erba robert
+geranio piede di colomba
+rosa geranio
+geranio pesce
+edera geranio
+storksbill
+albero elefante
+gumbo-limbo
+Acerola
+Chinaberry
+neem
+faggio nativo
+mogano dell'Honduras
+acetosella comune
+Bermuda buttercup
+strisciante oxalis
+legno viola acetosa
+carambole
+milkwort comune
+agrume
+arancia
+arancio amaro
+bergamotto
+pomelo
+Uva
+mandarino
+mandarino
+Clementina
+satsuma
+arancio dolce
+Limone
+dolce al limone
+lime
+kumquat
+albero di sughero
+pungente cenere
+ailanto
+albero del cielo
+nasturzio
+giardino nasturzio
+cespuglio nasturzio
+caltrop
+salice
+salice bianco
+salice d'oro
+Salice piangente
+figa salice
+salice di capra
+salice palude
+baia di salice
+salice viola
+vimini comune
+pioppo
+pioppo di balsamo
+pioppo bianco
+pioppo nero
+Cottonwood
+Cottonwood Orientale
+pioppo nero
+pioppo tremolo
+Quaking Aspen
+Aspen quaking americano
+Loranthaceae
+vischio
+vischio
+soapberry
+albero Cina
+longan
+litchi
+rambutan
+pachysandra
+albero mandrino
+Wahoo
+cespuglio di fragole
+acero
+acero d'argento
+acero canadese
+acero rosso
+Moosewood
+Oregon acero
+acero vite
+acero siepe
+Norvegia acero
+sicomoro
+box Elder
+California Box Elder
+acero giapponese
+agrifoglio
+uva ursina
+inkberry
+americano agrifoglio
+anacardio
+Mango
+mastice
+sommacco
+Sommacco
+albero del pepe
+veleno cenere
+Edera velenosa
+Buckeye
+cachi
+persimmon giapponese
+cachi americano
+spinoso
+spinoso sud
+Star apple
+balata
+sapodilla
+albero marmellata
+Snowbell
+albero d'argento-bell
+pianta carnivora
+pianta carnivora
+pianta carnivora comune
+pianta carnivora tropicale
+drosera
+acchiappamosche di Venere
+pianta carnivora australiano
+sedo
+stonecrop
+hortensia
+fall-Blooming Hydrangea
+Deutzia
+Filadelfo
+arancione finto
+sassifraga
+giallo sassifraga montagna
+sassifraga prato
+sassifraga viola
+stella sassifraga
+astilbe
+astilbe nano
+spirea
+bergenia
+corona da sposa
+boschi stelle
+Parnassia
+palude stelle
+foamflower
+ribes
+ribes
+uva spina
+Platano
+aereo Londra
+sicomoro americano
+California Sycamore
+phlox
+muschio rosa
+culatta di orso
+Rudbeckia
+catalpa
+desert Willow
+borragine
+anchusa
+bugloss
+Elm Spagnolo
+Cinese dimenticare-me-not
+blueweed
+puccoon
+Virginia Bluebell
+giardino Forget-me-not
+non ti scordar di mé
+consolida
+consolida comuni
+convolvolo
+convolvolo
+campo convolvolo
+tremare
+vite di cipresso
+fiore di Luna
+rosso morning-glory
+gloria di mattina giapponese
+Achimenes
+Aeschynanthus
+gloxinia
+campana di Canterbury
+violetta africana
+Streptocarpus
+Hydrophyllum
+campane gialle
+Nemophila
+bambino blu-eyes
+cinque-spot
+Scorpionweed
+anice issopo
+tromba
+strisciante tromba
+erigere tromba
+tromba piramide
+basilico selvaggio
+coleus
+ortica verniciata
+ortica canapa
+edera terrestre
+menta romana
+issopo
+ortica
+bianco ortica morti
+henbit
+Inglese lavanda
+lavanda francese
+Spike lavanda
+Dagga
+motherwort
+maggiorana
+melissa
+acqua-menta
+menta piperita
+menta verde
+menta mela
+menta romana
+Monarda
+balsamo ape
+horsemint
+balsamo ape
+erba gattaia
+basilico
+Phlomis
+Physostegia
+Plectranthus
+menta montagna
+rosmarino
+salvia sclarea
+salvia viola
+cancerweed
+salvia comune
+Clary prato
+Clary
+menta messicano
+salvia selvatica
+zucchetto
+siepe ortica
+camedrio
+timo
+timo comune
+timo selvatico
+snapdragon Mediterraneo
+calceolaria
+pennello indiano
+deserto pennello
+gigante pennello rosso
+digitale
+foxglove comune
+toadflax blu
+toadflax
+fiore pallone
+falena verbasco
+verbasco comune
+veronica
+veronica campo
+brooklime
+veronica mais
+brooklime
+germander veronica
+veronica acqua
+veronica comune
+solano
+ortica cavallo
+vite di patate
+cespuglio viola
+tromba di angelo
+tromba di angelo
+pepe uccello
+gelsomino notturno
+giusquiamo
+Christmasberry
+pomodoro prugna
+cupflower
+petunia
+Petunia ibrida
+cape uva spina
+tomatillo
+tomatillo
+calice vite
+verbena
+mangrovia nera
+mangrovia bianco
+mangrovia nera
+teak
+euforbia
+snow-on-the-mountain
+Cypress spurge
+frondoso euforbia
+poinsettia
+legno euforbia
+Corona di spine
+Crotone
+ricino
+ortica euforbia
+manioca
+manioca amara
+manioca
+candlenut
+euforbia pantofola
+camelia
+aneto
+giardino angelica
+Angelica sylvestris
+prezzemolo mucca
+Astrantia
+maggiore imperatoria
+cumino
+Hemlock acqua
+cicuta
+carota selvatica
+mare agrifoglio
+finocchio comune
+pastinaca mucca
+levistico
+Finocchiella
+prezzemolo
+prezzemolo italiana
+corniolo
+corniolo bianco comune
+vimini rosso
+Dogwood comune europeo
+bunchberry
+corniolo
+valeriana
+valeriana comune
+valeriana rossa
+felce filmy
+fioritura felce
+felce reale
+trifoglio acqua
+fioritura felce
+oidio
+segale cornuta
+dead-mans-dita
+Earthball
+Sclerodermia citrinum
+mucor
+muffa melma
+vero stampo melma
+fungo bianco
+peronospora
+Pythium
+Phytophthora infestans
+tartufo
+fungo del club
+fungo corallo
+fungo dente
+lichene
+Lecanora
+barba di licheni
+renne
+Islanda muschio
+fungo
+vero fungo
+basidiomicete
+fungo
+agarico
+fungo
+fungo
+fungo velenoso
+fungo cavallo
+fungo prato
+shiitake
+ovoli
+falso Deathcap
+volare agarico
+cap morte
+arrossendo fungo
+distruggendo angelo
+gallinacci
+jack-o-lantern fungo
+cap inchiostro
+shaggymane
+Milkcap
+fairy-anello fungo
+fairy ring
+ostrica fungo
+Pholiota aurea
+nameko
+Pholiota squarrosa
+fungo branchia
+Entoloma lividum
+Lepiota
+fungo di parasole
+ombrellone americano
+Lepiota clypeolaria
+blewits
+fungo di sabbia
+fungo cervi
+fungo di paglia
+clavipes Clitocybe
+Clitocybe irina
+fungo inverno
+micelio
+fungo sac
+ascomicete
+lievito
+discomycete
+Sarcoscypha coccinea
+aleuria aurantia
+Morel
+Morel comune
+disciotis Venosa
+Verpa
+Verpa bohemica
+Morel nero
+Morchella semilibera
+falso Morel
+Helvella
+Gyromitra
+Gyromitra esculenta
+gigas Gyromitra
+gasteromycete
+stinkhorn
+stinkhorn comune
+cane stinkhorn
+vescia
+palloncino gigante
+Earthstar
+fungo Uccello-nido
+polypore
+staffa fungo
+gallina-of-the-woods
+Polyporus squamosus
+fungo bistecca
+agarico
+porcini
+Boletus chrysenteron
+Boletus edulis
+Boletus luridus
+fungo gelatina
+burro di streghe
+Jew's-ear
+ruggine del grano
+fuliggine coperto
+bunt
+Hygrophorus russula
+Cortinarius armillatus
+muffa
+muffa
+monilia
+pianta della casa
+succulento
+coltivare
+mosto
+arillo
+sporofillo
+impianti di latifoglie
+vite
+viticcio
+intoppo
+albero
+albero in legno
+pergolato
+albero di fagioli
+Pollard
+alberello
+albero di ombra
+conifera
+Bonsai
+mesophyte
+pianta palustre
+strangolatore
+radice
+radice prop
+stolone
+rachide
+fuga
+umbella
+picciuolo
+grappolo di fiori
+pannocchia
+orecchio
+spadix
+frutta
+seme
+fagiolo
+Noce
+bacca
+pomacee
+spinoso bacche
+cascara buckthorn
+Redberry
+uva volpe
+Muscadine
+uva Sauvignon
+Riesling
+Boston edera
+peperomia
+pinna
+fronda
+bracteole
+involucro
+foglia lineari
+foglia crenate
+branchlet
+polypody
+polypody comune
+polypody d'oro
+felce staghorn comune
+asplenio
+asplenio nero
+nido di uccello felce
+felce camminare
+hart's-lingua
+felce scala
+cervi felce
+argento albero di felce
+morbido albero di felce
+scudo felce
+legno felce
+felce maschio
+felce legno marginale
+signora felce
+agrifoglio felce
+felce vescica fragili
+quercia felce
+calcare felce
+felce sensibile
+felce Natale
+agrifoglio felce
+morbido felce scudo
+woodsia
+Boston felce
+capelvenere
+capelvenere comune
+capelvenere americano
+felce di bambù
+felce d'argento
+freno di ragno
+angiopteris
+equiseto
+equiseto comune
+palude equiseto
+rush purga
+club di muschio
+cedro terra
+abete terra
+erba coda di volpe
+earthtongue
+felce montagna
+felce di faggio lungo
+miele funghi
+palude milkweed
+euforbia appariscente
+erbaccia farfalla
+impianto di cera
+Stapelia
+stephanotis
+cordame
+estremo
+forma di foglia
+matita
+linea
+lampadina
+cilindro
+forma rotonda
+cuore
+onda
+gancio
+Busta
+ansa
+cono
+imbuto
+cerchio
+cerchio
+anello
+ciclo continuo
+elica
+ellisse
+quadrato
+triangolo
+parallelo
+stella
+pentagono
+esagono
+Ottagono
+campana
+pancia
+arco
+mezzaluna
+equilibrio
+conformazione
+toroide
+colonna
+barile
+tubo
+goccia di rugiada
+cresta
+cerchione
+grinza
+fessura
+fessura
+roulette
+albero
+stemma
+block
+ovoid
+tetrahedron
+cube
+tail
+tongue
+wedge
+keel
+place
+herpes
+wall
+charcoal
+rock
+gravel
+leopard
+bricks and mortar
+choline
+concrete
+soil
+litter
+blood agar
+hip tile
+ice
+inositol
+pantothenic acid
+paper
+pantile
+blacktop
+paving
+sand
+stucco
+tear gas
+toilet tissue
+linseed
+vitamin
+vitamin A1
+vitamin B1
+vitamin B12
+vitamin B2
+vitamin B6
+vitamin Bc
+niacin
+vitamin D
+biotin
+vitamin K1
+vitamin P
+vitamin C
+chipboard
+knothole

@@ -1,0 +1,36 @@
+<!DOCTYPE html> <html lang="en">
+<html>
+<head>
+    <title>Website</title>
+	<style>
+		@import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);
+		body{
+		    text-align: center;    
+		}
+		h1{
+		    font-family: 'Amatic SC', cursive;
+		    font-weight: normal;
+		    color: #8ac640;
+		    font-size: 2.5em;
+		}
+	</style>
+</head>
+<body>
+
+	<div class="block1">
+	<h1>Hello! Upload an image for input and see the Brain process it: </h1>
+	<h1>{{error_msg}}</h1>
+    <form action="/uploader_ios" method="POST" enctype="multipart/form-data">
+    	<input type="file" name="imagefile">
+        <input type="submit">
+    </form>
+    {% if processed_file %}
+  		<h1>I saw:</h1>
+		<img src="data:image/png;base64,{{processed_file}}">
+  		<h1>(English): {{ret_dta}}</h1> 
+  		<h1>(Spanish): {{ret_dta_es}}</h1> 
+  		<h1>(Turkish): {{ret_dta_tr}}</h1> 
+	{% endif %}
+ 
+</body>
+</html>
