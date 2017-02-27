@@ -9,7 +9,10 @@ import urllib
 
 backend_server = 'http://appresnet.uksouth.cloudapp.azure.com'
 cognitive_server = 'https://westus.api.cognitive.microsoft.com/vision/v1.0/analyze?visualFeatures=Description&language=en'
-cogn_key = 'e07127324d3e47f39164dd8daeabd358'
+cogn_key = 'SECRET'
+cogn_head = {
+    'Ocp-Apim-Subscription-Key': cogn_key,
+    'Content-Type': 'application/octet-stream'}  
 
 @app.route("/")
 def index():
@@ -27,7 +30,26 @@ def return_languages():
 def upload_file_ios():
     classification = json.dumps(requests.post(url=backend_server + "/uploader_ios", files=request.files).json())
     return classification
-    
+
+@app.route("/uploader_mobile", methods=['POST'])
+def upload_file_mobile():
+    # Convert stream to pic
+    img = Image.open(BytesIO(request.files['imagefile'].read())).convert('RGB')
+    img = ImageOps.fit(img, (224, 224), Image.ANTIALIAS)
+    ret_imgio = BytesIO()
+    img.save(ret_imgio, 'PNG')
+    files = {'imagefile': ret_imgio.getvalue()}
+    imagefile = files['imagefile']
+    # Prepare requests
+    rs = (grequests.post(url=backend_server + "/uploader_ios", files=files),  # resnet
+          grequests.post(url=cognitive_server, headers=cogn_head, data=imagefile))  # vision
+    # Submit async
+    rsp_resnet, rsp_vision_api = grequests.map(rs)
+    # Results
+    classification = rsp_resnet.json()
+    classification['Caption'] = rsp_vision_api.json()['description']['captions'][0]['text']
+    return json.dumps(classification)
+
 @app.route("/uploader", methods=['POST'])
 def upload_file():
     
@@ -43,13 +65,9 @@ def upload_file():
         error_msg = "Please choose an image file"
         return render_template('layout.html', **locals())
     
-    # Vision API header
-    headers = {'Ocp-Apim-Subscription-Key': cogn_key,
-               'Content-Type': 'application/octet-stream'}    
-    
-    # Preapre requests
+    # Prepare requests
     rs = (grequests.post(url=backend_server + "/uploader_ios", files=files),  # resnet
-          grequests.post(url=cognitive_server, headers=headers, data=imagefile))  # vision
+          grequests.post(url=cognitive_server, headers=cogn_head, data=imagefile))  # vision
           
     # Submit async
     rsp_resnet, rsp_vision_api = grequests.map(rs)
