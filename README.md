@@ -11,17 +11,17 @@ This project goes through an end-to-end example of using Azure services to:
 
 ### App-View
 
-![alt tag](demo/mob1.jpg)
-![alt tag](demo/mob2.jpg)
-![alt tag](demo/mob3.jpg)
+![alt tag](demo/mob1.PNG)
+![alt tag](demo/mob2.PNG)
+![alt tag](demo/mob3.PNG)
 
 ### Infrastructure
 
-![alt tag](demo/main_arch.jpg)
-![alt tag](demo/arch.jpg)
+![alt tag](demo/main_arch.JPG)
+![alt tag](demo/arch.JPG)
 
 ### Further Examples
 
-![alt tag](demo/iphones.jpg)
+![alt tag](demo/iphones.JPG)
 
 
