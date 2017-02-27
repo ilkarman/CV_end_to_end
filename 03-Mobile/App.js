@@ -9,15 +9,17 @@ import {
   TouchableOpacity,
   ActivityIndicator,
   Image,
-  Dimensions
+  Dimensions,
+  AppRegistry
 } from 'react-native';
 
+// Using latest react-navigation for X-compatibility
+// https://reactnavigation.org
+import { StackNavigator } from 'react-navigation';
 // https://github.com/marcshilling/react-native-image-picker
 import ImagePicker from 'react-native-image-picker';
 
-var LanguageSelection = require('./LanguageSelection');
-
-class ClassificationPage extends Component {
+class HomeScreen extends Component {
 
   constructor(props) {
     super(props);
@@ -26,20 +28,19 @@ class ClassificationPage extends Component {
       jsonClassification: null, // Returned classification
       classificationEnglish: ' ', // Keep size fixed
       classificationTranslated: ' ', // Keep size fixed
-      translateTo: 'Spanish',  // Default language
-      helper: 'Tap on the square below to start',
+      classificationDetailed: ' ',
+      enableDetailed: false, // Vision API
+      translateTo: 'None',  // Default language
       isLoading: false,
-      flag_img: 'es' // Loaded with xcode for speed
+      flag_img: null // Loaded with xcode for speed
     };
-    this.onLangChange = this.onLangChange.bind(this);
   }
-
+  
   onLangChange(lang, icon) {
     // Change icon
-    let flg_url = 'https://github.com/stevenrskelton/flag-icon/raw/master/png/36/country-4x3/'
     this.setState({
       translateTo: lang,
-      flag_img: flg_url.concat(icon)
+      flag_img: icon  // Added to xcode
     })
     // Change text if response exists
     let jsonresp = this.state.jsonClassification 
@@ -49,45 +50,42 @@ class ClassificationPage extends Component {
       })
     }
   }
-  
-  handleLanguageResponse(response) {
-    // Go to selection screen
-    this.props.navigator.push({
-      title: 'Languages',
-      component: LanguageSelection,
-      passProps: {
-        languages: response,
-        func: this.onLangChange // Push parent function
-      },
-    });
-  }
 
-  showAvailableLanguages(event) {
-    fetch('http://csabyy.uksouth.cloudapp.azure.com:5005/languages').
-    then((response) => response.json())
-    .then(responseJson => this.handleLanguageResponse(responseJson.languages))
-    .catch((error) => {
-      console.error(error);
+  onDetailChange(detail_switch) {
+    this.setState({
+      enableDetailed: detail_switch
     })
   }
 
+  showSettings(event) {
+    const { navigate } = this.props.navigation;
+    navigate('Settings',
+      {
+        funcLangChange: this.onLangChange.bind(this),
+        funcDetailChange: this.onDetailChange.bind(this),
+        detailedSwitch: this.state.enableDetailed,
+        translateTo: this.state.translateTo
+      })
+  }
+
   sendImageToServer(body) {
-    fetch('http://csabyy.uksouth.cloudapp.azure.com:5005/uploader_ios', {
+    fetch('http://ilkarmanwhatsthis.azurewebsites.net//uploader_mobile', {
       method: 'POST',
       body: body
     }).then((response) => response.json())
     .then((responseJson) => {
+      console.log(responseJson)
       var lk = this.state.translateTo
       this.setState({
         isLoading: false,
         jsonClassification: responseJson,
         classificationEnglish: responseJson['English'],
         classificationTranslated: responseJson[lk],
-        helper: "Tap on the square to try another"
+        classificationDetailed: responseJson['Caption']
       });
     })
     .catch((error) => {
-      console.error(error);
+      //console.error(error);
       this.setState({
         isLoading: false,
         jsonClassification: null,
@@ -102,27 +100,26 @@ class ClassificationPage extends Component {
       jsonClassification: null,
       classificationEnglish: ' ',
       classificationTranslated: ' ',
-      helper: 'Running ...'
+      classificationDetailed: ' ',
     });
-
     var photo = {
       uri: imgUri,
       type: 'image/jpeg',
       name: 'photo.jpg'
     };
-
     var body = new FormData()
     body.append('imagefile', photo)
-
     this.sendImageToServer(body)
   }
 
   selectPhotoTapped() {
     // Adjust quality?
     const options = {
-      quality: 1.0,
-      maxWidth: 500,
-      maxHeight: 500,
+      quality: 0.75,
+      maxWidth: 400,
+      maxHeight: 400,
+      mediaType: 'photo',
+      noData: true,
       storageOptions: {
         skipBackup: true
       }
@@ -152,15 +149,21 @@ class ClassificationPage extends Component {
   }
 
   render() {
+    const { navigate } = this.props.navigation;
     var spinner = this.state.isLoading ?
       ( <ActivityIndicator
           size='large'/> ) :
       ( <View/>);
     return (
       <View style={styles.container}>
-        <Text style={styles.smalltext}>
-          {this.state.helper}
-        </Text>
+
+        <View style={styles.menubar}>
+          <TouchableOpacity 
+            onPress={this.showSettings.bind(this)}>
+                <Image style={styles.settings} source={{uri:'settings'}} />
+          </TouchableOpacity>
+        </View>
+
         <TouchableOpacity onPress={this.selectPhotoTapped.bind(this)}>
           <View style={[styles.chosenPhoto, styles.photoContainer, {marginBottom: 20}]}>
           { this.state.chosenPicture === null ? <Text>Select a Photo</Text> :
@@ -168,47 +171,93 @@ class ClassificationPage extends Component {
           }
           </View>
         </TouchableOpacity>
-        <View style={{flex:1, marginTop:10}}>
+        <View style={{flex:1, marginTop:5}}>
         {spinner}
         </View>
+
         <View style={styles.languages}>
           <Text numberOfLines={1} style={styles.classification}>
             {this.state.classificationEnglish}
           </Text>
         </View>
-        <View style={styles.results}>
-        <Text style={styles.smalltext}>
-        Tap on flag to change language
-        </Text>
-          <View style={styles.languages}>
-            <TouchableOpacity onPress={this.showAvailableLanguages.bind(this)}>
-              <Image style={styles.flag} source={{uri:this.state.flag_img}} />
-            </TouchableOpacity>
-            <Text numberOfLines={1} style={styles.description}>
-              {this.state.classificationTranslated}
-            </Text>
-          </View>
+
+        <View style={styles.languages}>
+          { (this.state.flag_img !== null) && 
+              (this.state.classificationTranslated !== ' ') ? <Image 
+            style={styles.flag} source={{uri:this.state.flag_img}} /> : null
+          }   
+          <Text numberOfLines={1} style={styles.description}>
+            {this.state.classificationTranslated}
+          </Text>
         </View>
+
+        <View style={styles.languages}>
+          {this.state.enableDetailed === true ? <Text
+            numberOfLines={2} 
+            style={styles.detail}>{this.state.classificationDetailed}</Text> : null }
+        </View>
+
+
       </View>
     );
   }
-
 }
+
+var SettingsPage = require('./SettingsPage');
+var LanguageSelection = require('./LanguageSelection');
+
+//StackNavigator(RouteConfigs, StackNavigatorConfig)
+const AwesomeProject = StackNavigator({
+    Home: {
+      screen: HomeScreen, 
+      navigationOptions: {
+        header: ({
+          visible: false
+        })
+      }},
+    Settings: {
+      screen: SettingsPage, 
+      navigationOptions: {title: 'Settings'}},
+    Languages: {
+      screen: LanguageSelection, 
+      navigationOptions: {title: 'Languages'}}
+  }, 
+    {headerMode: 'screen'} // To allow hiding of navbar
+  );
 
 var device_width = Dimensions.get('window').width;
 
 const styles = StyleSheet.create({
+  menubar:{
+    flexDirection: 'row',
+    alignSelf: 'flex-end',
+    alignItems: 'center',
+    marginBottom: 10
+  },
   flag:{
-    width: 36,
-    height: 27,
+    borderColor: '#9B9B9B',
+    borderWidth: 1 / PixelRatio.get(),
+    width: 24,
+    height: 15,
+    marginRight: 5
+    //width: 30,
+    //height: 21
+  },
+  settings:{
+    width: 21,
+    height: 21,
+    marginLeft: 10,
     marginRight: 10
   },
   results:{
     alignSelf: 'flex-start'
   },
   languages:{
+    alignItems: 'center',
+    justifyContent: 'center',
     flexDirection: 'row',
-    marginBottom: 30
+    marginTop: 15,
+    marginBottom: 15
   },
   smalltext: {
     fontSize: 8,
@@ -216,14 +265,18 @@ const styles = StyleSheet.create({
   },
   classification: {
     color: '#656565',
-    fontSize: 24
+    fontSize: 32
   },
   description: {
     color: '#656565',
-    fontSize: 18
+    fontSize: 26
+  },
+  detail: {
+    color: '#656565',
+    fontSize: 16
   },
   container: {
-    padding: 50,
+    marginTop: 30,
     justifyContent: 'center',
     alignItems: 'center',
   },
@@ -239,4 +292,4 @@ const styles = StyleSheet.create({
   }
 });
 
-module.exports = ClassificationPage;
+AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
