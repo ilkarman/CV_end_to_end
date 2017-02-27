@@ -249,18 +249,11 @@ const styles = StyleSheet.create({
     marginLeft: 10,
     marginRight: 10
   },
-  results:{
-    alignSelf: 'flex-start'
-  },
   languages:{
     alignItems: 'center',
     justifyContent: 'center',
     flexDirection: 'row',
-    marginTop: 15,
-    marginBottom: 15
-  },
-  smalltext: {
-    fontSize: 8,
+    marginTop: 10,
     marginBottom: 10
   },
   classification: {
