@@ -11,7 +11,7 @@ This project goes through an end-to-end example of using Azure services to:
 
 ### iPhone
 
-![alt tag](demo/mob1.PNG) ![alt tag](demo/mob2.PNG) ![alt tag](demo/mob3.PNG)
+![alt tag](demo/mobile_ios.JPG)
 
 ### Web-View
 
