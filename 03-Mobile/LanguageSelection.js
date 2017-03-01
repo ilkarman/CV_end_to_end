@@ -27,7 +27,7 @@ class LanguageSelection extends Component {
  
   rowPressed(rowData) {
     // Push name, icon to parent and close
-    var icon = rowData.icon
+    var icon = rowData.icon.replace('.png','')
     var lang = rowData.name
     if (icon == '') {icon = null}
     this.state.funcLangChange(lang, icon)
@@ -44,7 +44,7 @@ class LanguageSelection extends Component {
         <View>
           <View style={styles.rowContainer}>
             { rowData.icon != '' ? 
-              <Image style={styles.flag} source={{uri:rowData.icon}} /> : null
+              <Image style={styles.flag} source={{uri:rowData.icon.replace('.png','')}} /> : null
             }
             <View style={styles.textContainer}>
               <Text style={styles.title}
