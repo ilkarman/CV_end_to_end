@@ -152,12 +152,13 @@ class HomeScreen extends Component {
     const { navigate } = this.props.navigation;
     var spinner = this.state.isLoading ?
       ( <ActivityIndicator
-          size='large'/> ) :
+          size='small'/> ) :
       ( <View/>);
     return (
       <View style={styles.container}>
 
         <View style={styles.menubar}>
+          {spinner}
           <TouchableOpacity 
             onPress={this.showSettings.bind(this)}>
                 <Image style={styles.settings} source={{uri:'settings'}} />
@@ -165,15 +166,13 @@ class HomeScreen extends Component {
         </View>
 
         <TouchableOpacity onPress={this.selectPhotoTapped.bind(this)}>
-          <View style={[styles.chosenPhoto, styles.photoContainer, {marginBottom: 20}]}>
+          <View style={[styles.chosenPhoto, styles.photoContainer]}>
           { this.state.chosenPicture === null ? <Text>Select a Photo</Text> :
             <Image style={styles.chosenPhoto} source={this.state.chosenPicture} />
           }
           </View>
         </TouchableOpacity>
-        <View style={{flex:1, marginTop:5}}>
-        {spinner}
-        </View>
+
 
         <View style={styles.languages}>
           <Text numberOfLines={1} style={styles.classification}>
@@ -230,9 +229,7 @@ var device_width = Dimensions.get('window').width;
 const styles = StyleSheet.create({
   menubar:{
     flexDirection: 'row',
-    alignSelf: 'flex-end',
-    alignItems: 'center',
-    marginBottom: 10
+    justifyContent: 'flex-end'
   },
   flag:{
     borderColor: '#9B9B9B',
@@ -250,11 +247,9 @@ const styles = StyleSheet.create({
     marginRight: 10
   },
   languages:{
-    alignItems: 'center',
-    justifyContent: 'center',
     flexDirection: 'row',
-    marginTop: 10,
-    marginBottom: 10
+    justifyContent: 'center',
+    alignItems: 'center'
   },
   classification: {
     color: '#656565',
@@ -270,8 +265,9 @@ const styles = StyleSheet.create({
   },
   container: {
     marginTop: 30,
-    justifyContent: 'center',
-    alignItems: 'center',
+    marginBottom: 30,
+    flex: 1,
+    justifyContent: 'space-between',
   },
   photoContainer: {
     borderColor: '#9B9B9B',

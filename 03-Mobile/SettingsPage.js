@@ -76,11 +76,12 @@ class SettingsPage extends Component {
               headerText='ABOUT' 
               headerStyle={{color:'black', marginTop:50}}/>
             <SettingsList.Item 
-              titleInfo='Some Information' 
+              titleInfo='Demo Expires' 
               hasNavArrow={false} 
-              title='Information Example'/>
-            <SettingsList.Item title='Settings 1'/>
-            <SettingsList.Item title='Settings 2'/>
+              title='Whats This v0.0'/>
+            <SettingsList.Item title='Privacy & Cookies'/>
+            <SettingsList.Item title='Terms of Use'/>
+            <SettingsList.Item title='Open Source Licenses'/>
           </SettingsList>
         </View>
       </View>
