@@ -9,6 +9,8 @@ This project goes through an end-to-end example of using Azure services to:
 
 ![alt tag](demo/mobile_android.JPG)
 
+[Latest Build](build/app-release.apk)
+
 ### iPhone
 
 ![alt tag](demo/mobile_ios.JPG)
