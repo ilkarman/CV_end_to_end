@@ -1,8 +1,11 @@
 # Deep Learning (ResNet) on Mobile App
 
-[Web-App Link](http://ilkarmanwhatsthis.azurewebsites.net/)
+[Web-App Demo](http://ilkarmanwhatsthis.azurewebsites.net/)
+
 [Tutorial: Installing CNTK and MXNet on Azure Web-App](02-WebApp/AzureWebApp.md)
+
 Tutorial: Deploying CNTK Model on Azure Web-App (coming soon ...)
+
 Tutorial: Deploying CNTK Model on VM Scale-Set (coming soon ...)
 
 This project goes through an end-to-end example of using Azure services to:
