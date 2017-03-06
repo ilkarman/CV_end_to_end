@@ -1,4 +1,4 @@
-# Installing Python 3.5 (x64) and MXNet on Azure Web Apps
+# Installing Python 3.5 (x64), CNTK & MXNet on Azure Web Apps
 
 Result: http://ikwebappdemo.azurewebsites.net/
 
@@ -253,3 +253,57 @@ Result: http://ikwebappdemo.azurewebsites.net/
 	If anything goes wrong using the Kudu console (or FTP) head to wwwroot/logs to see the python error.
 
 27. You can now modify the code to create your own web-app and bring in any extra packages your code requires
+
+## E - CNTK
+
+28. Go to https://github.com/Microsoft/CNTK/releases and download the latest version of the Windows CPU-only CNTK, which for me is "CNTK for Windows v.2.0 Beta 11 CPU only" and extract the contents
+
+29. Using your FTP-client connect to your website and copy the contents of the extracted cntk folder into '/site/wwwroot' so that you have the following structure
+	```
+	-wwwroot
+	--cntk
+	---cntk
+	----python
+	---- ... dll files
+	```
+
+30. Activate your virtual environment and pip install the CNTK wheel:
+	```
+	(env) cd D:\home\site\wwwroot\cntk\cntk\python
+	pip install cntk-2.0.beta11.0-cp35-cp35m-win_amd64.whl
+	```
+
+31. Update your 'runserver.py' path to now include the directory of cntk (not just MXNET):
+	```
+	os.environ["PATH"] = r"D:\home\site\wwwroot\cntk\cntk;D:\home\site\wwwroot\env\lib\site-packages\numpy\core;D:\home\site\wwwroot\MXNET\lib;D:\home\site\wwwroot\MXNET\3rdparty\cudnn;D:\home\site\wwwroot\MXNET\3rdparty\cudnn\bin;D:\home\site\wwwroot\MXNET\3rdparty\cudart;D:\home\site\wwwroot\MXNET\3rdparty\vc;D:\home\site\wwwroot\MXNET\3rdparty\gnuwin;D:\home\site\wwwroot\MXNET\3rdparty\openblas\bin;D:\home\site\wwwroot\env\Scripts;" + os.environ['PATH']
+	```
+
+32. To test everything is working, update the contents of your 'model.py' file in 'WebApp' to the below:
+	```
+	from flask import render_template
+	import PIL
+	import scipy
+	import sklearn
+	import mxnet as mx
+	import numpy as np
+	import cntk
+	import pkg_resources
+	from WebApp import app
+
+	@app.route("/")
+	def index():
+	    message = "Hello World!"
+	    return render_template('index.html', **locals())
+	    
+	@app.route("/cntk")
+	def cntk_ver():
+	    message = "CNTK version: {}".format(pkg_resources.get_distribution("cntk").version)
+	    return render_template('index.html', **locals())
+	```
+
+	We add another entry-point (.../cntk) which will print the version of CNTK we have installed
+
+33. Restart your web-app and go to: http://ikwebappdemo.azurewebsites.net/cntk where you should see:
+	```
+	CNTK version: 2.0.beta11.0
+	```
