@@ -11,7 +11,7 @@ This project goes through an end-to-end example of using Azure services to:
 
 [Tutorial: Installing CNTK and MXNet on Azure Web-App](02-WebApp/AzureWebApp.md)
 
-Tutorial: Deploying CNTK Model on Azure Web-App (coming soon ...)
+[Tutorial: CNTK Demo on Azure Web-App](https://github.com/ilkarman/Azure-WebApp-w-CNTK/)
 
 Tutorial: Deploying CNTK Model on VM Scale-Set (coming soon ...)
 
