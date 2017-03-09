@@ -13,6 +13,8 @@ This project goes through an end-to-end example of using Azure services to:
 
 [Tutorial: CNTK Demo on Azure Web-App](https://github.com/ilkarman/Azure-WebApp-w-CNTK/)
 
+[Check out step-by-step YouTube](https://youtu.be/nMZ8lTo-96k)
+
 Tutorial: Deploying CNTK Model on VM Scale-Set (coming soon ...)
 
 ### Android
