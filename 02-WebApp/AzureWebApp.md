@@ -1,7 +1,5 @@
 # Installing Python 3.5 (x64), CNTK & MXNet on Azure Web Apps
 
-Result: http://ikwebappdemo.azurewebsites.net/
-
 ## A - Prepare Material
 
 1. Create a folder-structure like the below:
@@ -303,7 +301,10 @@ Result: http://ikwebappdemo.azurewebsites.net/
 
 	We add another entry-point (.../cntk) which will print the version of CNTK we have installed
 
-33. Restart your web-app and go to: http://ikwebappdemo.azurewebsites.net/cntk where you should see:
+33. Restart your web-app and go to: http://<yourwebiste>.azurewebsites.net/cntk where you should see:
 	```
 	CNTK version: 2.0.beta11.0
 	```
+## F - Tensorflow & Keras (coming soon ...)
+
+34. Should just be a pip install from the virtual environment (coming soon ...)
