@@ -1,4 +1,6 @@
-# Installing Python 3.5 (x64), CNTK & MXNet on Azure Web Apps
+# Install Python3(x64), CNTK, MXNet, Tensorflow & Keras on Azure Web Apps
+
+[Result](http://ikwebappdemo.azurewebsites.net/)
 
 ## A - Prepare Material
 
@@ -267,6 +269,7 @@
 
 30. Activate your virtual environment and pip install the CNTK wheel:
 	```
+	env\Scripts\activate
 	(env) cd D:\home\site\wwwroot\cntk\cntk\python
 	pip install cntk-2.0.beta11.0-cp35-cp35m-win_amd64.whl
 	```
@@ -305,6 +308,11 @@
 	```
 	CNTK version: 2.0.beta11.0
 	```
-## F - Tensorflow & Keras (coming soon ...)
+## F - Tensorflow & Keras
 
-34. Should just be a pip install from the virtual environment (coming soon ...)
+34. Activate your virtual environment and pip install both of these:
+	```
+	env\Scripts\activate
+	(env) pip install tensorflow
+	(env) pip install keras
+	```
