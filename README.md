@@ -9,7 +9,7 @@ This project goes through an end-to-end example of using Azure services to:
 
 ### Tutorials
 
-[Tutorial: Installing CNTK and MXNet on Azure Web-App](02-WebApp/AzureWebApp.md)
+[Tutorial: Installing CNTK, MXNet, Tensorflow and Keras on Azure Web-App](02-WebApp/AzureWebApp.md)
 
 [Tutorial: CNTK Demo on Azure Web-App](https://github.com/ilkarman/Azure-WebApp-w-CNTK/)
 

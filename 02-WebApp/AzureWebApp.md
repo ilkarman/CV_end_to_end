@@ -2,6 +2,8 @@
 
 [Result](http://ikwebappdemo.azurewebsites.net/)
 
+![alt tag](result.JPG)
+
 ## A - Prepare Material
 
 1. Create a folder-structure like the below:
