@@ -25,7 +25,7 @@
 	if __name__ == '__main__':
 		# This is just for debugging
 		app.run(host='0.0.0.0', port=5005)
-	``
+	```
 
 4. Pip install flask and gunicorn (to deploy flask):
 	```
