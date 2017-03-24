@@ -11,7 +11,7 @@ This project goes through an end-to-end example of using Azure services to:
 
 Soon Azure Container Services will accept a CNTK docker image and deploy that to a kubernetes cluster!
 
-[See Here](00-Resnet/ACS Deploy.ipynb) for more info
+[See Here](00-Resnet/ACS%20Deploy.ipynb) for more info
 
 ### Tutorials
 
