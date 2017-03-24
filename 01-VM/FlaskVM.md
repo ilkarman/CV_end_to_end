@@ -1,10 +1,10 @@
 # Setup Flask, Gunicorn, Nginx on Ubuntu 
 
-1. Using Azure Portal created VM Ubuntu Server 14.04 LTS (Standard DS2 v2 - only for this demo), then during 'creation' added 'inbound security rule' to 'network security group' called ('flaskrule') to allow inbound connections from port 80
+1. Using Azure Portal create VM Ubuntu Server 14.04 LTS (Standard DS2 v2 - only for this demo), then during 'creation' add 'inbound security rule' to 'network security group' called ('flaskrule') to allow inbound connections from port 80
 
-2. After deployment added a custom DNS name label: "iliasmalltest.centralus.cloudapp.azure.com"
+2. After deployment add a custom DNS name label: "iliasmalltest.centralus.cloudapp.azure.com"
 
-3. Create my sample python-script:
+3. Create sample python-script:
 	```
 	mkdir flask_app
 	cd flask_app

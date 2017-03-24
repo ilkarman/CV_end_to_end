@@ -7,6 +7,12 @@ This project goes through an end-to-end example of using Azure services to:
 1. Integrate your own deep-learning project with a mobile app
 2. Integrate existing Azure APIs with a mobile app
 
+## Update (23/03/2017):
+
+Soon Azure Container Services will accept a CNTK docker image and deploy that to a kubernetes cluster!
+
+[See Here](00-Resnet\ACS Deploy.ipynb) for more info
+
 ### Tutorials
 
 [Tutorial: Installing CNTK, MXNet, Tensorflow and Keras on Azure Web-App](02-WebApp/AzureWebApp.md)
@@ -15,7 +21,7 @@ This project goes through an end-to-end example of using Azure services to:
 
 [Check out step-by-step YouTube](https://youtu.be/nMZ8lTo-96k)
 
-Tutorial: Deploying CNTK Model on VM Scale-Set (coming soon ...)
+[Tutorial: Setting up Flask, Gunicorn, Supervisor on VM](01-VM/FlaskVM.md)
 
 ### Android
 
