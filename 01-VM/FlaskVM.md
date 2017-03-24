@@ -47,6 +47,7 @@
 	tmux a -t 0
 	Ctrl+C
 	Ctrl+B+D
+	```
 
 6. Make sure we have nginx and supervisor:
 	```
