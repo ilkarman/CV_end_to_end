@@ -92,7 +92,7 @@
 	sudo service nginx restart
 	```
 
-8. Setup supervisor (we could also use system to create unit|service|install instead) to keep our app running using gunicorn:
+8. Setup supervisor (we could also use systemd to create unit|service|install instead) to keep our app running using gunicorn:
 	```
 	sudo nano /etc/supervisor/conf.d/flaskdeploy.conf
 	```
