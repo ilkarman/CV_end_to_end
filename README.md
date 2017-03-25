@@ -13,6 +13,8 @@ Soon Azure Container Services will accept a CNTK docker image and deploy that to
 
 [See Here](00-Resnet/ACS%20Deploy.ipynb) for more info
 
+Work in Progress: [Deploy CNTK to Azure Web App Linux - Docker](02-WebApp/Deploying%2BDocker%2Bto%2BAzure%2BWeb%2BApps.ipynb)
+
 ### Tutorials
 
 [Tutorial: Installing CNTK, MXNet, Tensorflow and Keras on Azure Web-App](02-WebApp/AzureWebApp.md)
