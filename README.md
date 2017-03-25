@@ -7,13 +7,13 @@ This project goes through an end-to-end example of using Azure services to:
 1. Integrate your own deep-learning project with a mobile app
 2. Integrate existing Azure APIs with a mobile app
 
-## Update (23/03/2017):
+## Update (25/03/2017):
 
 Soon Azure Container Services will accept a CNTK docker image and deploy that to a kubernetes cluster!
 
 [See Here](00-Resnet/ACS%20Deploy.ipynb) for more info
 
-Work in Progress: [Deploy CNTK to Azure Web App Linux - Docker](02-WebApp/Deploying%2BDocker%2Bto%2BAzure%2BWeb%2BApps.ipynb)
+Work in Progress: [Deploy CNTK to Azure Web App Linux - Docker](02-WebApp/CNTK%2BDocker%2BWeb%2BApp.ipynb)
 
 ### Tutorials
 
